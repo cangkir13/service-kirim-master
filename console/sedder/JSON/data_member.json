@@ -1,0 +1,5002 @@
+[
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "Hilal-Bogor2 Hilal L",
+		"email" : "",
+		"telp" : "081807278131",
+		"nama_penerima" : "Hilal L",
+		"alamat" : "Jl. Raya Gunung Putri",
+		"status" : 1,
+		"id_location" : 10486
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "Luqito Medan Luqito",
+		"email" : "hilal.lucky@",
+		"telp" : "081807278131",
+		"nama_penerima" : "Luqito",
+		"alamat" : "Test jakarta",
+		"status" : 1,
+		"id_location" : 78840
+	},
+	{
+		"id_member" : "IDYAID003449",
+		"jenis_alamat" : "alamat konsumen emilia asni",
+		"email" : "triandykcbs@gmail.com",
+		"telp" : "081299096753",
+		"nama_penerima" : "emilia asni",
+		"alamat" : "komplek cipulir permai blok w no 14 a",
+		"status" : 1,
+		"id_location" : 4573
+	},
+	{
+		"id_member" : "IDBNID010505",
+		"jenis_alamat" : "Kp.Manggasari RT.01 RW.07 UDIN SAEPUDIN",
+		"email" : "udinsaepudin@gmail.com",
+		"telp" : "085778889922",
+		"nama_penerima" : "UDIN SAEPUDIN",
+		"alamat" : "Kp.Manggasari RT.01 RW.07 desa Gunung ari Pamijahan kab bogor",
+		"status" : 1,
+		"id_location" : 8815
+	},
+	{
+		"id_member" : "IDSPAAB30745",
+		"jenis_alamat" : "Alamat rumah Komalasari",
+		"email" : "komalahilmi@gmail.com",
+		"telp" : "081292265522",
+		"nama_penerima" : "Komalasari",
+		"alamat" : "Jalan Langgar rt 07 \/ 08 no. 3. ",
+		"status" : 1,
+		"id_location" : 4641
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "Konsumen Artauli siregar",
+		"email" : "",
+		"telp" : "085297231166",
+		"nama_penerima" : "Artauli siregar",
+		"alamat" : "Jln Aso aso no 75 sibolga, Kelurahan Pancuran pinang, kotamadia sibolga. hp 085297231166. Sumatera Utara",
+		"status" : 1,
+		"id_location" : 81058
+	},
+	{
+		"id_member" : "EID1130214",
+		"jenis_alamat" : "Kavling NATO blok D 4 no 47 . Batu Aji Batam 47 Siska Tiorenta Simatupang",
+		"email" : "siskasimatupang9@gmail.com",
+		"telp" : "081276044046",
+		"nama_penerima" : "Siska Tiorenta Simatupang ",
+		"alamat" : "Kavling NATO blok D4 no 47 Batu Aji RT 002RW 004",
+		"status" : 1,
+		"id_location" : 37277
+	},
+	{
+		"id_member" : "IDJHID000572",
+		"jenis_alamat" : "Alamat Rumah Bapak Ihsan\/ Bu Nova",
+		"email" : "dodoline01@gmail.com",
+		"telp" : "08126064421",
+		"nama_penerima" : "Bapak Ihsan\/ Bu Nova",
+		"alamat" : "Perumahan Staff A ( komplek manager kebun ) PTPN 4 unit usaha kebun pasir mandoge.",
+		"status" : 1,
+		"id_location" : 76471
+	},
+	{
+		"id_member" : "IDYAID003449",
+		"jenis_alamat" : "Order 140819 andi abdul hamzah",
+		"email" : "triandykcbs@gmail.com",
+		"telp" : "08124172707",
+		"nama_penerima" : "andi abdul hamzah",
+		"alamat" : "Griya Samata Permai, S.P.3, No. 14, Borong Taopa, Jl. Mustafa Daeng Bunga, Samping SDN Paccinongang Unggulan",
+		"status" : 1,
+		"id_location" : 63922
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "Alamat Rumah Toha Moh. Toha",
+		"email" : "",
+		"telp" : "081275675329",
+		"nama_penerima" : "Moh. Toha",
+		"alamat" : "Jl. Jend. Sudirman RT.03 RW.02",
+		"status" : 1,
+		"id_location" : 61140
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "Alamat Bintang Lely Sartika Bintang Lely Sartika",
+		"email" : "dedetnaswira@gmail.com",
+		"telp" : "081275661979",
+		"nama_penerima" : "Bintang Lely Sartika",
+		"alamat" : "RRI Pekanbaru Jalan Sudirman 440",
+		"status" : 1,
+		"id_location" : 61767
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "Alamat Sigit kamseno Sigit kamseno",
+		"email" : "dedetnaswira@gmail.com",
+		"telp" : "081286733081",
+		"nama_penerima" : "Sigit kamseno",
+		"alamat" : "Jl. Rawa Ciberem RT.01 RW.02",
+		"status" : 1,
+		"id_location" : 7362
+	},
+	{
+		"id_member" : "IDBNID010505",
+		"jenis_alamat" : "Jl.raya km 9 Perawang barat Johny syuhazmi",
+		"email" : "jhony@yahoo.com",
+		"telp" : "085271646666",
+		"nama_penerima" : "Johny syuhazmi",
+		"alamat" : "Jl.raya km 9 Perawang barat",
+		"status" : 1,
+		"id_location" : 62375
+	},
+	{
+		"id_member" : "IDYAID003449",
+		"jenis_alamat" : "ORDER 150819 TARDI",
+		"email" : "triandykcbs@gmail.com",
+		"telp" : "085881477505",
+		"nama_penerima" : "TARDI",
+		"alamat" : "ln M.Nasir Kamp Bendungan No.109 RT 01\/06 kel.Cilodong kec.Cilodong Depok",
+		"status" : 1,
+		"id_location" : 11272
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "Konsumen Kacamata IonNano Lusi Hastri",
+		"email" : "",
+		"telp" : "082385844789",
+		"nama_penerima" : "Lusi Hastri ",
+		"alamat" : "Ibu Guru Lusi Hastri. Smk N 1 Kandis, Jl Hang tuah Km 73 Kelurahan Telaga Sam-Sam Kecamatan Kandis Kabupaten Siak Provinsi Riau",
+		"status" : 1,
+		"id_location" : 62278
+	},
+	{
+		"id_member" : "IDBNID010505",
+		"jenis_alamat" : "Jl. Yafdas kampung baru no 45, samofa Paul",
+		"email" : "paul@gmail.com",
+		"telp" : "081229543120",
+		"nama_penerima" : "Paul",
+		"alamat" : "Jl. Yafdas kampung baru no 45, samofa",
+		"status" : 1,
+		"id_location" : 54028
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Cihaur 1 Saung Tumaritis Kartini",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081288672",
+		"nama_penerima" : "Kartini",
+		"alamat" : "Cihaur 1 (Saung Tumaritis)",
+		"status" : 1,
+		"id_location" : 10983
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Sukajaya Heny Ardianti",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "085294956583",
+		"nama_penerima" : "Heny Ardianti",
+		"alamat" : "Jln Sukajaya 1 No.35 RT 04 RW 04 Cibabat Cimahi Utara",
+		"status" : 1,
+		"id_location" : 11245
+	},
+	{
+		"id_member" : "IDJHID000572",
+		"jenis_alamat" : "Alamat Kantor Jeine Singon",
+		"email" : "dodoline01@gmail.com",
+		"telp" : "082191421618",
+		"nama_penerima" : "Jeine Singon",
+		"alamat" : "Kantor Camat Ratahan Timur di Desa Wioi Satu",
+		"status" : 1,
+		"id_location" : 71843
+	},
+	{
+		"id_member" : "IDSPAAB26641",
+		"jenis_alamat" : "Sukamulya Karlia sapta",
+		"email" : "abelia535@gmail.com",
+		"telp" : "082176633334",
+		"nama_penerima" : "Karlia sapta",
+		"alamat" : "Jln.sukamulya RT 08\/02",
+		"status" : 1,
+		"id_location" : 39447
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "Dahlan Dahlan",
+		"email" : "dedetnaswira@gmail.com",
+		"telp" : "082157236670",
+		"nama_penerima" : "Dahlan",
+		"alamat" : "PT. Kaltim Methanol Industri, Wisma KIE Kompleks Pupuk Kaltim",
+		"status" : 1,
+		"id_location" : 35910
+	},
+	{
+		"id_member" : "IDSPAAB30725",
+		"jenis_alamat" : "KONTRAKAN RATI SEPTA AMELIA",
+		"email" : "ratih0109@gmail.com",
+		"telp" : "081213444024",
+		"nama_penerima" : "RATI SEPTA AMELIA",
+		"alamat" : "JL.IRIGASI SIPON NO 127 RT\/RW 05\/10 SEBERANG PESANTREN DARUL HASAN",
+		"status" : 1,
+		"id_location" : 2157
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "TEST",
+		"email" : "wahyu.utomo109@gmail.com",
+		"telp" : "081800000",
+		"nama_penerima" : "TEST NAMA",
+		"alamat" : "ALAMAT",
+		"status" : 1,
+		"id_location" : 4397
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "Alfred Rekko Gunawan Alfred Rekko Gunawan",
+		"email" : "alfred@gmail.com",
+		"telp" : "082173151433",
+		"nama_penerima" : "Alfred Rekko Gunawan",
+		"alamat" : "Griya Asih Blok H34, RT.04 RW.02",
+		"status" : 1,
+		"id_location" : 37337
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "test test",
+		"email" : "test@yopmail.com",
+		"telp" : "08989898",
+		"nama_penerima" : "test",
+		"alamat" : "test alamat",
+		"status" : 1,
+		"id_location" : 30326
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "alamat ulang tahun yopi",
+		"email" : "yopy.arnoldy@gmail.com",
+		"telp" : "08222423123",
+		"nama_penerima" : "yopi",
+		"alamat" : "asdasd",
+		"status" : 1,
+		"id_location" : 4267
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "testAA testAA",
+		"email" : "test@yopmail.com",
+		"telp" : "08111",
+		"nama_penerima" : "testAA",
+		"alamat" : "jakarta AA",
+		"status" : 1,
+		"id_location" : 4607
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "SARNAWANTI HASNUN KENDARI SARNAWANTI HASNUN",
+		"email" : "",
+		"telp" : "082191341200",
+		"nama_penerima" : "SARNAWANTI HASNUN",
+		"alamat" : "Jl. Tinaorima No.12 Kelurahan Anaiwoi ",
+		"status" : 1,
+		"id_location" : 68614
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Kantor Bersama Samsat Hj Teti Agustin",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "087820352149",
+		"nama_penerima" : "Hj Teti Agustin",
+		"alamat" : "Kantor Bersama Samsat Jl.Raya Bandung KM 3 Desa Sabandar Kec Karang Tengah (Samping Kantor Pengadilan Agama)",
+		"status" : 1,
+		"id_location" : 9908
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Imam Bonjol No 13 Hariatia",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081366341118",
+		"nama_penerima" : "Hariatia",
+		"alamat" : "Jln Imam Bonjol No.13 C Telanaipura Jambi",
+		"status" : 1,
+		"id_location" : 5458
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "Rumah Blasius Kumanireng Blasius Kumanireng",
+		"email" : "dedetnaswira@gmail.com",
+		"telp" : "081380627218",
+		"nama_penerima" : "Blasius Kumanireng",
+		"alamat" : "Jl. Pisang Mas Raya 179-A",
+		"status" : 1,
+		"id_location" : 12529
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "Syifa Alazkiya",
+		"email" : "",
+		"telp" : "081349692077",
+		"nama_penerima" : "Syifa Alazkiya",
+		"alamat" : "jln. P. H.M. Noor MAN 1 TABALONG kab. Tabalong kalsel atas nama bapa saprudin",
+		"status" : 1,
+		"id_location" : 33722
+	},
+	{
+		"id_member" : "EID027383",
+		"jenis_alamat" : "Rumah 1 Ernawati",
+		"email" : "ernawati.se2385@gmail.com",
+		"telp" : "087825711126",
+		"nama_penerima" : "Ernawati",
+		"alamat" : "Komp. Griya Prima Asri Jl. Nuri Blok D1 No. 12 RT. 04 RW. 13",
+		"status" : 1,
+		"id_location" : 12771
+	},
+	{
+		"id_member" : "IDJTBSA04104",
+		"jenis_alamat" : "Alamat Rumah Wawan Misgiyanto",
+		"email" : "sentanaa@gmail.com",
+		"telp" : "082316859343",
+		"nama_penerima" : "Wawan Misgiyanto",
+		"alamat" : "Jl. Embah Malim No. 147, Rt 02\/18",
+		"status" : 1,
+		"id_location" : 9736
+	},
+	{
+		"id_member" : "EID136347",
+		"jenis_alamat" : "Rumah Jokk",
+		"email" : "J",
+		"telp" : "081227574838",
+		"nama_penerima" : "Jokk",
+		"alamat" : "Jl tambak deres",
+		"status" : 1,
+		"id_location" : 29283
+	},
+	{
+		"id_member" : "IDBNID010505",
+		"jenis_alamat" : "Pasar satu rel gang melati 10 Ugi Permana",
+		"email" : "ugipermana@gmail.com",
+		"telp" : "08116330061",
+		"nama_penerima" : "Ugi Permana",
+		"alamat" : "Pasar satu rel gang melati 10",
+		"status" : 1,
+		"id_location" : 78889
+	},
+	{
+		"id_member" : "IDJRAAA15668",
+		"jenis_alamat" : "Alamat rumah Rika",
+		"email" : "cindyfaricca@gmail.com",
+		"telp" : "085258032678",
+		"nama_penerima" : "Rika",
+		"alamat" : "Jl ambulu jember dusun krajan selatan kertonegoro jenggawah jember",
+		"status" : 1,
+		"id_location" : 23335
+	},
+	{
+		"id_member" : "IDJTBAA12756",
+		"jenis_alamat" : "Alamat Rumah Bambang Purnama",
+		"email" : "bambang.purnama.ca@gmail.com",
+		"telp" : "087788891211",
+		"nama_penerima" : "Bambang Purnama",
+		"alamat" : "Jl. Kol. A. Syam No. 152 RT 03 RW 09 Desa Sayang Kecamatan Jatinangor Kabupaten Sumedang Jawa Barat 45363",
+		"status" : 1,
+		"id_location" : 10240
+	},
+	{
+		"id_member" : "IDJRAHA09521",
+		"jenis_alamat" : "ALAMAT RUMAH NIKKY ANIS SUROIYAH",
+		"email" : "nikky.anis@gmail.com",
+		"telp" : "082244904110",
+		"nama_penerima" : "NIKKY ANIS SUROIYAH",
+		"alamat" : "JL. RAYA PASINAN RT 003\/ RW 010 DSN. PASINAN",
+		"status" : 1,
+		"id_location" : 23809
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "SULAWESI TENGAH RAHMA LAJUBI",
+		"email" : "",
+		"telp" : "085218379013",
+		"nama_penerima" : "RAHMA LAJUBI",
+		"alamat" : "Kantor Desa Biak Jl. Trans Sulawesi, Dusun 1 Biak Luwuk Utara, Baggai. Sulawesi Tengah ",
+		"status" : 1,
+		"id_location" : 66235
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "BANGGAI RAHMA LAJUBI",
+		"email" : "",
+		"telp" : "085218379013",
+		"nama_penerima" : "RAHMA LAJUBI",
+		"alamat" : "Kantor Desa Biak Jl. Trans Sulawesi, Dusun 1 Biak Luwuk Utara, Baggai. Sulawesi Tengah ",
+		"status" : 1,
+		"id_location" : 66235
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Cikarro Rusli Dg Gau",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "082311698911",
+		"nama_penerima" : "Rusli Dg Gau",
+		"alamat" : "Cikarro Desa Pallantikang",
+		"status" : 1,
+		"id_location" : 63970
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "BTN Pao Pao Permai E4 23 Husnul Khatimah",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "085396127457",
+		"nama_penerima" : "Husnul Khatimah",
+		"alamat" : "BTN Pao Pao Permai Blok E4 23",
+		"status" : 1,
+		"id_location" : 63928
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Pondok Pesantren Munifah Muiz",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081291841580",
+		"nama_penerima" : "Munifah Muiz",
+		"alamat" : "Pondok Pesantren Riyadlul Jannah Jln Raya Industri Sempugardu",
+		"status" : 1,
+		"id_location" : 11498
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Patori GMIM Lucy Lumunon",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "085796200165",
+		"nama_penerima" : "Lucy Lumunon",
+		"alamat" : "Pastori GMIM Syalom",
+		"status" : 1,
+		"id_location" : 71434
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jl Jend Suedirman No 188 189 Tiorida Tambunan",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "085381796929",
+		"nama_penerima" : "Tiorida Tambunan",
+		"alamat" : "Jln Jendral Soedirman No 188 189 RT 04 RW 06 Duri Mandau",
+		"status" : 1,
+		"id_location" : 60628
+	},
+	{
+		"id_member" : "IDSPAAB27522",
+		"jenis_alamat" : "Alamat rumah Pipit Hapita",
+		"email" : "pipithapita@gmail.com",
+		"telp" : "08568786338",
+		"nama_penerima" : "Pipit Hapita",
+		"alamat" : "JALAN BB GANG CC CIPINANG MUARA RT 007 RW 004 NO. 23 KELURAHAN CIPINANG MUARA KECAMATAN JATINEGARA JAKARTA TIMUR 13420",
+		"status" : 1,
+		"id_location" : 4603
+	},
+	{
+		"id_member" : "EID400073",
+		"jenis_alamat" : "dusun angkasa wa marni mane",
+		"email" : "muti.sany@gmail.com",
+		"telp" : "085255025201",
+		"nama_penerima" : "wa marni mane",
+		"alamat" : "dusun angkasa",
+		"status" : 1,
+		"id_location" : 4764
+	},
+	{
+		"id_member" : "IDKRID002135AT",
+		"jenis_alamat" : "ALAMAT RUMAH EPI",
+		"email" : "an745.andi@gmail.com",
+		"telp" : "081311149977",
+		"nama_penerima" : "EPI",
+		"alamat" : "TELAGA INDAH RT.006 RW.001",
+		"status" : 1,
+		"id_location" : 4417
+	},
+	{
+		"id_member" : "IDKRID002135AT",
+		"jenis_alamat" : "rumah SULISTYANI",
+		"email" : "suliskza76@gmail.com",
+		"telp" : "082210187448",
+		"nama_penerima" : "SULISTYANI",
+		"alamat" : "bukit tiara blok.T 2 no.16A RT.42",
+		"status" : 1,
+		"id_location" : 2307
+	},
+	{
+		"id_member" : "IDJTAXA07756",
+		"jenis_alamat" : "ALAMAT RUMAH 01 ARDIANSYAH",
+		"email" : "pps.ardy@gmail.com",
+		"telp" : "085722475333",
+		"nama_penerima" : "ARDIANSYAH",
+		"alamat" : "KP. SITU SAEUR RT.005 RW.011",
+		"status" : 1,
+		"id_location" : 12085
+	},
+	{
+		"id_member" : "IDJTAXA07756",
+		"jenis_alamat" : "Rumah 01 ARDIANSYAH",
+		"email" : "pps.ardy@gmail.com",
+		"telp" : "085722475333",
+		"nama_penerima" : "ARDIANSYAH",
+		"alamat" : "KP. SITU SAEUR RT.005 RW.011 ",
+		"status" : 1,
+		"id_location" : 12085
+	},
+	{
+		"id_member" : "IDKRID002135AT",
+		"jenis_alamat" : "PERUMAHAN YUSTIN",
+		"email" : "andi.2137@gmail.com",
+		"telp" : "082291900968",
+		"nama_penerima" : "YUSTIN",
+		"alamat" : "JL.KEINDAHAN, BTP BLOK.AA NO.217 RT.004 RW.021",
+		"status" : 1,
+		"id_location" : 64782
+	},
+	{
+		"id_member" : "IDKRID002135AT",
+		"jenis_alamat" : "rumah ivana massie",
+		"email" : "andi.2137@gmail.com",
+		"telp" : "08114359444",
+		"nama_penerima" : "IVANA MASSIE",
+		"alamat" : "JL.WOLTER MONGINSIDI (BENGKEL LINGLING MOTOR MALALAYANG, DEPAN APOTIK KIMIA FARMA)",
+		"status" : 1,
+		"id_location" : 71279
+	},
+	{
+		"id_member" : "IDJTADA08340",
+		"jenis_alamat" : "rumah muhammad ravanelli gibran",
+		"email" : "ravanelli.gibran96@gmail.com",
+		"telp" : "08987015474",
+		"nama_penerima" : "muhammad ravanelli gibran",
+		"alamat" : "kp rawa bugel rt 001\/003 no 101",
+		"status" : 1,
+		"id_location" : 12524
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "IonNano Syifa Alazkiya",
+		"email" : "",
+		"telp" : "081349692077",
+		"nama_penerima" : "Syifa Alazkiya",
+		"alamat" : "Syifa Alazkiya jln. P. H.M. Noor MAN 1 TABALONG kab. Tabalong kalsel atas nama bapa saprudin. kelurahan sulingan, kecamatan murung pudak, kabupaten tabalong, propinsi Kalimantan selatan. no hp: 081349692077",
+		"status" : 1,
+		"id_location" : 33722
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "Alamat Fachima Fachima Daeng Salasa",
+		"email" : "fachima@gmail.com",
+		"telp" : "081253270827",
+		"nama_penerima" : "Fachima Daeng Salasa",
+		"alamat" : "RT. 01 LK.1",
+		"status" : 1,
+		"id_location" : 70957
+	},
+	{
+		"id_member" : "IDKRID002135AT",
+		"jenis_alamat" : "Andi Andi",
+		"email" : "",
+		"telp" : "08828282882",
+		"nama_penerima" : "Andi",
+		"alamat" : "test hallooo",
+		"status" : 1,
+		"id_location" : 4453
+	},
+	{
+		"id_member" : "IDJRBFA08976",
+		"jenis_alamat" : "RUMAH AGUNG MARGONO",
+		"email" : "agungmargono25@gmail.com",
+		"telp" : "085655327906",
+		"nama_penerima" : "AGUNG MARGONO",
+		"alamat" : "DUSUN PANDEWATAN RT 04 RW 03 PUNGGUL GEDANGAN SIDOARJO JAWA TIMUR 61254",
+		"status" : 1,
+		"id_location" : 28516
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Toko Sinar Konveksi Misna",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "082369273727",
+		"nama_penerima" : "Misna",
+		"alamat" : "Toko sinar konveksi jln perdagangan no 1 sigli",
+		"status" : 1,
+		"id_location" : 48283
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "dinas koperasi Anne Destiana",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "082214713381",
+		"nama_penerima" : "Anne Destiana",
+		"alamat" : "Dinas koperasi jl soekarno hatta 705",
+		"status" : 1,
+		"id_location" : 12336
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Brengosan Susie Harsono",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081584718088",
+		"nama_penerima" : "Susie Harsono",
+		"alamat" : "brengosan rt 01 rw 07",
+		"status" : 1,
+		"id_location" : 4232
+	},
+	{
+		"id_member" : "IDJHBCA12500",
+		"jenis_alamat" : "Desa Ngembat kembang kragilan Fita Rumantir",
+		"email" : "fitarumantir@gmail.com",
+		"telp" : "085293968404",
+		"nama_penerima" : "Fita Rumantir",
+		"alamat" : "Ngembat kembang rt12 rw03 kragilan gemolong srageN jateng 57274 indonesia",
+		"status" : 1,
+		"id_location" : 19523
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "penjahit mutiara Hafizdah Rahma",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081258184827",
+		"nama_penerima" : "Hafizdah Rahma",
+		"alamat" : "Jln raya gajah mada rt 08",
+		"status" : 1,
+		"id_location" : 35915
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "Konsumen kacamata Atika Dewi",
+		"email" : "",
+		"telp" : "081373734944",
+		"nama_penerima" : "Atika Dewi",
+		"alamat" : "atika dewiAlamat Lengkapdirektorat reserse umum polda sumsel jl jenderal sudirman km 3 5 palembangKelurahanDesa pahlawanKecamatan kemuningKabupaten kota palembabgPropinsi sumatra selatanNo Hp 081373734944 ",
+		"status" : 1,
+		"id_location" : 76281
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "ALAMAT RUMAH 01 hilal Rumah",
+		"email" : "hilal.lucky@gmail.comw...",
+		"telp" : "081807278131",
+		"nama_penerima" : "hilal Rumah",
+		"alamat" : "test tobelo",
+		"status" : 1,
+		"id_location" : 42275
+	},
+	{
+		"id_member" : "IDSPAAB30563",
+		"jenis_alamat" : "Alamat Rumah Akhmad Wahyudi",
+		"email" : "masbedi2404@gmail.com",
+		"telp" : "082218435988",
+		"nama_penerima" : "Akhmad Wahyudi",
+		"alamat" : "Ds Dukupuntang no 64 Rt 04 Rw 01kecamatan Dukupuntang Kabupaten Cirebon",
+		"status" : 1,
+		"id_location" : 10630
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Apotek Restu Bunda Rusda Yeni",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "082285701702",
+		"nama_penerima" : "Rusda Yeni",
+		"alamat" : "Apotek Restu Bunda Dalam Terminal Gumanti",
+		"status" : 1,
+		"id_location" : 73091
+	},
+	{
+		"id_member" : "IDJRAUA02019",
+		"jenis_alamat" : "Alamat Rumah Supriadi",
+		"email" : "jamangsupra2017@gmail.com",
+		"telp" : "081335612618",
+		"nama_penerima" : "Supriadi",
+		"alamat" : "RT 02 RW 02Dsn Salam RejoDs KebonagungKec KebonagungKab PacitanJawa Timur",
+		"status" : 1,
+		"id_location" : 26681
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Raharja Iwan Prakoso",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "082125004498",
+		"nama_penerima" : "Iwan Prakoso",
+		"alamat" : "Jln Raharja No 9 Pondok",
+		"status" : 1,
+		"id_location" : 4578
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Perum Graha Mutiara Danjo",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081337909445",
+		"nama_penerima" : "Danjo",
+		"alamat" : "Perum Graha Mutiara III 64 Abian Base Mengwi Badung 80351",
+		"status" : 1,
+		"id_location" : 685
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Klinik Annisa Wawan Ismawan",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "085324599800",
+		"nama_penerima" : "Wawan Ismawan",
+		"alamat" : "Klinik Annisa RT 02 RW 02 Dsn Pajaten Desa Pajaten",
+		"status" : 1,
+		"id_location" : 8020
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jl Gergaji Bu Erna",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "085234567741",
+		"nama_penerima" : "Bu Erna",
+		"alamat" : "Jl Gergaji 4 No 1128",
+		"status" : 1,
+		"id_location" : 14671
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Cahaya Cempaka Residence Rahma",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081290823332",
+		"nama_penerima" : "Rahma",
+		"alamat" : "Cahaya Cempaka Residence Blok Tengah No B3 Jl Ikan Tomboro",
+		"status" : 1,
+		"id_location" : 25407
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Bumi Rancaekek Kencana Lilis Suryani",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "082130513520",
+		"nama_penerima" : "Lilis Suryani",
+		"alamat" : "Bumi Rancaekek Kencana Jln Melur 4 No 105 RT 04 RW 15 Blok 15",
+		"status" : 1,
+		"id_location" : 8243
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Roku Sepanjang Town House Tini Surachman",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "08123169128",
+		"nama_penerima" : "Tini Surachman",
+		"alamat" : "Ruko Sepanjang Town House Blok C No 10",
+		"status" : 1,
+		"id_location" : 28692
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Kombos Timur Rosalina Tampanatu",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081355937110",
+		"nama_penerima" : "Rosalina Tampanatu",
+		"alamat" : "Kombos Timur Lingk 3 Parigi Tujuh Belakang Kosan Damai",
+		"status" : 1,
+		"id_location" : 71308
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "BALI NI MADE SUPARTINI",
+		"email" : "abdulkadir5469@gmail.com",
+		"telp" : "085857170266",
+		"nama_penerima" : "NI MADE SUPARTINI",
+		"alamat" : "Br Kedewatan Anyar No15Kel KadewatanKec UbudKab GinanyarBali",
+		"status" : 1,
+		"id_location" : 1
+	},
+	{
+		"id_member" : "IDMNID001382",
+		"jenis_alamat" : "Kantor FES YUNARTO GOH",
+		"email" : "fivewen@gmail.com",
+		"telp" : "08163116137",
+		"nama_penerima" : "YUNARTO GOH",
+		"alamat" : "JL KEMANG SELATAN II NO 2AFRIEDRICH EBERT STIFTUNG ",
+		"status" : 1,
+		"id_location" : 4520
+	},
+	{
+		"id_member" : "IDMNID001382",
+		"jenis_alamat" : "Apartemen City Park YUNARTO AWEN",
+		"email" : "fivewen@gmail.com",
+		"telp" : "08163116137",
+		"nama_penerima" : "YUNARTO AWEN",
+		"alamat" : "APARTEMEN CITY PARK TOWER F LT 10 NO 12 JALAN RAYA KAPUK CENGKARENG ",
+		"status" : 1,
+		"id_location" : 4658
+	},
+	{
+		"id_member" : "IDMNID001382",
+		"jenis_alamat" : "Rumah Medan IBU ONG MIE HON",
+		"email" : "fivewen@gmail.com",
+		"telp" : "085361388688",
+		"nama_penerima" : "IBU ONG MIE HON",
+		"alamat" : "IBU ONG MEI HONGJL PINANG BARIS II PASAR 5 GANG PETISAH NO 5K ",
+		"status" : 1,
+		"id_location" : 78919
+	},
+	{
+		"id_member" : "EID1174497",
+		"jenis_alamat" : "Alamat Rumah Maya Keripik Pisang",
+		"email" : "mayadul5758@gmail.com",
+		"telp" : "082225836247",
+		"nama_penerima" : "Maya Keripik Pisang",
+		"alamat" : "Mbuludan rt 1 rw 2 kedondong gajah demak",
+		"status" : 1,
+		"id_location" : 19666
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "Sekar Kudus Florentina Peni Purbayanti",
+		"email" : "dedetnaswira@gmail.com",
+		"telp" : "081380666298",
+		"nama_penerima" : "Florentina Peni Purbayanti",
+		"alamat" : "Jalan Tukad Nyali Gang 8 No 6",
+		"status" : 1,
+		"id_location" : 545
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "Alamat Siti mardiana Siti Mardiana",
+		"email" : "dedetnaswira@gmail.com",
+		"telp" : "081364718842",
+		"nama_penerima" : "Siti Mardiana",
+		"alamat" : "SDN 001 Singkep BaratJl Soekarno Hatta KM 17 Kampung Tengah",
+		"status" : 1,
+		"id_location" : 37567
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "alamat bustanul M Bustanul Arifin",
+		"email" : "dedetnaswira@gmail.com",
+		"telp" : "085749012296",
+		"nama_penerima" : "M Bustanul Arifin",
+		"alamat" : "RT 05 RW 01",
+		"status" : 1,
+		"id_location" : 26304
+	},
+	{
+		"id_member" : "IDNTAGA02756",
+		"jenis_alamat" : "Alamat Rumah 01 Heru Juliansyah",
+		"email" : "herujulians@gmail.com",
+		"telp" : "082359568472",
+		"nama_penerima" : "Heru Juliansyah",
+		"alamat" : "ExitoNet dibelakang Indomaret Taman Tiang Nam Gang ke 2 Belok Kiri Lingkungan TiangNam",
+		"status" : 1,
+		"id_location" : 50329
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "Rosalina Tampanatu Rosalina Tampanatu",
+		"email" : "",
+		"telp" : "081355937110",
+		"nama_penerima" : "Rosalina Tampanatu",
+		"alamat" : "Kombos timur lingk 3 parigi tujuh belakang kosan damai",
+		"status" : 1,
+		"id_location" : 71309
+	},
+	{
+		"id_member" : "IDNTAGA02756",
+		"jenis_alamat" : "Kantor DAHLIA",
+		"email" : "herujulians@gmail.com",
+		"telp" : "082359563374",
+		"nama_penerima" : "DAHLIA",
+		"alamat" : "Dinas Penanaman Modal DPMPTSP Jalan Bung Karno Komplek KTC Samping Kantor Pol PP",
+		"status" : 1,
+		"id_location" : 50332
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "endang cod ENDANG",
+		"email" : "dedetnaswira@gmail.com",
+		"telp" : "081902786385",
+		"nama_penerima" : "ENDANG",
+		"alamat" : "Simpang Tiga Jl SMP IT Darul HikmahAlt HP 083187377939",
+		"status" : 1,
+		"id_location" : 72672
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Balai Veteriner Sesniwati",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081363349601",
+		"nama_penerima" : "Sesniwati",
+		"alamat" : "Balai Veteriner Bukit Tinggi Jln Raya Bukit Tinggi Payakumbuh KM 14",
+		"status" : 1,
+		"id_location" : 72118
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "BTN Andi Tinro Mulyana",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081141400110",
+		"nama_penerima" : "Mulyana",
+		"alamat" : "BTN Andi Tinro Permai Blok A 20 No 18",
+		"status" : 1,
+		"id_location" : 63928
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "PDAM Tirta Wijaya Siti Chomsiyah SE",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081391920220",
+		"nama_penerima" : "Siti Chomsiyah SE",
+		"alamat" : "PDAM Tirta Wijaya Cilacap Jln MT Haryono 16",
+		"status" : 1,
+		"id_location" : 19988
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Raya Cipanas Ema Mariam",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081809523748",
+		"nama_penerima" : "Ema Mariam",
+		"alamat" : "Jln Raya Cipanas No 211 RT 04 RW 05",
+		"status" : 1,
+		"id_location" : 11105
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Desa Umu Megawati K Saadullah",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "082190299528",
+		"nama_penerima" : "Megawati K Saadullah",
+		"alamat" : "Desa Umu Kec paleleh Kab Buol",
+		"status" : 1,
+		"id_location" : 66711
+	},
+	{
+		"id_member" : "IDJHAHA05225",
+		"jenis_alamat" : "ALAMAT RUMAH SRI MULYAMARDIAN ASTUTI",
+		"email" : "tuties00@gmail.com",
+		"telp" : "085742997711",
+		"nama_penerima" : "SRI MULYAMARDIAN ASTUTI",
+		"alamat" : "JL TANGKUBAN PERAHU NO 21 RT 03 RW 01DESA DUKUHSALAMKEC SLAWIKAB TEGAL",
+		"status" : 1,
+		"id_location" : 14489
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Riau Perum Maharani Irnita",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "082281268357",
+		"nama_penerima" : "Irnita",
+		"alamat" : "Jln Riau Perum Maharani Blok Zamrud II No 3",
+		"status" : 1,
+		"id_location" : 871
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Karya Kasih Sovia Elisa",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "08116106290",
+		"nama_penerima" : "Sovia Elisa",
+		"alamat" : "Jln Karya Kasih Perum Palem Indah Johor No 5 B",
+		"status" : 1,
+		"id_location" : 78856
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Mastrip Perumnas Henny Setiyawati",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "085233002521",
+		"nama_penerima" : "Henny Setiyawati",
+		"alamat" : "Jln Mastrip Perumnas Blok C No 4",
+		"status" : 1,
+		"id_location" : 27719
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Paliran Ni Kadek Sriasih",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "087771814649",
+		"nama_penerima" : "Ni Kadek Sriasih",
+		"alamat" : "Jln paliran No 9 br Buwitan",
+		"status" : 1,
+		"id_location" : 63
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Girame Munawiroh",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "0818161164",
+		"nama_penerima" : "Munawiroh",
+		"alamat" : "Jln Girame III C No 32 Bambu Apus RT 05 RW 01",
+		"status" : 1,
+		"id_location" : 1553
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Kantor Mariyam",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "08129900512",
+		"nama_penerima" : "Mariyam",
+		"alamat" : "Kantor Kel Pegangsaan Dua PA 3 No 8",
+		"status" : 1,
+		"id_location" : 4565
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Perumahan Agus Setiawan",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "085356595361",
+		"nama_penerima" : "Agus Setiawan",
+		"alamat" : "Taman Valencia Blok H 20",
+		"status" : 1,
+		"id_location" : 37269
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM Ion Nano Ida Rosida Salon Sukses",
+		"email" : "",
+		"telp" : "081312660952",
+		"nama_penerima" : "Ida Rosida Salon Sukses",
+		"alamat" : "Ida RosidaSalon SuksesKp Bageur RT16 RW40Kel Sukarapih Kec Sukarame KabTasikmalaya PropJawa Barat No Hp081312660952",
+		"status" : 1,
+		"id_location" : 7705
+	},
+	{
+		"id_member" : "ID999A01085",
+		"jenis_alamat" : "Home 1 novariany",
+		"email" : "novi_banka@yahoo.co.id",
+		"telp" : "08127518517",
+		"nama_penerima" : "novariany",
+		"alamat" : "Jl Lembaga No 22A Tangkerang Utara Bukit Raya Pekanbaru Riau 28289",
+		"status" : 1,
+		"id_location" : 61748
+	},
+	{
+		"id_member" : "IDJHBCA14086",
+		"jenis_alamat" : "Alamat kantor Yohana Anies R",
+		"email" : "yhn7158@yahoo.com",
+		"telp" : "089629005629",
+		"nama_penerima" : "Yohana Anies R",
+		"alamat" : "CV Bintang Mitra MuliaJl Demak Bintoro Rt 6 Rw 8 Praon Nusukan Solo 57135 telp 0271720328",
+		"status" : 1,
+		"id_location" : 21069
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "PEKANBARU AZIZAH",
+		"email" : "abdulkadir5469@gmail.com",
+		"telp" : "085311901922",
+		"nama_penerima" : "AZIZAH",
+		"alamat" : "Ummy LaundryJl Manyar SaktiKelurahan Tuah Karya TampanPekanbaruRiau",
+		"status" : 1,
+		"id_location" : 61797
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "SINGKAWANG Rizka Mustika",
+		"email" : "abdulkadir5469@gmail.com",
+		"telp" : "085247238321",
+		"nama_penerima" : "Rizka Mustika",
+		"alamat" : "Jl RA Kartini Gang Patora Dalam 2 Blok C No 3 KananKelurahan Sekip LamaKec Singkawang TengahKota Singkawang Kalimantan Barat ",
+		"status" : 1,
+		"id_location" : 31878
+	},
+	{
+		"id_member" : "IDJHACA03272",
+		"jenis_alamat" : "Rumah Teguh prastyo",
+		"email" : "karyautama109@gmail.com",
+		"telp" : "085868786748",
+		"nama_penerima" : "Teguh prastyo",
+		"alamat" : "Krajan RT 02 RW 01 secang1",
+		"status" : 1,
+		"id_location" : 16287
+	},
+	{
+		"id_member" : "IDKTAIA00295",
+		"jenis_alamat" : "Alamat Singkawang Dhany Masrouri",
+		"email" : "dhanymasrouri@gmail.com",
+		"telp" : "085252265141",
+		"nama_penerima" : "Dhany Masrouri",
+		"alamat" : "JLN DEMANG AKUB RT001 RW001RUMAH TK2 SEBELAH GERBANG BTN SINKA",
+		"status" : 1,
+		"id_location" : 31885
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "Distributor Qibtiyah",
+		"email" : "",
+		"telp" : "085263509914",
+		"nama_penerima" : "Qibtiyah",
+		"alamat" : "Ustaz Harmen Hadi El HaromainRUMAH TAARUF QU YOGYAKARTAJalan Jati Pratama No 228 RT 16 RW 40 Karangjati Kutu Dukuh Sinduadi Kec Mlati Kabupaten Sleman Daerah Istimewa Yogyakarta CP 082170408673Pos 55284",
+		"status" : 1,
+		"id_location" : 4249
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM IonNano EPARADITUS",
+		"email" : "",
+		"telp" : "082147734672",
+		"nama_penerima" : "EPARADITUS",
+		"alamat" : "EPARADITUSAlamat RT 01 RW 1Kelurahan KabirKecamatan PantarKabupaten AlorPropinsi NTTNomor Hp 082147734672",
+		"status" : 1,
+		"id_location" : 50447
+	},
+	{
+		"id_member" : "IDJHBCA14186",
+		"jenis_alamat" : "Alamat rumah",
+		"email" : "Tidakada",
+		"telp" : "085866308464",
+		"nama_penerima" : "Shinta mariyana handayani",
+		"alamat" : "Dusun dalangan rt 01Rw 05 kelurahan campursari Kecamatan bulu Kabupaten temanggung Jawa tengah",
+		"status" : 1,
+		"id_location" : 20230
+	},
+	{
+		"id_member" : "IDBNID010505",
+		"jenis_alamat" : "Jl Raya Gunung salak Endah Herlambang",
+		"email" : "Herlambang12@gmail.com",
+		"telp" : "085715959799",
+		"nama_penerima" : "Herlambang",
+		"alamat" : "Jl Raya Gunung Salak Endah Kampung pasar jumat rt02 rw05 ",
+		"status" : 1,
+		"id_location" : 8815
+	},
+	{
+		"id_member" : "EID056854",
+		"jenis_alamat" : "Alamat Kantor Sujadmiko",
+		"email" : "jadmiko.lamtim@gmail.com",
+		"telp" : "081273526024",
+		"nama_penerima" : "Sujadmiko",
+		"alamat" : "Jl merdeka no19 Braja Sakti 4",
+		"status" : 1,
+		"id_location" : 38770
+	},
+	{
+		"id_member" : "EID056854",
+		"jenis_alamat" : "Alamat Rumah Sujadmiko",
+		"email" : "jadmiko.lamtim@gmail.com",
+		"telp" : "081273526024",
+		"nama_penerima" : "Sujadmiko",
+		"alamat" : "Dusun Margayu II RT 021 RW 004",
+		"status" : 1,
+		"id_location" : 38772
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Jendral Sudirman Rya",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "082250281412",
+		"nama_penerima" : "Rya",
+		"alamat" : "Jln Jendral Sudirman No 622 Padang Baru",
+		"status" : 1,
+		"id_location" : 72142
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Raya Labuan Kartirini",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081213129933",
+		"nama_penerima" : "Kartirini",
+		"alamat" : "Jln Raya Labuan KM 19 Kp Saketi Pasir RT 01 RW 01 Desa Saketi",
+		"status" : 1,
+		"id_location" : 1365
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Universitas Trisakti Erna Setiawati",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081298848779",
+		"nama_penerima" : "Erna Setiawati",
+		"alamat" : "Universitas Trisakti Geg M Lantai 8 Baku Jln Kiyai Tapa No 1",
+		"status" : 1,
+		"id_location" : 4612
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Cipinang Anty",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081282115709",
+		"nama_penerima" : "Anty",
+		"alamat" : "Jln Cipinang Muara 2 RT 7 RW 2 No 76",
+		"status" : 1,
+		"id_location" : 4625
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Villa Mutiara Gading Neni Sumarni",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081381921614",
+		"nama_penerima" : "Neni Sumarni",
+		"alamat" : "Villa Mutiara Gading 2 Blok C4 No 1 RT 07 RW 024 Desa Karang Satria",
+		"status" : 1,
+		"id_location" : 7354
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Abd Dg Sirua Aisyah Icha",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081354576777",
+		"nama_penerima" : "Aisyah Icha",
+		"alamat" : "Jln Abd Dg Sirua No 41",
+		"status" : 1,
+		"id_location" : 64749
+	},
+	{
+		"id_member" : "EID548670",
+		"jenis_alamat" : "FB Linda Ilela Daniel Thomas Ilela",
+		"email" : "galuh.inspiradzi@gmail.com",
+		"telp" : "082239279323",
+		"nama_penerima" : "Daniel Thomas Ilela",
+		"alamat" : "JALAN SADAR RT 003 RW 002",
+		"status" : 1,
+		"id_location" : 40910
+	},
+	{
+		"id_member" : "EID548670",
+		"jenis_alamat" : "Ludmilla Gaffar Mila Gaffar",
+		"email" : "galuh.inspiradzi@gmail.com",
+		"telp" : "087775751108",
+		"nama_penerima" : "Mila Gaffar",
+		"alamat" : "JALAN KARYAMINA NO 90 ANDARA UJUNG",
+		"status" : 1,
+		"id_location" : 11158
+	},
+	{
+		"id_member" : "EID548670",
+		"jenis_alamat" : "MERRY BALI MERRY NATALIA KOMALING",
+		"email" : "galuh.inspiradzi@gmail.com",
+		"telp" : "081547584814",
+		"nama_penerima" : "MERRY NATALIA KOMALING",
+		"alamat" : "THE OKA JALAN PURI GRENCENG NO 10 DEPAN TRI HOMESTAY KAMAR NO 01",
+		"status" : 1,
+		"id_location" : 347
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Bojongkoneng Euis Tita",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081224866436",
+		"nama_penerima" : "Euis Tita",
+		"alamat" : "Bojongkoneng RT 03 RW 13 Desa Rancamanyar Jln Nusa No 13",
+		"status" : 1,
+		"id_location" : 12775
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "SMP N 2 Sakra Rauhun Spd",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081997683413",
+		"nama_penerima" : "Rauhun Spd",
+		"alamat" : "Jln Soekarno Hatta SMP N 2 Sakra",
+		"status" : 1,
+		"id_location" : 49888
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Desa Rancamanyar Euis Tita",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081224866436",
+		"nama_penerima" : "Euis Tita",
+		"alamat" : "Bojongkoneng RT 03 RW 13 Jln Nusa No 13",
+		"status" : 1,
+		"id_location" : 12775
+	},
+	{
+		"id_member" : "IDSBAFA00758",
+		"jenis_alamat" : "ALAMAT KANTOR LILIS LISMIAWATI",
+		"email" : "lovely.bolis@gmail.com",
+		"telp" : "082129092968",
+		"nama_penerima" : "LILIS LISMIAWATI",
+		"alamat" : "PT ADIRA FINANCE JL TERUSAN PASIRKOJA NO 43 BANDUNG",
+		"status" : 1,
+		"id_location" : 12839
+	},
+	{
+		"id_member" : "IDJRAAA11358",
+		"jenis_alamat" : "Alamat rumah Nanik Nurfaristaningsih",
+		"email" : "naniknur99@yahoo.com",
+		"telp" : "085222909398",
+		"nama_penerima" : "Nanik Nurfaristaningsih",
+		"alamat" : "Jalan Hasan Assegaf Gg Annur 2 Rt 4 RW 3",
+		"status" : 1,
+		"id_location" : 28914
+	},
+	{
+		"id_member" : "IDBNID010505",
+		"jenis_alamat" : "widia astuti gosend Widia Astuti",
+		"email" : "widia@gmail.com",
+		"telp" : "085219864102",
+		"nama_penerima" : "Widia Astuti",
+		"alamat" : "Kantor Suban AsetGedung Walikota Jakarta Pusat Blok D Lantai 5Jl Tanah Abang 1 No 1",
+		"status" : 1,
+		"id_location" : 4623
+	},
+	{
+		"id_member" : "IDJHAHA05225",
+		"jenis_alamat" : "Alamat Kantor SRI MULYAMARDIAN ASTUTI",
+		"email" : "tuties00@gmail.com",
+		"telp" : "085742997711",
+		"nama_penerima" : "SRI MULYAMARDIAN ASTUTI",
+		"alamat" : "SMP NEGERI 2 SLAWIJl Dr Cipto Mangunkusumo No 8Dukuhsalam SlawiTegal",
+		"status" : 1,
+		"id_location" : 14489
+	},
+	{
+		"id_member" : "IDMUID001880",
+		"jenis_alamat" : "Alamat Kantor Dewi Ambarwati",
+		"email" : "maminholle@gmail.com",
+		"telp" : "082122819620",
+		"nama_penerima" : "Dewi Ambarwati",
+		"alamat" : "Klinik JLARukan Permata SenayanBlok E No 31",
+		"status" : 1,
+		"id_location" : 4575
+	},
+	{
+		"id_member" : "IDJTBHA07489",
+		"jenis_alamat" : "Jl Raya Guntur No 102 Andre Abdul Salim",
+		"email" : "andre.guntur30@gmail.com",
+		"telp" : "081214042842",
+		"nama_penerima" : "Andre Abdul Salim",
+		"alamat" : "Jl Raya Guntur no 102 Garut kota",
+		"status" : 1,
+		"id_location" : 10577
+	},
+	{
+		"id_member" : "IDSPAAB22615",
+		"jenis_alamat" : "alamat rumah 01 Aria rama",
+		"email" : "ariarayyana@gmail.com",
+		"telp" : "081369935083",
+		"nama_penerima" : "Aria rama",
+		"alamat" : "JL KH GHOLIB GANG DAHLIA RT 004 RW 001 NO 79 LINGKUNGAN V PRINGSEWU UTARA KECAMATAN PRINGSEWU KAB PRINGSEWU LAMPUNG 35373",
+		"status" : 1,
+		"id_location" : 39528
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "Andi Adam COD Andi Adam",
+		"email" : "dedetnaswira@gmail.com",
+		"telp" : "081341576111",
+		"nama_penerima" : "Andi Adam",
+		"alamat" : "Jalan Jend Ahmad Yani BTN II Blok A1",
+		"status" : 1,
+		"id_location" : 68658
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "eddy liriwan COD Eddy Liriwan",
+		"email" : "dedetnaswira@gmail.com",
+		"telp" : "082198882224",
+		"nama_penerima" : "Eddy Liriwan",
+		"alamat" : "Jalan Wailola Bula",
+		"status" : 1,
+		"id_location" : 41327
+	},
+	{
+		"id_member" : "IDBNID000752",
+		"jenis_alamat" : "Alamat konsumen 1 Sidowati",
+		"email" : "frhn.rfh@gmail.com",
+		"telp" : "085729005264",
+		"nama_penerima" : "Sidowati",
+		"alamat" : "Sowanan RT 01 RW 03 Ngablak Kecamatan Ngablak Kab Magelang Propinsi Jawa Tengah ",
+		"status" : 1,
+		"id_location" : 16455
+	},
+	{
+		"id_member" : "IDBNID010505",
+		"jenis_alamat" : "AHMAD COD AHMAD MUKHLIS",
+		"email" : "mukhlis@gmail.com",
+		"telp" : "081318248295",
+		"nama_penerima" : "AHMAD MUKHLIS",
+		"alamat" : "JL KALIBATA TIMUR GANG KECAPI RT 08 RW 10 NO 15 ",
+		"status" : 1,
+		"id_location" : 4496
+	},
+	{
+		"id_member" : "EID548670",
+		"jenis_alamat" : "Nurkamid NURKAMID",
+		"email" : "galuh.inspiradzi@gmail.com",
+		"telp" : "082141555005",
+		"nama_penerima" : "NURKAMID",
+		"alamat" : "Poli Gigi RS DarmoJalan Raya Darmo No 99",
+		"status" : 1,
+		"id_location" : 29401
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "PONDOK GEDE NIBA AERU OLSHOP",
+		"email" : "abdulkadir5469@gmail.com",
+		"telp" : "081316951409",
+		"nama_penerima" : "NIBA AERU OLSHOP",
+		"alamat" : "Jl Masjid Al Arifiyah RT1 RW7 No 75AJATIWARINGIN PONDOK GEDEbEKASI jAWA BARAT",
+		"status" : 1,
+		"id_location" : 8390
+	},
+	{
+		"id_member" : "IDSACOA06016",
+		"jenis_alamat" : "Rumah Rika Abdi",
+		"email" : "rika.angraini219@gmail.com",
+		"telp" : "089686374113",
+		"nama_penerima" : "Rika Abdi",
+		"alamat" : "Jl Walet No 103",
+		"status" : 1,
+		"id_location" : 3691
+	},
+	{
+		"id_member" : "IDJRXYA09448",
+		"jenis_alamat" : "alamat rumah 01 ROHATININGSIH",
+		"email" : "firdy.borneo@gmail.com",
+		"telp" : "085234587886",
+		"nama_penerima" : "ROHATININGSIH",
+		"alamat" : "JL TRUNOJOYO RT 42 RW 04",
+		"status" : 1,
+		"id_location" : 25626
+	},
+	{
+		"id_member" : "IDBNID000752",
+		"jenis_alamat" : "Alamat konsumen 2 Winarti Humi Kartini",
+		"email" : "frhn.rfh@gmail.com",
+		"telp" : "085328766686",
+		"nama_penerima" : "Winarti Humi Kartini",
+		"alamat" : "Karangtengah RT 0102 Kecamatan wanayasaKabKota banjarnegaraPropinsi Jawa tengah",
+		"status" : 1,
+		"id_location" : 13352
+	},
+	{
+		"id_member" : "IDSSANA03415",
+		"jenis_alamat" : "KANTOR LURAH MALAKKE SITTI RUSNI TAMRIN",
+		"email" : "didiharyadi23180@gmal.com",
+		"telp" : "085343847987",
+		"nama_penerima" : "SITTI RUSNI TAMRIN",
+		"alamat" : "JL H PATTOLA NO 54 TOKADDE KANTOR LURAH MALAKKE ",
+		"status" : 1,
+		"id_location" : 65881
+	},
+	{
+		"id_member" : "IDSPAAA64298",
+		"jenis_alamat" : "IGD RS Parindu Filipus Patrio",
+		"email" : "filipusoppo@gmail.com",
+		"telp" : "082157470982",
+		"nama_penerima" : "Filipus Patrio",
+		"alamat" : "IGD RS Parindu Desa Binjai Kecamatan Tayan Hulu Kabupaten Sanggau Kalimantan Barat",
+		"status" : 1,
+		"id_location" : 31761
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Babakan Yanti Ekasari",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "08164635874",
+		"nama_penerima" : "Yanti Ekasari",
+		"alamat" : "Jln Babakan Limbangan No 48 RT 02 RW 21 Desa Sukaraja",
+		"status" : 1,
+		"id_location" : 7733
+	},
+	{
+		"id_member" : "IDYAID000191",
+		"jenis_alamat" : "Alamat Rumah Ibu Ema",
+		"email" : "",
+		"telp" : "081310167110",
+		"nama_penerima" : "Ibu Ema",
+		"alamat" : "Jln wr supratman 30B Kelurahan cempaka putih Kecamatan ciputat timur Kabupaten Tangerang selatan Profinsi Banten ",
+		"status" : 1,
+		"id_location" : 2144
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "Alamat Kaltim",
+		"email" : "",
+		"telp" : "085247463499",
+		"nama_penerima" : "Surina",
+		"alamat" : "Jl Rusa No 73 RT005",
+		"status" : 1,
+		"id_location" : 35862
+	},
+	{
+		"id_member" : "IDBNID010505",
+		"jenis_alamat" : "Kman Cash Bima Suhendar Rambo",
+		"email" : "Bimasuhen@gmail.com",
+		"telp" : "082315031149",
+		"nama_penerima" : "Bima Suhendar Rambo",
+		"alamat" : "kampung sukahayu Rt13 Rw 05 Sumedang",
+		"status" : 1,
+		"id_location" : 8555
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "Alamat Kaltim1",
+		"email" : "",
+		"telp" : "085247463499",
+		"nama_penerima" : "Surina",
+		"alamat" : "Jl Rusa No 73 RT005",
+		"status" : 1,
+		"id_location" : 35862
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Gajah Mada Hafizdah Rahma",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081258184627",
+		"nama_penerima" : "Hafizdah Rahma",
+		"alamat" : "Jln Gajah Mada RT 8 Kelurahan Barong Tongkok",
+		"status" : 1,
+		"id_location" : 35915
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Siswa",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "082237217366",
+		"nama_penerima" : "Alfonsus Gare",
+		"alamat" : "Jln Siswa Lingkungan 3 No 77",
+		"status" : 1,
+		"id_location" : 71316
+	},
+	{
+		"id_member" : "IDSPAAB29414",
+		"jenis_alamat" : "Kantor M Panji Sukarno",
+		"email" : "mpanjisukarno@yahoo.com",
+		"telp" : "087777651977",
+		"nama_penerima" : "M Panji Sukarno",
+		"alamat" : "PERTAMINA Kantor Pusat Gedung Utama lantai 5 Jl Medan Merdeka Timur 1A Jakarta Pusat",
+		"status" : 1,
+		"id_location" : 4621
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Jend Sudirman",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "082152751575",
+		"nama_penerima" : "Sri Haryani",
+		"alamat" : "Jln Jend Sudirman RT 16 RW 01",
+		"status" : 1,
+		"id_location" : 32822
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "Dian serang cash Dian Setiati",
+		"email" : "dedetnaswira@gmail.com",
+		"telp" : "081911201113",
+		"nama_penerima" : "Dian Setiati",
+		"alamat" : "Kompleks RSS Pemda Blok C3 No 7",
+		"status" : 1,
+		"id_location" : 2168
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Soho Pancoran Retno",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081290858571",
+		"nama_penerima" : "Retno",
+		"alamat" : "Soho Pancoran Jln MT Haryono Kav 2 3 Tebet",
+		"status" : 1,
+		"id_location" : 4411
+	},
+	{
+		"id_member" : "IDSABOA01481",
+		"jenis_alamat" : "Alamat Kantor Supri Hartono",
+		"email" : "braincomunication@yahoo.co.id",
+		"telp" : "085838612133",
+		"nama_penerima" : "Supri Hartono",
+		"alamat" : "LKP BRAIN COMUNICATIONJalan Sribungur Desa Jatibaru Kec Tanjung Bintang",
+		"status" : 1,
+		"id_location" : 38173
+	},
+	{
+		"id_member" : "IDSPAAB25948",
+		"jenis_alamat" : "Rumah 01 Adi Sulhardi",
+		"email" : "adisulhardi@yahoo.com",
+		"telp" : "081219293987",
+		"nama_penerima" : "Adi Sulhardi",
+		"alamat" : "Jl Brigjen H Saptadji Hadi Prawira Win Del Rio Town House Blok E6",
+		"status" : 1,
+		"id_location" : 12486
+	},
+	{
+		"id_member" : "IDJTAJA06415",
+		"jenis_alamat" : "rumah Putri Oktaviani Fatimah",
+		"email" : "oktavianifatimahsoedirman@gmail.com",
+		"telp" : "087848224997",
+		"nama_penerima" : "Putri Oktaviani Fatimah",
+		"alamat" : "Blok masjid Darussalam rt01 rw1",
+		"status" : 1,
+		"id_location" : 14935
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Dinas Kominfo Ernes Andityaman Falikres",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081218851110",
+		"nama_penerima" : "Ernes Andityaman Falikres",
+		"alamat" : "Jln Ir Soekarno Saumlaki Dinas Kominfo Lt 4 Kantor Bupati",
+		"status" : 1,
+		"id_location" : 41189
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "rumah Haris",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "081375904445",
+		"nama_penerima" : "Haris",
+		"alamat" : "jalan serayu no123 dusun iv ",
+		"status" : 1,
+		"id_location" : 77316
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "Alamat Retno",
+		"email" : "",
+		"telp" : "081290858571",
+		"nama_penerima" : "Retno",
+		"alamat" : "Soho Pancoran Jl MT Haryono Kav 23 Tebet",
+		"status" : 1,
+		"id_location" : 4411
+	},
+	{
+		"id_member" : "EID548670",
+		"jenis_alamat" : "Aisah pandeglang Aisah",
+		"email" : "galuh.inspiradzi@gmail.com",
+		"telp" : "083819441532",
+		"nama_penerima" : "Aisah",
+		"alamat" : "Kampung Pasir Huni RT 02 RW 01",
+		"status" : 1,
+		"id_location" : 1424
+	},
+	{
+		"id_member" : "EID548670",
+		"jenis_alamat" : "Dila Viva Malang Dila Viva Babyshop",
+		"email" : "galuh.inspiradzi@gmail.com",
+		"telp" : "085755230567",
+		"nama_penerima" : "Dila Viva Babyshop",
+		"alamat" : "Jalan Raya Banjarrejo RT 01 RW 02 No 146",
+		"status" : 1,
+		"id_location" : 25633
+	},
+	{
+		"id_member" : "IDJRBFA07166",
+		"jenis_alamat" : "Alamat Rumah Setyo Handoko",
+		"email" : "",
+		"telp" : "0817866969",
+		"nama_penerima" : "Setyo Handoko",
+		"alamat" : "Dusun Ngadirenggo RT 001 RW 001 Desa Ngadirenggo Kecamatan Wlingi Kabupaten Blitar",
+		"status" : 1,
+		"id_location" : 22249
+	},
+	{
+		"id_member" : "IDPABLA05064",
+		"jenis_alamat" : "Kantor Tuffah",
+		"email" : "tuffah.attamimi@gmail.com",
+		"telp" : "085648445510",
+		"nama_penerima" : "Tuffah",
+		"alamat" : "KH Mas Mansyur 143",
+		"status" : 1,
+		"id_location" : 29341
+	},
+	{
+		"id_member" : "IDJTADA10889",
+		"jenis_alamat" : "ALAMAT RUMAH IBU MARDIYATI",
+		"email" : "mardiyahade@gmail.com",
+		"telp" : "085717046226",
+		"nama_penerima" : "MARDIYATI",
+		"alamat" : "JL RAWA BEBEK NO 29 RT 003 RW 001",
+		"status" : 1,
+		"id_location" : 4670
+	},
+	{
+		"id_member" : "IDSPAAB30803",
+		"jenis_alamat" : "Alamat Rumah Medya Puspa Sari",
+		"email" : "wafiqzahwa@gmail.com",
+		"telp" : "081377256901",
+		"nama_penerima" : "Medya Puspa Sari",
+		"alamat" : "Letkol Hasan Effendi RT 17 RW 06 No 45 Lr Cadas Kel Sungai Putri Kec Telanaipura ",
+		"status" : 1,
+		"id_location" : 5457
+	},
+	{
+		"id_member" : "IDBNAJA06402",
+		"jenis_alamat" : "Alamat Rumah Novi Meristawati",
+		"email" : "vieariesta@gmail.com",
+		"telp" : "085289008301",
+		"nama_penerima" : "Novi Meristawati",
+		"alamat" : "Jl ukir sari RT 07 RW 05 Merapit Ds Ukir Sari kec Bojonegara kab Serang 42454",
+		"status" : 1,
+		"id_location" : 2531
+	},
+	{
+		"id_member" : "IDJHAMA08017",
+		"jenis_alamat" : "RUMAH WIWIN WIJAYANTI",
+		"email" : "adamstorepati@gmail.com",
+		"telp" : "082323342111",
+		"nama_penerima" : "WIWIN WIJAYANTI",
+		"alamat" : "DS TLOGOSARI RT 001 RW 003 KEC TLOGOWUNGU PATIJAWA TENGAH ID",
+		"status" : 1,
+		"id_location" : 13652
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Skip Natje Nusawakan Pelletimu",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "082248226632",
+		"nama_penerima" : "Natje Nusawakan Pelletimu",
+		"alamat" : "Jalan Skip",
+		"status" : 1,
+		"id_location" : 40360
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "SD Naskat Bintang Timur Herson Pangalila",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "085396882898",
+		"nama_penerima" : "Herson Pangalila",
+		"alamat" : "Jln Gonsalo Depan SD Naskat Bintang Timur 3 Gura Belakang",
+		"status" : 1,
+		"id_location" : 42274
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "SMA N 1 Fak Fak Emi Sulistiani",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "082199575060",
+		"nama_penerima" : "Emi Sulistiani",
+		"alamat" : "SMA N 1 Fak Fak Jln K H Dewantara",
+		"status" : 1,
+		"id_location" : 58843
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln MT Haryono Edeltrudis Theresia",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "082144566355",
+		"nama_penerima" : "Edeltrudis Theresia",
+		"alamat" : "Jln MT Haryono RT 04 RW 01",
+		"status" : 1,
+		"id_location" : 52275
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Cikondang Mas Ipin",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081320951615",
+		"nama_penerima" : "Mas Ipin",
+		"alamat" : "Jln Cikondang Blok Rabo RT 009 RW 006 Desa Cikijing",
+		"status" : 1,
+		"id_location" : 11422
+	},
+	{
+		"id_member" : "IDSABJA15347",
+		"jenis_alamat" : "Rumah SYOFRIA N",
+		"email" : "sofie.ayasyofhia@gmail.com",
+		"telp" : "081287691919",
+		"nama_penerima" : "SYOFRIA N",
+		"alamat" : "KompSimprug Diporis Block E2 No24 Rt001 Rw004 Jl Mangga 2 Poris Gaga Baru Batu Ceper Tangerang 15122 Banten",
+		"status" : 1,
+		"id_location" : 2570
+	},
+	{
+		"id_member" : "IDBNID000752",
+		"jenis_alamat" : "Downline Faiqotul Falah",
+		"email" : "frhn.rfh@gmail.com",
+		"telp" : "081347437739",
+		"nama_penerima" : "Faiqotul Falah",
+		"alamat" : "Jl parang klitik no 7 perum rakyat kabangaSondakan Laweyan SurakartaJawa tengah",
+		"status" : 1,
+		"id_location" : 17074
+	},
+	{
+		"id_member" : "IDBNID010505",
+		"jenis_alamat" : "Kman COD 2 Muhammad Yunus",
+		"email" : "riefkyhimawan82@gmail.com",
+		"telp" : "085259249341",
+		"nama_penerima" : "Muhammad Yunus",
+		"alamat" : "Benteng pasar pagi kel Benteng kec Patampanua kab pinrang",
+		"status" : 1,
+		"id_location" : 65175
+	},
+	{
+		"id_member" : "IDSPAAB31537",
+		"jenis_alamat" : "Rumah Dedi Jafar Kholidi",
+		"email" : "djkholidied@gmail.com",
+		"telp" : "081808390814",
+		"nama_penerima" : "Dedi Jafar Kholidi",
+		"alamat" : "Kp Pesisir Rt 04 Rw 02",
+		"status" : 1,
+		"id_location" : 1216
+	},
+	{
+		"id_member" : "IDSUAHA11232",
+		"jenis_alamat" : "Alamat Rumah Weiny Loronaung",
+		"email" : "weiny.loronaung@gmail.com",
+		"telp" : "082291213201",
+		"nama_penerima" : "Weiny Loronaung",
+		"alamat" : "Depan RSUD Jalan GP RajawaliRT 01 RW 06",
+		"status" : 1,
+		"id_location" : 70330
+	},
+	{
+		"id_member" : "IDJRABA07057",
+		"jenis_alamat" : "Toko Mahfud Amin",
+		"email" : "ishom.addien@gmail.com",
+		"telp" : "08568747434",
+		"nama_penerima" : "Mahfud Amin",
+		"alamat" : "Jln Gang Mawar 3 Gang Bor Jual Glugu RT 03 RW 01 Ds Bawang Kec Pesantren Kota Kediri",
+		"status" : 1,
+		"id_location" : 23864
+	},
+	{
+		"id_member" : "IDSUAEA06763",
+		"jenis_alamat" : "alamat rumah 01 setianawati nugroho",
+		"email" : "sethizalalfatih@gmail.com",
+		"telp" : "082188232381",
+		"nama_penerima" : "setianawati nugroho",
+		"alamat" : "depan rumah om salman",
+		"status" : 1,
+		"id_location" : 71591
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Kompleks Perumahan Dr Riris B",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081316300656",
+		"nama_penerima" : "Dr Riris B",
+		"alamat" : "Kompleks Perumahan Taman Widya Asri Blok F1 No 9 Serang",
+		"status" : 1,
+		"id_location" : 1336
+	},
+	{
+		"id_member" : "EID1276300",
+		"jenis_alamat" : "Rumah Misto",
+		"email" : "ahmadmisto36@gmail.com",
+		"telp" : "082334121536",
+		"nama_penerima" : "Misto",
+		"alamat" : "RT 03 RW 01 Dusun Laspoleng Desa Selokgondang",
+		"status" : 1,
+		"id_location" : 24849
+	},
+	{
+		"id_member" : "IDJHBHA07588",
+		"jenis_alamat" : "Alamat Nenden Widowati",
+		"email" : "dentinenden@gmail.com",
+		"telp" : "082314916848",
+		"nama_penerima" : "Nenden Widowati",
+		"alamat" : "Jl Bantir 5 RT01 RW05Depan Terminal Sumowono",
+		"status" : 1,
+		"id_location" : 14190
+	},
+	{
+		"id_member" : "IDJTAXA07878",
+		"jenis_alamat" : "Alamat rumah RAHMALIA",
+		"email" : "liarahmalia7@gmail.com",
+		"telp" : "0895414812007",
+		"nama_penerima" : "RAHMALIA",
+		"alamat" : "Jl pabuaran kulon gg KUD no 88 rt 004 rw 005 desa cibanteng kecamatan ciampea kabupaten bogor",
+		"status" : 1,
+		"id_location" : 12182
+	},
+	{
+		"id_member" : "IDJTYBA02891",
+		"jenis_alamat" : "Alamat Rumah Yeni Yuniarti",
+		"email" : "yuniartiyeni2106@gmail.com",
+		"telp" : "081381936165",
+		"nama_penerima" : "Yeni Yuniarti ",
+		"alamat" : "Kp Cibogo Gang Priyai RT 002 RW 001 No 37",
+		"status" : 1,
+		"id_location" : 12064
+	},
+	{
+		"id_member" : "IDJRAAA16351",
+		"jenis_alamat" : "Alamat Rumah Teguh Wahyudi",
+		"email" : "rafifgogo@gmail.com",
+		"telp" : "082143270028",
+		"nama_penerima" : "Teguh Wahyudi",
+		"alamat" : "Jl Raya Sukosari Lor No30 Rt05 Rw03 Sukosari Lor",
+		"status" : 1,
+		"id_location" : 22834
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Desa Cikijing Ipin",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081320951615",
+		"nama_penerima" : "Ipin",
+		"alamat" : "Jln Cikondang Blok Rabo RT 009 RW 006 Desa Cikijing",
+		"status" : 1,
+		"id_location" : 11422
+	},
+	{
+		"id_member" : "IDJRBEA08427",
+		"jenis_alamat" : "Alamat Rumah Dora Hermawan",
+		"email" : "dorahermawan@gmail.com",
+		"telp" : "08125215082",
+		"nama_penerima" : "Dora Hermawan",
+		"alamat" : "Perum Sulfat Garden D 5Jl Simpang L A SuciptoMalang",
+		"status" : 1,
+		"id_location" : 25374
+	},
+	{
+		"id_member" : "EID548670",
+		"jenis_alamat" : "FEBBE MINAHASA Febbe Makese",
+		"email" : "galuh.inspiradzi@gmail.com",
+		"telp" : "085242378055",
+		"nama_penerima" : "Febbe Makese",
+		"alamat" : "PANASEN JAGA 3 ",
+		"status" : 1,
+		"id_location" : 71373
+	},
+	{
+		"id_member" : "IDKRAEA10102",
+		"jenis_alamat" : "Rumah Erdaini hernalis",
+		"email" : "erdainiherlanis26@gmail.com",
+		"telp" : "082244556626",
+		"nama_penerima" : "Erdaini hernalis",
+		"alamat" : "Jl Sungai Raya Dalam Komp Royal Serdam Residence 1 No C5",
+		"status" : 1,
+		"id_location" : 31401
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM IonNano Trf Ardiaz",
+		"email" : "",
+		"telp" : "082197792054",
+		"nama_penerima" : "Ardiaz",
+		"alamat" : "ArdiazAlamat Lengkap Jln MAMBRUK PASAR LAMA RT 05 RW III SENTANI WARUNG JATIM TULUNG AGUNGKelurahanDesa Sentani KotaKecamatan Jayapura SelatanKabupaten JayapuraPropinsi PapuaNo Hp 082197792054",
+		"status" : 1,
+		"id_location" : 54552
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "alamat Yopi Papua",
+		"email" : "",
+		"telp" : "085723456754",
+		"nama_penerima" : "Yopi Papua",
+		"alamat" : "test aja klo gitu",
+		"status" : 1,
+		"id_location" : 54552
+	},
+	{
+		"id_member" : "IDSPAAA11702",
+		"jenis_alamat" : "Kantor Grio",
+		"email" : "graha.nutrisi@gmail.com",
+		"telp" : "085717702857",
+		"nama_penerima" : "Grio",
+		"alamat" : "Jl Darmawangsa VI No 8 Darmawangsa Square PT Damar Laras Cipta",
+		"status" : 1,
+		"id_location" : 4585
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM IonNano COD Itan",
+		"email" : "",
+		"telp" : "085854127520",
+		"nama_penerima" : "Itan",
+		"alamat" : "Graha famili blok N no 33 kecamatan wiyung surabaya jawatimur belakang rmh sakit optikal nasionalNo hp 085854127520",
+		"status" : 1,
+		"id_location" : 29413
+	},
+	{
+		"id_member" : "IDPABMA02175",
+		"jenis_alamat" : "Alamat Kerja Yanthie Gojek",
+		"email" : "",
+		"telp" : "081249376628",
+		"nama_penerima" : "Yanthie Gojek",
+		"alamat" : "Warung MaksihJl Kapten Wiratno No 17",
+		"status" : 1,
+		"id_location" : 24926
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "test papua",
+		"email" : "",
+		"telp" : "081807278131",
+		"nama_penerima" : "tets papua",
+		"alamat" : "test",
+		"status" : 1,
+		"id_location" : 54552
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "SENTANI Anthonius Bali Sabhon Bahi",
+		"email" : "anthoniusbahi@gmail.com",
+		"telp" : "081248095751",
+		"nama_penerima" : "Anthonius Bali Sabhon Bahi",
+		"alamat" : "Perumahan BTN Matoa Blok E No 228Pasar Sentani LamaKab JayapuraProp Papua",
+		"status" : 1,
+		"id_location" : 54546
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "JAYAPURA ANTHONI BALI SABON BAHI",
+		"email" : "anthonibahi9@gmail.com",
+		"telp" : "081248095751",
+		"nama_penerima" : "ANTHONI BALI SABON BAHI",
+		"alamat" : "Perumahan BTN Matoa Blok E No 228Pasar Sentani LamaKab JayapuraProp Papua",
+		"status" : 1,
+		"id_location" : 54546
+	},
+	{
+		"id_member" : "IDSPACA15440",
+		"jenis_alamat" : "Alamat rumah Anita",
+		"email" : "anitadewa6@gmail.com",
+		"telp" : "085368418969",
+		"nama_penerima" : "Anita",
+		"alamat" : "Desa gunung liwat jalan limtas kepahiyang kecamatan suka merindu kabupaten lahat sumsel",
+		"status" : 1,
+		"id_location" : 74023
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "Anthonius Bali Sabhon Bahi",
+		"email" : "",
+		"telp" : "081807278131",
+		"nama_penerima" : "Anthonius Bali Sabhon Bahi",
+		"alamat" : "Perumahan BTNMatoa Blok E No 228 Pasar Lama Sentani Jayapura ",
+		"status" : 1,
+		"id_location" : 54546
+	},
+	{
+		"id_member" : "EID569356",
+		"jenis_alamat" : "Rumah",
+		"email" : "klorofil202@gmail.com",
+		"telp" : "082285011975",
+		"nama_penerima" : "Suhendri",
+		"alamat" : "Jalan Swakarya No 18 RT 04 RW 10",
+		"status" : 1,
+		"id_location" : 61798
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "SENTANI",
+		"email" : "anthoniusbahi9@gmail.com",
+		"telp" : "081248095751",
+		"nama_penerima" : "ANTHONIUS BALI SABON BAHI",
+		"alamat" : "Perumahan BTN Matoa Blok E No 228Pasar Lama SentaniJayapura",
+		"status" : 1,
+		"id_location" : 54546
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM IonNano Kes",
+		"email" : "",
+		"telp" : "085865466341",
+		"nama_penerima" : "Rusmini",
+		"alamat" : "RusminiAlamat Lengkap DsGrowong Kidul rt 3 rw 3 jln Anggrek JuwanaKelurahanDesa Growong KidulKecamatan JuwanaKabupaten PatiPropinsi Jawa TengahNo Hp 085865466341",
+		"status" : 1,
+		"id_location" : 18744
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "Alamat Rumah",
+		"email" : "",
+		"telp" : "085865466341",
+		"nama_penerima" : "Rusmini",
+		"alamat" : "RusminiAlamat Lengkap DsGrowong Kidul rt 3 rw 3 jln Anggrek JuwanaKelurahanDesa Growong KidulKecamatan JuwanaKabupaten PatiPropinsi Jawa TengahNo Hp 085865466341",
+		"status" : 1,
+		"id_location" : 18744
+	},
+	{
+		"id_member" : "IDJTBAA15507",
+		"jenis_alamat" : "alamat tempat kerja",
+		"email" : "shofiafrianti@gmail.com",
+		"telp" : "085691333388",
+		"nama_penerima" : "shopi arfianti ",
+		"alamat" : "TK Islam Al Azhar 7Jl KH Ahmad Sanusi no 195 blk warudoyong kota sukabumi 43135",
+		"status" : 1,
+		"id_location" : 7008
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "JAYAPURA",
+		"email" : "anthoniusbahi9@gmail.com",
+		"telp" : "081248095751",
+		"nama_penerima" : "ANTHONIUS BALI SABON BAHI",
+		"alamat" : "Perumahan BTN Matoa Blok E No 228Pasar Lama SentaniJayapura",
+		"status" : 1,
+		"id_location" : 54546
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM Ion Nano Rusmini Trf",
+		"email" : "",
+		"telp" : "085865466341",
+		"nama_penerima" : "Rusmini",
+		"alamat" : "RusminiAlamat Lengkap DsGrowong Kidul rt 3 rw 3 jln Anggrek JuwanaKelurahanDesa Growong KidulKecamatan JuwanaKabupaten PatiPropinsi Jawa TengahNo Hp 085865466341",
+		"status" : 1,
+		"id_location" : 18744
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Perumahan Graha Padma",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "0811676703",
+		"nama_penerima" : "Anita Wijaya",
+		"alamat" : "Taman Adenia 8 No 15 Perumahan Graha Padma",
+		"status" : 1,
+		"id_location" : 14689
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM Rusmini Trf",
+		"email" : "",
+		"telp" : "085865466341",
+		"nama_penerima" : "Rusmini",
+		"alamat" : "RusminiAlamat Lengkap DsGrowong Kidul rt 3 rw 3 jln Anggrek JuwanaKelurahanDesa Growong KidulKecamatan JuwanaKabupaten PatiPropinsi Jawa TengahNo Hp 085865466341",
+		"status" : 1,
+		"id_location" : 18744
+	},
+	{
+		"id_member" : "IDPABLA02623",
+		"jenis_alamat" : "Perumahan ",
+		"email" : "komariyahhelweh@gmail.com",
+		"telp" : "081358983351",
+		"nama_penerima" : "Ahmad munir",
+		"alamat" : "Perumahan permata indah blok r6 rt 003 rw 005 kelurahan mlajah kec bangkalan kab bangkalan jawa timur",
+		"status" : 1,
+		"id_location" : 21507
+	},
+	{
+		"id_member" : "IDSPAAB09538",
+		"jenis_alamat" : "test",
+		"email" : "klink.digitalmedia@gmail.com",
+		"telp" : "0812312",
+		"nama_penerima" : "adasd",
+		"alamat" : "asdasd",
+		"status" : 1,
+		"id_location" : 685
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "Alamat konsumen",
+		"email" : "",
+		"telp" : "085865466341",
+		"nama_penerima" : "Rusmini",
+		"alamat" : "Ds Growong Kidul Rt 3 Rw 3 jln Anggrek Juwana",
+		"status" : 1,
+		"id_location" : 18744
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "Alamat konsumen Kacamata Nano",
+		"email" : "",
+		"telp" : "085865466341",
+		"nama_penerima" : "Rusmini",
+		"alamat" : "Ds Growong Kidul Rt 3 Rw 3 jln Anggrek Juwana",
+		"status" : 1,
+		"id_location" : 18744
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "Konsumen Kacamata Munira",
+		"email" : "",
+		"telp" : "082336679091",
+		"nama_penerima" : "Munira",
+		"alamat" : "Kantor UPT Puskesmas Gayam Sepudi ",
+		"status" : 1,
+		"id_location" : 29089
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "Konsumen Kacamata Hanni rose ",
+		"email" : "",
+		"telp" : "087855036119",
+		"nama_penerima" : "Hanni rose ",
+		"alamat" : "Hanni rose Alamat Lengkap Jln Banyu Urip kidul 240 RT 07 RW 04KelurahanDesa Banyu Urip Kecamatan SawahanKabupaten SurabayaPropinsi Jawa TimurNo Hp 087855036119",
+		"status" : 1,
+		"id_location" : 29358
+	},
+	{
+		"id_member" : "IDJHAKA03828",
+		"jenis_alamat" : "Alamat Rumah",
+		"email" : "zyloet@gmail.com",
+		"telp" : "085290747977",
+		"nama_penerima" : "Ana Lutfiana",
+		"alamat" : "Kauman Barat 30 Rt 006 RW 002 Wedung Demak 59554",
+		"status" : 1,
+		"id_location" : 13219
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM IonNano Greisye ",
+		"email" : "",
+		"telp" : "081318184702",
+		"nama_penerima" : "Greisye Rosa Kono",
+		"alamat" : "Greisye Rosa KonoAlamat Komp Pomdam Jaya Jl Kesatriaan IX blok L2 rt 17 rw 03 Berlan Kelurahan Kebon Manggis Matraman Jakarta Timur No hp 081318184702",
+		"status" : 1,
+		"id_location" : 4515
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "jalan serayu dusun IV no 123",
+		"email" : "harislah74@gmail.com",
+		"telp" : "081375904445",
+		"nama_penerima" : "Haris",
+		"alamat" : "jalan serayu dusun IV desa medan krio kec sunggal kab deli serdang sumatera utara",
+		"status" : 1,
+		"id_location" : 77316
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "jalan serayu dusun IV no123",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "081375904445",
+		"nama_penerima" : "HARIS NASUTION",
+		"alamat" : "jalan serayu dusun IV desa medan krio kec sunggal kab deli serdang sumatera utara",
+		"status" : 1,
+		"id_location" : 77316
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "endang luwudara cod",
+		"email" : "dedetnaswira@gmail.com",
+		"telp" : "082188317000",
+		"nama_penerima" : "Endang Luwudara",
+		"alamat" : "Jalan Kawasan Pemerintahan Pemda HalutKantor Kementerian Agama Kab Halmahera Utara",
+		"status" : 1,
+		"id_location" : 42277
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "hasan cod",
+		"email" : "dedetnaswira@gmail.com",
+		"telp" : "082340930811",
+		"nama_penerima" : "HASAN ASYARI",
+		"alamat" : "MA TIA NW WanasabaJl Terontong No 03 Wanasaba Lauk",
+		"status" : 1,
+		"id_location" : 50025
+	},
+	{
+		"id_member" : "IDJTID084852",
+		"jenis_alamat" : "Alamat Rumah",
+		"email" : "",
+		"telp" : "087784781777",
+		"nama_penerima" : "Murniati",
+		"alamat" : "Kavling pelita air service blok D6 no4",
+		"status" : 1,
+		"id_location" : 8745
+	},
+	{
+		"id_member" : "IDJTID083044",
+		"jenis_alamat" : "Kantor",
+		"email" : "dedekurnia081079@gmail.com",
+		"telp" : "082111323588",
+		"nama_penerima" : "Dede Kurnia",
+		"alamat" : "PT MONOKEM SURYAJl Proklamasi Km 12",
+		"status" : 1,
+		"id_location" : 8176
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM Ion Nano Rismawaty S",
+		"email" : "",
+		"telp" : "08125502951",
+		"nama_penerima" : "Rismawaty Silalahi",
+		"alamat" : "Jln Palm No 24 RT 12Kelurahan BelimbingKecamatan Bontang BaratKabupaten BontangPropinsi Kalimantan TimurNo Hp 08125502951",
+		"status" : 1,
+		"id_location" : 35898
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM Ernawati",
+		"email" : "",
+		"telp" : "081335356250",
+		"nama_penerima" : "Ernawati",
+		"alamat" : "jln Diponegoro Rt 01Rw01 Dsn Jabon DS Wonokerto Kec Plemahan Kab Kediri prop Jawa Timur no hp081335356250",
+		"status" : 1,
+		"id_location" : 24123
+	},
+	{
+		"id_member" : "IDJTAXA07731",
+		"jenis_alamat" : "Alamat rumah",
+		"email" : "ernanurdianti23@gmail.com",
+		"telp" : "081283370018",
+		"nama_penerima" : "Erna Nurdianti",
+		"alamat" : "Jl Industri Buni Asih Rt03Rw03 Blakang kampus STIAMI Kontrakan Ahlan Wasahlan kamar no 26",
+		"status" : 1,
+		"id_location" : 11494
+	},
+	{
+		"id_member" : "IDSABGA02516",
+		"jenis_alamat" : "Rumah",
+		"email" : "pramonosetyo00@gmail.com",
+		"telp" : "081328287628",
+		"nama_penerima" : "Rito Setyo Pramono",
+		"alamat" : "Rt 04 rw 04 Dusun Duren Desa Duren Kecamatan Bandungan Kabupaten Semarang Jawa tengah kodepost 50614",
+		"status" : 1,
+		"id_location" : 21164
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "jalan sentosa no 43",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "085275069997",
+		"nama_penerima" : "Dewi Santi",
+		"alamat" : "jalan sentosa no 43 desa pasar siborong borong kecamatan siborong borong kabupaten tapanuli utara prov sumatera utara",
+		"status" : 1,
+		"id_location" : 82142
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Kacempuren Desa watu ",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "081242940129",
+		"nama_penerima" : "Siarma",
+		"alamat" : "Kacempuren Desa watu kecamatan cenrana kabupaten bone prov sulawesi selatan kode pos 92754",
+		"status" : 1,
+		"id_location" : 63250
+	},
+	{
+		"id_member" : "IDSPAAB32036",
+		"jenis_alamat" : "Warung nasi Farrah",
+		"email" : "lukmanulhakim47133@gmail.com",
+		"telp" : "082310589130",
+		"nama_penerima" : "Lukman Hakim",
+		"alamat" : "Warung nadi Farrah Jln Teladan Gang Pelita1",
+		"status" : 1,
+		"id_location" : 4447
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM Yuli Narti",
+		"email" : "",
+		"telp" : "081918091889",
+		"nama_penerima" : "Yuli Narti",
+		"alamat" : "Gadukan Utara 6A No 43 RT09 RW05 KelurahanDesa Morokrembangan Kecamatan Krembangan Kabupaten Kota Surabaya Propinsi Jawatimur No Hp 081918091889",
+		"status" : 1,
+		"id_location" : 29325
+	},
+	{
+		"id_member" : "IDJRAAA15991",
+		"jenis_alamat" : "kantor",
+		"email" : "yogadanial12@gmail.com",
+		"telp" : "081358210085",
+		"nama_penerima" : "Cahya Setianingrum",
+		"alamat" : "jl dewi sartika no 47 kampung tengah kepatihan kaliwates jember jatim",
+		"status" : 1,
+		"id_location" : 23359
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Jalan salak bawah no 27 Rt 05",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "081213497491",
+		"nama_penerima" : "Supriyandari",
+		"alamat" : "Jalan salak bawah no 27 Rt 05 Rw 12 desa jatimekar kec jatiasih kota bogor jawa barat",
+		"status" : 1,
+		"id_location" : 10284
+	},
+	{
+		"id_member" : "IDJHBHA07149",
+		"jenis_alamat" : "Alamat rumah",
+		"email" : "pujiastutisuryana79@gmail.com",
+		"telp" : "081326048528",
+		"nama_penerima" : "PUJI ASTUTI",
+		"alamat" : "Perumahan pondok brangsong baruJalan dieng XI blok d18 rt 03 rw 08Desa sidorejoKec brangsongKendal",
+		"status" : 1,
+		"id_location" : 20408
+	},
+	{
+		"id_member" : "EID548670",
+		"jenis_alamat" : "Wardah",
+		"email" : "galuh.inspiradzi@gmail.com",
+		"telp" : "085210630664",
+		"nama_penerima" : "Hasan Mahsyar",
+		"alamat" : "Masjid PLTU Raudhatul Jannah jl karang Utara muara karang ",
+		"status" : 1,
+		"id_location" : 4481
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : " Jl petir no 21 ",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "082385356721",
+		"nama_penerima" : "Uni Nur Asma",
+		"alamat" : "RM ISTANA RAYA Jl petir no 21 bojongsari baru kec bojongsari kota depok jawabarat",
+		"status" : 1,
+		"id_location" : 12354
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Jl salak bawah no 27",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "081213497491",
+		"nama_penerima" : "Supriyandari",
+		"alamat" : "Jl salak bawah no 27 RT 05 RW 12 kel Jati Mekar kec Jatiasih Kota bekasi jawa barat",
+		"status" : 1,
+		"id_location" : 10284
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM Tini Maryani",
+		"email" : "",
+		"telp" : "085721129460",
+		"nama_penerima" : "Tini Maryani atau Bapak Deden",
+		"alamat" : "tini maryani bp dedenAlamat cicadas hilir Rt01 Rw 09Kelurahan cikundulKecamatan lembur situKota sukabumiJawa baratNo hp 085721129460",
+		"status" : 1,
+		"id_location" : 9458
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "PETIR 21",
+		"email" : "",
+		"telp" : "082385356721",
+		"nama_penerima" : "RM ISTANA RAYA",
+		"alamat" : "082385356721 harisnasution74gmailcomRM ISTANA RAYA Jl petir no 21 kel Bojong sari baru kec bojongsari kota Depok jawa baratJawa Barat Depok Bojongsari Bojong Sari Baru 16516",
+		"status" : 1,
+		"id_location" : 12354
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "Maluku 01",
+		"email" : "",
+		"telp" : "082239279323",
+		"nama_penerima" : "FB Linda Ilela Daniel Thomas Ilela ",
+		"alamat" : "FB Linda Ilela Daniel Thomas Ilela ubah hapus082239279323 galuhinspiradzigmailcomJALAN SADAR RT 003 RW 002Maluku Maluku Tengah Seram Utara Timur Kobi Way Asih 97557",
+		"status" : 1,
+		"id_location" : 40910
+	},
+	{
+		"id_member" : "IDJKAJA00211",
+		"jenis_alamat" : "HOME",
+		"email" : "si.risa@gmail.com",
+		"telp" : "082110666462",
+		"nama_penerima" : "RISA",
+		"alamat" : "APARTEMEN TAMAN RASUNA TOWER 12 UNIT T 1217DJL HR RASUNA SAID",
+		"status" : 1,
+		"id_location" : 4451
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "jalan Petir no 21 Bojongsari",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "082385356721",
+		"nama_penerima" : "Uni Nur asma",
+		"alamat" : "RM ISTANA RAYA Jl Petirno21 bojongsar baru ruko pertigaan setelah prum greenland KEC BOJONGSARI kota bekasirjawa barat pos 16516",
+		"status" : 1,
+		"id_location" : 12354
+	},
+	{
+		"id_member" : "IDBNID001153",
+		"jenis_alamat" : "Alamat rumah 01",
+		"email" : "kuslelamei@gmail.com",
+		"telp" : "087784780633",
+		"nama_penerima" : "Kuslela",
+		"alamat" : "Jl bawang 4 no 105 rt 007 rw 03 Perumnas 1 tangerang banten",
+		"status" : 1,
+		"id_location" : 2419
+	},
+	{
+		"id_member" : "IDJHAKA03106",
+		"jenis_alamat" : "Alamat 01",
+		"email" : "Kurniapuspitasari19@gmail.com",
+		"telp" : "0895324932028",
+		"nama_penerima" : "Kurnia Puspitasari",
+		"alamat" : "Desa sukolilan Rt 06 Rw 02 Patebon Kendal",
+		"status" : 1,
+		"id_location" : 15914
+	},
+	{
+		"id_member" : "EID548670",
+		"jenis_alamat" : "Aminah Bogor",
+		"email" : "galuh.inspiradzi@gmail.com",
+		"telp" : "081515378665",
+		"nama_penerima" : "Aminah Lapak Rosita",
+		"alamat" : "Jalan Jagak Rt02 Rw02 ",
+		"status" : 1,
+		"id_location" : 8250
+	},
+	{
+		"id_member" : "IDKHABA08092",
+		"jenis_alamat" : "SMP Negeri 1 Pangkalan Lada",
+		"email" : "popscorn08@gmail.com",
+		"telp" : "085249983400",
+		"nama_penerima" : "Popo Sulaksono",
+		"alamat" : "SMP Negeri 1 Pangkalan Lada Ds Pandu Senjaya Kec Pangkalan Lada Kab Kotawaringin Barat Kalimantan Tengah",
+		"status" : 1,
+		"id_location" : 35090
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "jl Petir no 21",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "082385356721",
+		"nama_penerima" : "Umi Nur Asma",
+		"alamat" : "RM ISTANA RAYA jln petir no21 bojongsari baru Rukopertigaan setelah perum greenland kec bojongsari kota depok jawa barat",
+		"status" : 1,
+		"id_location" : 12354
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Sumber Agung RT 7 RW 011",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "082374287469",
+		"nama_penerima" : "Maharani",
+		"alamat" : "Sumber agung RT 7 RW 011 Desa sumber agung kec Sungai Gelam kab Muaro Jambi Prov Jambi",
+		"status" : 1,
+		"id_location" : 5658
+	},
+	{
+		"id_member" : "IDJTBUA00825",
+		"jenis_alamat" : "alamat rumah",
+		"email" : "epasitideprianti01@gmail.com",
+		"telp" : "082315047977",
+		"nama_penerima" : "Epa Siti Deprianti",
+		"alamat" : "Kp bebedahan rt01 rw02desa wanamekarkec wanarajakab garut",
+		"status" : 1,
+		"id_location" : 7031
+	},
+	{
+		"id_member" : "IDJRAAA13404",
+		"jenis_alamat" : "toko",
+		"email" : "ahmadtito217@gmail.com",
+		"telp" : "081234590009",
+		"nama_penerima" : "taufik saleh",
+		"alamat" : "jl letjend soeprapto no 91",
+		"status" : 1,
+		"id_location" : 23487
+	},
+	{
+		"id_member" : "IDJTYCA02047",
+		"jenis_alamat" : "Alamat Rumah",
+		"email" : "ardiandotyunianto@gmail.com",
+		"telp" : "08192670700",
+		"nama_penerima" : "Ardian Yunianto",
+		"alamat" : "Wadungasri Permai Regency C25",
+		"status" : 1,
+		"id_location" : 28775
+	},
+	{
+		"id_member" : "IDJTAXA07215",
+		"jenis_alamat" : "RUMAH",
+		"email" : "nani.robiani@gmail.com",
+		"telp" : "087870154050",
+		"nama_penerima" : "NANI ROBIANI",
+		"alamat" : "MEGA SENTUL ALAMANDAJL ASTER 1 BLOK G NO 1 CILUAR BOGOR",
+		"status" : 1,
+		"id_location" : 7727
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Jl Sukawinatan no 0221A",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "081279097379",
+		"nama_penerima" : "Ayik",
+		"alamat" : "Jl Sukawinatan Lr Sukawinangun Rt 07Rw 54 no 0221A kel sukajaya kec sukarami kota Palembang Sumatera selatan",
+		"status" : 1,
+		"id_location" : 76326
+	},
+	{
+		"id_member" : "IDJTAAA07371",
+		"jenis_alamat" : "komplek pondok pesantren",
+		"email" : "wartonoputra1@gmail.com",
+		"telp" : "085811439455",
+		"nama_penerima" : "wartono ",
+		"alamat" : "Jl KH Anas Sirojuddin Cisaat Dukupuntang Cirebon West Java 45652",
+		"status" : 1,
+		"id_location" : 10629
+	},
+	{
+		"id_member" : "IDJTBUA05070",
+		"jenis_alamat" : "Jl Merdeka No 4a Garut",
+		"email" : "carenifitriani4@gmail.com",
+		"telp" : "085321222270",
+		"nama_penerima" : "RENI FR",
+		"alamat" : "Jl Merdeka No 4a GarutKec Tarogong kidulKelurahan HaurpanggungKode Pos 44151",
+		"status" : 1,
+		"id_location" : 7230
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM Rina rosnita",
+		"email" : "",
+		"telp" : "082372157900",
+		"nama_penerima" : "Rina rosnita ",
+		"alamat" : "jl melati no 76 waydadi baru kecamatan Sukarame bandar Lampung propinsi Lampung no hp 082372157900",
+		"status" : 1,
+		"id_location" : 37756
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Jl Imam Bonjol No 3 4 ",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "081298355555",
+		"nama_penerima" : "Wenni Mulyawati",
+		"alamat" : "Jl Imam Bonjol KompGalaxy No 3 4 kampung utama Nagoya kel lubuk baja kota kec lubuk baja kota batam kepulauan riau",
+		"status" : 1,
+		"id_location" : 37309
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KBJ Renol Delfison",
+		"email" : "",
+		"telp" : "08131146820",
+		"nama_penerima" : "Renol Delfison",
+		"alamat" : "PT Timuraya TunggalJl Anggadita Raya no 205 ",
+		"status" : 1,
+		"id_location" : 9704
+	},
+	{
+		"id_member" : "IDSPAAA30986",
+		"jenis_alamat" : "Rumah Jkt1",
+		"email" : "mputrimutiara@gmail.com",
+		"telp" : "085959555207",
+		"nama_penerima" : "Pitria Puspadewi",
+		"alamat" : "Tebet Timur Dalam 3C no 1",
+		"status" : 1,
+		"id_location" : 4412
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "Hilal Kantor2",
+		"email" : "",
+		"telp" : "081807278131",
+		"nama_penerima" : "Hilal",
+		"alamat" : "KLink Tower",
+		"status" : 1,
+		"id_location" : 4453
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM Solihah Hidayat",
+		"email" : "",
+		"telp" : "087720519617",
+		"nama_penerima" : "Solihah Hidayat",
+		"alamat" : "Solihah HidayatDes Kec Ciranjang Rt03 Rw15 Gg Rajab Kab Ciqnjur Jawa BaratNo Hp 087720519617",
+		"status" : 1,
+		"id_location" : 10983
+	},
+	{
+		"id_member" : "EID548670",
+		"jenis_alamat" : "Galuh",
+		"email" : "galuh.inspiradzi@gmail.com",
+		"telp" : "0811813139",
+		"nama_penerima" : "Galuh Nirmala P",
+		"alamat" : "Jalan Menjangan III No 62 Rt005 Rw015 Situbungur",
+		"status" : 1,
+		"id_location" : 2147
+	},
+	{
+		"id_member" : "EID587910",
+		"jenis_alamat" : "Rumahku",
+		"email" : "bonyhardian737@gmail.com",
+		"telp" : "085647804290",
+		"nama_penerima" : "Bony Hardian",
+		"alamat" : "Jalan Tj Pare Berjo Kulon RT 05 RW 04 No 7A Dari Indomaret Sidoluhur ke utara 100 m rumah pagar hitam Kelurahan Sidoluhur Kecamatan Godean Kabupaten SlemanDI Yogyakarta",
+		"status" : 1,
+		"id_location" : 4332
+	},
+	{
+		"id_member" : "EID587910",
+		"jenis_alamat" : "Bony Hardian",
+		"email" : "bonyhardian737@gmail.com",
+		"telp" : "085647804290",
+		"nama_penerima" : "Bony Hardian",
+		"alamat" : "Jalan Tj Pare Berjo Kulon RT 05 RW 04 No 7A Dari Indomaret Sidoluhur ke utara 100 m rumah pagar hitam Kelurahan Sidoluhur Kecamatan Godean Kabupaten SlemanDI Yogyakarta",
+		"status" : 1,
+		"id_location" : 4332
+	},
+	{
+		"id_member" : "IDSUID000097",
+		"jenis_alamat" : "Erwin COD",
+		"email" : "erwin_ibal@yahoo.com",
+		"telp" : "0811145598",
+		"nama_penerima" : "Erwin",
+		"alamat" : "Puri Sriwedari Blok F17 Harjamukti Cimanggis DDepok Jawa Barat",
+		"status" : 1,
+		"id_location" : 11227
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM Tutik Daniati",
+		"email" : "",
+		"telp" : "085221661231",
+		"nama_penerima" : "Tutik Daniati",
+		"alamat" : "Tutik DaniatiAlamat Lengkap Bina KomputerKelurahanDesa SampeantabaKecamatan WitapondaKabupaten MorowaliPropinsi Sulawesi TengahNo Hp 085221661231",
+		"status" : 1,
+		"id_location" : 67034
+	},
+	{
+		"id_member" : "IDBNALA02658",
+		"jenis_alamat" : "Alamat Kantor",
+		"email" : "ivansusiyanto@gmail.com",
+		"telp" : "081289817527",
+		"nama_penerima" : "Ivan",
+		"alamat" : "Puri Permata Blok E No 2 Cipondoh Makmur ",
+		"status" : 1,
+		"id_location" : 2159
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Perumahan Taman Raya",
+		"email" : "",
+		"telp" : "081261103140",
+		"nama_penerima" : "Ningsih",
+		"alamat" : "Perumahan taman raya tahap 4 blok NT No 2kelurahan Belian Kec Batam Kota kab Batam Kepulauan Riau",
+		"status" : 1,
+		"id_location" : 37269
+	},
+	{
+		"id_member" : "IDJTID000755",
+		"jenis_alamat" : " griya sae sejahtera no 11 ",
+		"email" : "rohanideltagro@gmail.com",
+		"telp" : "081216480100",
+		"nama_penerima" : "ROHANI",
+		"alamat" : "jalan hos cokroaminoto griya sae sejahtera no 11 jetak bojonegoro jawa timur",
+		"status" : 1,
+		"id_location" : 22323
+	},
+	{
+		"id_member" : "IDU720119",
+		"jenis_alamat" : "Rumah",
+		"email" : "yantoganteng89@gmail.com",
+		"telp" : "6285604528887",
+		"nama_penerima" : "Suyanto",
+		"alamat" : "Dsn Mangurejo Rt 02 Rw 02 Ds Bangkok kec Gurah Kab Kediri JATIM",
+		"status" : 1,
+		"id_location" : 23915
+	},
+	{
+		"id_member" : "IDJTBAA14814",
+		"jenis_alamat" : "Alamat kantor",
+		"email" : "weebee080111@gmail.com",
+		"telp" : "085351074703",
+		"nama_penerima" : "Willy Willyam Belina",
+		"alamat" : "Kampus MAN 3 GARUTJL MIRAMAREU NO 361 ",
+		"status" : 1,
+		"id_location" : 8831
+	},
+	{
+		"id_member" : "IDJHAAA01692",
+		"jenis_alamat" : "Babalan Wedung Demak",
+		"email" : "rosa.ulfardie@gmail.com",
+		"telp" : "083842331191",
+		"nama_penerima" : "Rosaliatul Ulfa Ardie",
+		"alamat" : "Babalan RT 03 RW 05 Wedung Demak",
+		"status" : 1,
+		"id_location" : 13200
+	},
+	{
+		"id_member" : "IDJTAOA03828",
+		"jenis_alamat" : "Alamat Rumah",
+		"email" : "afdydaa@gmail.com",
+		"telp" : "081385688577",
+		"nama_penerima" : "Muhamad Anton",
+		"alamat" : "Perum Kota Serang Baru Jl permata 5 RT 003 RW 017 Blok E29 No 11",
+		"status" : 1,
+		"id_location" : 8046
+	},
+	{
+		"id_member" : "IDJRAZA06046",
+		"jenis_alamat" : "ALAMAT RUMAH",
+		"email" : "imamsuyitno69@yahoo.co.id",
+		"telp" : "082334998810",
+		"nama_penerima" : "IMAM SUYITNO",
+		"alamat" : "DUSUN TANGGUNGAN RT003 RW003 DESA PLUMPANG KABUPATEN TUBAN PROPINSI JAWA TIMUR",
+		"status" : 1,
+		"id_location" : 29774
+	},
+	{
+		"id_member" : "IDJHID000572",
+		"jenis_alamat" : "Rumah Bu Aster",
+		"email" : "",
+		"telp" : "082221803668",
+		"nama_penerima" : "Asteria Dina Trihesty Tujuhastuti",
+		"alamat" : "Perumahan GAIA Residance d 37 Jl Kedung Mundu Raya No 7 Sambiroto Semarang Jawa Tengah",
+		"status" : 1,
+		"id_location" : 14660
+	},
+	{
+		"id_member" : "IDJTAAA06043",
+		"jenis_alamat" : "Alamat Rumah",
+		"email" : "",
+		"telp" : "085870215866",
+		"nama_penerima" : "Endi Lukman",
+		"alamat" : "DESA BANJARLOR RT005 RW002 KEC BANJARHARJO KAB BREBES JATENG 52265",
+		"status" : 1,
+		"id_location" : 21106
+	},
+	{
+		"id_member" : "IDBNID000752",
+		"jenis_alamat" : "Alamat konsumen 3",
+		"email" : "",
+		"telp" : "081366244730",
+		"nama_penerima" : "Mariyah",
+		"alamat" : "Jalan sapta marga rt 26 kelurahan pematang kandis kab Merangin Jambi",
+		"status" : 1,
+		"id_location" : 6868
+	},
+	{
+		"id_member" : "IDBNID000752",
+		"jenis_alamat" : "Alamat kons jambi",
+		"email" : "",
+		"telp" : "081366244730",
+		"nama_penerima" : "Mariyah",
+		"alamat" : "Jalan sapta marga rt 26 kelurahan pematang kandis kab Merangin Jambi",
+		"status" : 1,
+		"id_location" : 6868
+	},
+	{
+		"id_member" : "EID375217",
+		"jenis_alamat" : "Alamat Kantor Dandy S",
+		"email" : "dandyjambi191@gmail.com",
+		"telp" : "081223783379",
+		"nama_penerima" : "Dandy S",
+		"alamat" : "RS Karisma Cimareme\nKec.Ngamprah, Kel.Cimareme, Kab Bandung Barat\nProvinsi jawa Barat. 40552\nDivisi: Gudang Farmasi",
+		"status" : 1,
+		"id_location" : 9048
+	},
+	{
+		"id_member" : "IDSUID000097",
+		"jenis_alamat" : "Alamat Konsumen 1",
+		"email" : "",
+		"telp" : "081365606277",
+		"nama_penerima" : "Risky",
+		"alamat" : "Risky jln raya sei garo pasar Flamboyan Kec Tapung Kab Kampar Riau ",
+		"status" : 1,
+		"id_location" : 61362
+	},
+	{
+		"id_member" : "IDYAID000191",
+		"jenis_alamat" : "Alamat rumah",
+		"email" : "",
+		"telp" : "081548100517",
+		"nama_penerima" : "Fitriana Ika nuraisah",
+		"alamat" : "jl solo Purwodadi km65 Sugihwaras rt2 rw7 Wonorejo Gondangrejo KaranganyarNo HP 081548100517",
+		"status" : 1,
+		"id_location" : 19364
+	},
+	{
+		"id_member" : "IDYAID000191",
+		"jenis_alamat" : "Pelanggan 1",
+		"email" : "",
+		"telp" : "081548100517",
+		"nama_penerima" : "Fitriana Ika nuraisah",
+		"alamat" : "jl solo Purwodadi km65 Sugihwaras rt2 rw7 Wonorejo Gondangrejo KaranganyarNo HP 081548100517",
+		"status" : 1,
+		"id_location" : 19364
+	},
+	{
+		"id_member" : "IDYAID000191",
+		"jenis_alamat" : "Pelanggan 1vk",
+		"email" : "",
+		"telp" : "081548100517",
+		"nama_penerima" : "Fitriana Ika nuraisah",
+		"alamat" : "jl solo Purwodadi km65 Sugihwaras rt2 rw7 Wonorejo Gondangrejo Karanganyar",
+		"status" : 1,
+		"id_location" : 19364
+	},
+	{
+		"id_member" : "IDJTAOA02597",
+		"jenis_alamat" : "RUMAH",
+		"email" : "d351_panca@yahoo.com",
+		"telp" : "082111983668",
+		"nama_penerima" : "DESI PANCA ACHVEMIRISTI",
+		"alamat" : "KOMPLEK DWIKORA TNI AU JL F5 TIGER NO 56 RT 0206 CILANGKAP DEPOK 16458",
+		"status" : 1,
+		"id_location" : 7263
+	},
+	{
+		"id_member" : "IDYAID000191",
+		"jenis_alamat" : "Alamat2",
+		"email" : "",
+		"telp" : "087749849895",
+		"nama_penerima" : "MAMAT MACARONI",
+		"alamat" : "Dusun pengampon RT 003 RW002",
+		"status" : 1,
+		"id_location" : 12554
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "Alamat Siti mardiana Siti Mardiana",
+		"email" : "dedetnaswira@gmail.com",
+		"telp" : "081364718842",
+		"nama_penerima" : "Siti Mardiana",
+		"alamat" : "SDN 001 Singkep Barat\nJl Soekarno Hatta KM 17 Kampung Tengah",
+		"status" : 1,
+		"id_location" : 37567
+	},
+	{
+		"id_member" : "IDJHBCA14086",
+		"jenis_alamat" : "Alamat kantor Yohana Anies R",
+		"email" : "yhn7158@yahoo.com",
+		"telp" : "089629005629",
+		"nama_penerima" : "Yohana Anies R",
+		"alamat" : "CV Bintang Mitra Mulia\nJl Demak Bintoro Rt 6 Rw 8 \nPraon Nusukan Solo 57135 \ntelp 0271720328",
+		"status" : 1,
+		"id_location" : 21069
+	},
+	{
+		"id_member" : "IDJHID000572",
+		"jenis_alamat" : "Alamat Rumah Anak agung kompiang ariana",
+		"email" : "dodoline01@gmail.com",
+		"telp" : "08123641915",
+		"nama_penerima" : "Anak agung kompiang ariana",
+		"alamat" : "Jln gn tangkuban perahu. Gg nirmala no 3, br buana agung. Padangsambian.",
+		"status" : 1,
+		"id_location" : 554
+	},
+	{
+		"id_member" : "IDJHID000572",
+		"jenis_alamat" : "Alamat Rumah SRIMULYATI",
+		"email" : "dodoline01@gmail.com",
+		"telp" : "085203331630",
+		"nama_penerima" : "SRIMULYATI",
+		"alamat" : "Rt1 RW 3 wonojoyo desa KETRO ",
+		"status" : 1,
+		"id_location" : 26683
+	},
+	{
+		"id_member" : "IDJHID000572",
+		"jenis_alamat" : "Alamat Rumah Dedi",
+		"email" : "dodoline01@gmail.com",
+		"telp" : "082285950927",
+		"nama_penerima" : "Dedi",
+		"alamat" : "Jl. Sriwijaya ujung no 15, kelurahan petisah tengah, kec medan petisah, medab 20112",
+		"status" : 1,
+		"id_location" : 78900
+	},
+	{
+		"id_member" : "IDJHID000572",
+		"jenis_alamat" : "Alamat Kantor Sutarwandi Suprayitno",
+		"email" : "dodoline01@gmail.com",
+		"telp" : "085239540831",
+		"nama_penerima" : "Sutarwandi Suprayitno",
+		"alamat" : "BTN Pepabri no30,link larema,simpasai",
+		"status" : 1,
+		"id_location" : 49509
+	},
+	{
+		"id_member" : "IDJHID000572",
+		"jenis_alamat" : "Alamat Rumah Jainudin ibrahim",
+		"email" : "dodolne01@gmail.com",
+		"telp" : "082342063577",
+		"nama_penerima" : "Jainudin ibrahim",
+		"alamat" : "Rt06rw02 kelurahan lewa paku",
+		"status" : 1,
+		"id_location" : 53037
+	},
+	{
+		"id_member" : "IDJHID000572",
+		"jenis_alamat" : "Alamat Rumah Settinus pulung",
+		"email" : "dodoline01@gmail.com",
+		"telp" : "081248617224",
+		"nama_penerima" : "Settinus pulung",
+		"alamat" : "Jl. Gunung salju fanindi bkl. Tan",
+		"status" : 1,
+		"id_location" : 59066
+	},
+	{
+		"id_member" : "IDJHID000572",
+		"jenis_alamat" : "Alamat Rumah Bapak Ihsan\/ Bu Nova",
+		"email" : "dodoline01@gmail.com",
+		"telp" : "08126064421",
+		"nama_penerima" : "Bapak Ihsan\/ Bu Nova",
+		"alamat" : "Perumahan Staff A ( komplek manager kebun ) PTPN 4 unit usaha kebun pasir mandoge.",
+		"status" : 1,
+		"id_location" : 76471
+	},
+	{
+		"id_member" : "IDJTADA10889",
+		"jenis_alamat" : "ALAMAT RUMAH IBU MARDIYATI",
+		"email" : "mardiyahade@gmail.com",
+		"telp" : "085717046226",
+		"nama_penerima" : "MARDIYATI",
+		"alamat" : "JL RAWA BEBEK NO 29 RT 003 RW 001",
+		"status" : 1,
+		"id_location" : 4670
+	},
+	{
+		"id_member" : "IDJTAOA02597",
+		"jenis_alamat" : "RUMAH",
+		"email" : "d351_panca@yahoo.com",
+		"telp" : "082111983668",
+		"nama_penerima" : "DESI PANCA ACHVEMIRISTI",
+		"alamat" : "KOMPLEK DWIKORA TNI AU JL F5 TIGER NO 56 RT 0206 CILANGKAP DEPOK 16458",
+		"status" : 1,
+		"id_location" : 7263
+	},
+	{
+		"id_member" : "IDJTBAA12756",
+		"jenis_alamat" : "Alamat Rumah Bambang Purnama",
+		"email" : "bambang.purnama.ca@gmail.com",
+		"telp" : "087788891211",
+		"nama_penerima" : "Bambang Purnama",
+		"alamat" : "Jl. Kol. A. Syam No. 152 RT 03 RW 09 Desa Sayang Kecamatan Jatinangor Kabupaten Sumedang Jawa Barat 45363",
+		"status" : 1,
+		"id_location" : 10240
+	},
+	{
+		"id_member" : "IDKRID002135AT",
+		"jenis_alamat" : "RUMAH NARIANI",
+		"email" : "andi.2137@gmail.com",
+		"telp" : "082321028733",
+		"nama_penerima" : "NARIANI",
+		"alamat" : "JL.AMPAH MUARA TEWEH RT.04 DESA.UNSUM",
+		"status" : 1,
+		"id_location" : 34381
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "rumah yudi",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "082124975699",
+		"nama_penerima" : "yudi",
+		"alamat" : "sawo matang",
+		"status" : 1,
+		"id_location" : 73559
+	},
+	{
+		"id_member" : "IDSUID000097",
+		"jenis_alamat" : "COD 2",
+		"email" : "",
+		"telp" : "081338712625",
+		"nama_penerima" : "Nanik Suartini",
+		"alamat" : "Alamat banjar jehem kelod depan rumah ada plang bidan ni wayan suartini a md keb KelurahanDesaKecamatan tembukuKabupatenKota bangliPropinsi baliKodepos80671",
+		"status" : 1,
+		"id_location" : 10
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Dinas Pemberdayaan Masyarakat",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "085237259988",
+		"nama_penerima" : "NI Putu Sri Pujayanti",
+		"alamat" : "Dinas pemberdayaan masyarakat dan Desa Kabupaten Gianyar jlan by pass dharma giri gianyar kec gianyar kota gianyar prov Bali",
+		"status" : 1,
+		"id_location" : 491
+	},
+	{
+		"id_member" : "IDPABLA04617",
+		"jenis_alamat" : "JLRA KARTINI VI NO56",
+		"email" : "antariyunia96@gmail.com",
+		"telp" : "082221999682",
+		"nama_penerima" : "RATNA YUNIA ANTARI",
+		"alamat" : "JL RA KARTINI VI NO 56",
+		"status" : 1,
+		"id_location" : 23118
+	},
+	{
+		"id_member" : "IDSPAAA30986",
+		"jenis_alamat" : "Customer queen",
+		"email" : "",
+		"telp" : "081341032503",
+		"nama_penerima" : "Megy Wenas",
+		"alamat" : "Kantor Jemaat GMIM PETRA KINILOW",
+		"status" : 1,
+		"id_location" : 72098
+	},
+	{
+		"id_member" : "IDSUID000097",
+		"jenis_alamat" : "Olga Pangau COD 4",
+		"email" : "",
+		"telp" : "085256783004",
+		"nama_penerima" : "Olga Pangau",
+		"alamat" : "Nama Penerima Olga PangauAlamat Penerima Smp n 10 manadoProvinsi Sulawesi UtaraKotaKabupaten Kota ManadoKecamatan MapangetKelurahan Desa Paniki satu",
+		"status" : 1,
+		"id_location" : 71290
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM Teguh Triyoko",
+		"email" : "",
+		"telp" : "081285337843",
+		"nama_penerima" : "Teguh Triyoko",
+		"alamat" : "Nama Teguh TriyokoAlamat jln Kebumen Rt 03 Rw 01Desa WaihatuKec Kairatu BaratKab Seram Bagian BaratPropinsi Maluku AmbonNo hp 081285337843",
+		"status" : 1,
+		"id_location" : 41277
+	},
+	{
+		"id_member" : "IDSUID000097",
+		"jenis_alamat" : "INA ESTER TRANSFER",
+		"email" : "",
+		"telp" : "082167425045",
+		"nama_penerima" : "INA ESTER",
+		"alamat" : "DUSUN 1",
+		"status" : 1,
+		"id_location" : 79716
+	},
+	{
+		"id_member" : "EID027383",
+		"jenis_alamat" : "Konsumen Bu Triani",
+		"email" : "",
+		"telp" : "082321015015",
+		"nama_penerima" : "Tatang Faturohman SPd",
+		"alamat" : "SMKN Rajapolah Tasikmalaya Jalan Ciinjuk Kecamatan Rajapolah Tasikmalaya Jabar ",
+		"status" : 1,
+		"id_location" : 8266
+	},
+	{
+		"id_member" : "IDYAID010941",
+		"jenis_alamat" : "Rumah",
+		"email" : "sukorini01@gmail.com",
+		"telp" : "081286760414",
+		"nama_penerima" : "SUKORINI",
+		"alamat" : "Jl Kesehatan II No 354 A RT 2 RW 9 Cipayung samping GOR",
+		"status" : 1,
+		"id_location" : 2150
+	},
+	{
+		"id_member" : "IDSUID000097",
+		"jenis_alamat" : "BUNDA ARYA COD",
+		"email" : "",
+		"telp" : "081299464919",
+		"nama_penerima" : "Trie bunda arya",
+		"alamat" : "Trie bunda aryaKp rawamalang rt006 rt010 no12 kec cilincing kel semper timurJAKARTA UTARA 14130081299464919",
+		"status" : 1,
+		"id_location" : 4650
+	},
+	{
+		"id_member" : "IDSUAHA11232",
+		"jenis_alamat" : "Alamat Rumah Weiny Loronaung",
+		"email" : "weiny.loronaung@gmail.com",
+		"telp" : "082291213201",
+		"nama_penerima" : "Weiny Loronaung",
+		"alamat" : "Depan RSUD Bitung\nJalan GP Rajawali\nRT 01 \nRW 06",
+		"status" : 1,
+		"id_location" : 70330
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "MAKASSAR",
+		"email" : "abdulkadir5469@gmail.com",
+		"telp" : "082188891476",
+		"nama_penerima" : "HAERANI",
+		"alamat" : "JL TAMALATE TIDUNG KAMPUS FIP UNMKEC RAPPOCINI MAKASSARSULAWESI SELATAN",
+		"status" : 1,
+		"id_location" : 64763
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Jln hang tuah RT 002 RW 002",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "081378858285",
+		"nama_penerima" : "JUWITA",
+		"alamat" : "Jln Hang Tuah RT 002 RW 002 Desa Jati Baru Kec Bunga Raya Kab Siak Prov Riau",
+		"status" : 1,
+		"id_location" : 62253
+	},
+	{
+		"id_member" : "IDNRAFA22223",
+		"jenis_alamat" : "kantor",
+		"email" : "arsyidriantobi@gmail.com",
+		"telp" : "081338932780",
+		"nama_penerima" : "agel riantobi",
+		"alamat" : "kantor badan keuangan daerah kab flores timur jln ile napo kec larantuka",
+		"status" : 1,
+		"id_location" : 51000
+	},
+	{
+		"id_member" : "IDJTID000755",
+		"jenis_alamat" : "Griya Sae Sejahtera No 11",
+		"email" : "rohanideltagro@gmail.com",
+		"telp" : "081216480100",
+		"nama_penerima" : "Rohani",
+		"alamat" : "Jalan Hos Cokroaminoto griya sae sejahtera no 11 Kelurahan Retak Kab Bojonegoro Jawa Timut kode pos 62114",
+		"status" : 1,
+		"id_location" : 22323
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Jl masjid Al Islah",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "081315098526",
+		"nama_penerima" : "Bidan Wartini",
+		"alamat" : "Jl masjid al islah no 18 Rt 08 Rw 07 kel susukan kec Ciracas Kab kota jakarta Timur DKI Jakarta",
+		"status" : 1,
+		"id_location" : 4636
+	},
+	{
+		"id_member" : "IDGOAAA04361",
+		"jenis_alamat" : "Alamat Kantor",
+		"email" : "fikriyantonani97@gmail.com",
+		"telp" : "085399607096",
+		"nama_penerima" : "Fikri Yanto Nani",
+		"alamat" : "Kantor PLN UP3 GorontaloJl Jend Sudirman No 63",
+		"status" : 1,
+		"id_location" : 5102
+	},
+	{
+		"id_member" : "IDJTAXA07923",
+		"jenis_alamat" : "Rumah",
+		"email" : "Dwiputrihardiyanti@ymail.com",
+		"telp" : "082174421661",
+		"nama_penerima" : "Dwi Putri Hardiyanti",
+		"alamat" : "Felicity Hill Kav D7Jl KadesKp Sawah MurtiRT 05 RW 02",
+		"status" : 1,
+		"id_location" : 8619
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "Jln Tebet Dalam",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "0816717762",
+		"nama_penerima" : "Sugito",
+		"alamat" : "Jln Tebet Dalam 4 No 12 RT 018 RW 001 Tebet Barat Jakarta Selatan",
+		"status" : 1,
+		"id_location" : 4411
+	},
+	{
+		"id_member" : "IDKRAAA04186",
+		"jenis_alamat" : "Alamat rumah",
+		"email" : "Sufijantikaj@yahoo.com",
+		"telp" : "085221098778",
+		"nama_penerima" : "Junia Sufijantika",
+		"alamat" : "Jl Sambas Timur 10 no 165 Perum IV Pontianak",
+		"status" : 1,
+		"id_location" : 31408
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "jln Mujahidin Lrg Durian",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "08116820097",
+		"nama_penerima" : "Maulida yani",
+		"alamat" : "jln Jlan Mujahidin Lrg Durian desa lambaro skep kec kuta alam kota banda aceh Nangroe Aceh Darussalam NAD ",
+		"status" : 1,
+		"id_location" : 46626
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "BARITO TIMUR",
+		"email" : "abdulkadir5469@gmail.com",
+		"telp" : "085349727597",
+		"nama_penerima" : "ASNAWATI S",
+		"alamat" : "BARITO TIMURDUSUN TENGAH AMPAHKALIMANTAN TENGAH",
+		"status" : 1,
+		"id_location" : 34296
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Jlan Banten lama no 8",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "0895355221839",
+		"nama_penerima" : "Toko Syifa Rangkuti",
+		"alamat" : "Jalan banten lama KM 8no 77 RT 9 RW 3 parkiran Sultan Maulana Yusup Depan Indomaret kelurahan Kasunyatan kec Kasemen Kab Serang Prov Banten",
+		"status" : 1,
+		"id_location" : 1920
+	},
+	{
+		"id_member" : "IDJRBCA06373",
+		"jenis_alamat" : "Kantor",
+		"email" : "dadangwin@gmail.com",
+		"telp" : "085607843413",
+		"nama_penerima" : "Dadang Sulistrianto",
+		"alamat" : "Ruko Monroe No 63 kahuripan Nirwana",
+		"status" : 1,
+		"id_location" : 28655
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "test kandangan",
+		"email" : "",
+		"telp" : "081807278131",
+		"nama_penerima" : "hilal kandangan",
+		"alamat" : "test kandangan",
+		"status" : 1,
+		"id_location" : 32971
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "test langsa",
+		"email" : "",
+		"telp" : "081807278131",
+		"nama_penerima" : "Hilal Langsa",
+		"alamat" : "test langsa",
+		"status" : 1,
+		"id_location" : 82543
+	},
+	{
+		"id_member" : "IDSPAAB32501",
+		"jenis_alamat" : "Alamat Kantor",
+		"email" : "dosi.ahmadyani@gmail.com",
+		"telp" : "0818230525",
+		"nama_penerima" : "RSUD Arjawinangun",
+		"alamat" : "Jl Palimanan Jakarta Km 2 No 1",
+		"status" : 1,
+		"id_location" : 12847
+	},
+	{
+		"id_member" : "IDSUID000097",
+		"jenis_alamat" : "ARPNA COD",
+		"email" : "",
+		"telp" : "085296139401",
+		"nama_penerima" : "Dra ARFNA",
+		"alamat" : "Dra ARFNAGuru SMA negeri 3 Langsa Jalan Cut Nyak Dhien no 27 Gampong Jawa Kota Langsa Aceh",
+		"status" : 1,
+		"id_location" : 82543
+	},
+	{
+		"id_member" : "EID1052350",
+		"jenis_alamat" : "Rumah",
+		"email" : "miftahhulajij@gmail.com",
+		"telp" : "082317463514",
+		"nama_penerima" : "VIONITA LIDIA ASTUTI",
+		"alamat" : "Jalan kolonel masturi gang marga resik 2 RT02 RW10 No58 CIMAHI",
+		"status" : 1,
+		"id_location" : 11251
+	},
+	{
+		"id_member" : "IDJTID084852",
+		"jenis_alamat" : "Alamat Rumah 01",
+		"email" : "",
+		"telp" : "081349740964",
+		"nama_penerima" : "Midawati",
+		"alamat" : "Jl Simpang Wildan sari 3A no 14 RT 11",
+		"status" : 1,
+		"id_location" : 32651
+	},
+	{
+		"id_member" : "IDJTID084852",
+		"jenis_alamat" : "Alamat Rumah 02",
+		"email" : "",
+		"telp" : "081349740964",
+		"nama_penerima" : "Midawati",
+		"alamat" : "Jl Simpang Wildan sari 3A no 14 RT 11",
+		"status" : 1,
+		"id_location" : 32651
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM Iis Solihah ",
+		"email" : "",
+		"telp" : "08577463064",
+		"nama_penerima" : "Iis Solihah",
+		"alamat" : "Iis solihahKampung Cikepek Desa Laban jaya Samping SMPN 2 pedes Kecamatan Pedes Kab Karawanag Prop Jawabarat Pos 41353Hp 08577463064",
+		"status" : 1,
+		"id_location" : 8458
+	},
+	{
+		"id_member" : "IDKRID002135AT",
+		"jenis_alamat" : "papua barat",
+		"email" : "andi.2137001@gmail.com",
+		"telp" : "081248782540",
+		"nama_penerima" : "suprihatin",
+		"alamat" : "kampung sido muncul rt03 rw02 kel desay",
+		"status" : 1,
+		"id_location" : 59160
+	},
+	{
+		"id_member" : "IDYAID000191",
+		"jenis_alamat" : "Pelanggan1",
+		"email" : "",
+		"telp" : "6285238148443",
+		"nama_penerima" : "Nuryama",
+		"alamat" : " JL Seberang baru purwodadi Arga Makmur Bengkulu utara ",
+		"status" : 1,
+		"id_location" : 3868
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM IonNano Rachmad Aksan",
+		"email" : "asanrahma@outlook.com",
+		"telp" : "081211666112",
+		"nama_penerima" : "Rachmad Aksan",
+		"alamat" : "Rachmad Aksan \nAlamat \nRt01 Rw01 Jalan Bonorejo Desa Bonorejo Kecamatan Gayam Kabupaten Bojonegoro Propinsi Jawa Timur \nHp 081211666112 \n\n ",
+		"status" : 1,
+		"id_location" : 22361
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "Konsumen Kacamata IonNano Indri",
+		"email" : "fatmaindriyah@gmail.com",
+		"telp" : "085201311090",
+		"nama_penerima" : "Indri",
+		"alamat" : "Gedangan RT03, RW02, Desa Kemiri, Kecamatan Kebakkramat, Kab. Karanganyar, Propinsi Jawa Tengah.",
+		"status" : 1,
+		"id_location" : 17954
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM IonNano Fajar Nur Sodik",
+		"email" : "umiyuni82@gmail.com",
+		"telp" : "08122592777",
+		"nama_penerima" : "Fajar Nur Sodik",
+		"alamat" : "Fajar Nur Sodik\nAlamat Lengkap\nRumah Sakit Islam Wonosobo Jl Mayjen Bambang Sugeng Km3 Kabupaten Wonosobo Jawa Tengah Kelurahan Desa Kecamatan Kabupaten Wonosobo Propinsi Jawa Tengah No Hp 08122592777 \nEmail umiyuni82gmailcom",
+		"status" : 1,
+		"id_location" : 12947
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM IonNano M Nur",
+		"email" : "",
+		"telp" : "082282892929",
+		"nama_penerima" : "M Nur",
+		"alamat" : "Nama M Nur\nKab Ma Bungo\nKec Pelepat\nDesa Rt Keloyang \nSimpang bngko Rt 1 rw1\nRt Keloyang\n082282892929",
+		"status" : 1,
+		"id_location" : 5979
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "tes surabaya",
+		"email" : "tes@testing.com",
+		"telp" : "081807278131",
+		"nama_penerima" : "Hilal",
+		"alamat" : "Jl Karah IV no 21 kec jambangan kota surabaya",
+		"status" : 1,
+		"id_location" : 29310
+	},
+	{
+		"id_member" : "IDSPAAA30986",
+		"jenis_alamat" : "Member2",
+		"email" : "",
+		"telp" : "087853926000",
+		"nama_penerima" : "Citra Mariana",
+		"alamat" : "jln Dr Cipto no 6 perumahan PTGaram belakang RSI kalianget barat sumenep madura jawa timur kode pos 69471",
+		"status" : 1,
+		"id_location" : 29119
+	},
+	{
+		"id_member" : "IDSUID000097",
+		"jenis_alamat" : "Delima Simbolon TRF",
+		"email" : "",
+		"telp" : "081269291802",
+		"nama_penerima" : "Delima simbolon ",
+		"alamat" : "Dusun 4 periawan desa sei pelancang kecamatan panai tengah kabupaten labuhan batu propinsi sumatra utara kode pos 21472",
+		"status" : 1,
+		"id_location" : 77944
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Dusun bejojo RT 03 RW 02",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "085743326111",
+		"nama_penerima" : "Hariyadi kelik",
+		"alamat" : "Dusun bejojo rt 03 rw 02 desa kel jogoresan kec Purwodadi kab Purworejo prov jawa tengah",
+		"status" : 1,
+		"id_location" : 15269
+	},
+	{
+		"id_member" : "IDSUID000097",
+		"jenis_alamat" : "dwi COD",
+		"email" : "",
+		"telp" : "085363587904",
+		"nama_penerima" : "DWI",
+		"alamat" : "Dusun 3 suka maju desa sei pelancang kecamatan panai tengah kabupaten labuan batu Sumatra utara 21472 ",
+		"status" : 1,
+		"id_location" : 77944
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Kemang Dusun 1",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "082280304107",
+		"nama_penerima" : "Fatimah",
+		"alamat" : "Desa Kemang Dusun 1 Kec Sanga Desa Kab Musi Banyuasin Prov Sumatera selatan",
+		"status" : 1,
+		"id_location" : 74556
+	},
+	{
+		"id_member" : "IDSHID000025",
+		"jenis_alamat" : "Alamat Rumah 01",
+		"email" : "maulana.zulkifli@gmail.com",
+		"telp" : "085249931039",
+		"nama_penerima" : "Maulana Zulkifli",
+		"alamat" : "UPTD SKB HSSJl Kerja Bhakti No 27RT 006RW 002",
+		"status" : 1,
+		"id_location" : 32977
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Jl Pelayaran RT 15 NO 10",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "081346336947",
+		"nama_penerima" : "SURYATI LADY",
+		"alamat" : "Jl pelayaran RT 15 no 10 kel prapatan kec Balikpapan kota Balikpapan Prov Kalimantan Timur",
+		"status" : 1,
+		"id_location" : 35766
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Rt 2 Biro Rektor",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "082160009284",
+		"nama_penerima" : "Listaria purba",
+		"alamat" : "Lt 2 Biro Rektor Universitas Simalungun pematang siantar kel Bahkapul kec siantar sitalasari kota Pematang Siantar Prov Sumatera utara",
+		"status" : 1,
+		"id_location" : 80655
+	},
+	{
+		"id_member" : "IDSUID000097",
+		"jenis_alamat" : "NY RUHIYAT TRSF 2 ",
+		"email" : "",
+		"telp" : "081262727018",
+		"nama_penerima" : "NyMULA SIAGIAN ",
+		"alamat" : " DankiCAsrama militer yonif 122TS Kompi senapan BCDolok manampangKec dolok masihulKab serdang berdagai 20991",
+		"status" : 1,
+		"id_location" : 80841
+	},
+	{
+		"id_member" : "IDSUID000097",
+		"jenis_alamat" : "sutrisno TRSF",
+		"email" : "",
+		"telp" : "085378606575",
+		"nama_penerima" : "sutrisno",
+		"alamat" : "Nama Penerima sutrisnoAlamat Penerima Desa cendana kecamatan Muara sugiankabupaten Banyuasin prov sum selpalembang",
+		"status" : 1,
+		"id_location" : 73367
+	},
+	{
+		"id_member" : "IDSPAAB22449",
+		"jenis_alamat" : "Alamat Rumah",
+		"email" : "andyani87@gmail.com",
+		"telp" : "081315617874",
+		"nama_penerima" : "Siti Mulyani",
+		"alamat" : "Jalan Pan Gas No 17 RT 03 RW 01 Lebakwangi",
+		"status" : 1,
+		"id_location" : 8623
+	},
+	{
+		"id_member" : "IDRUADA18497",
+		"jenis_alamat" : "Alamat Rumah",
+		"email" : "nurohhayati89@gmail.com",
+		"telp" : "082173117685",
+		"nama_penerima" : "Nuroh Hayati",
+		"alamat" : "Pondok Wifi ZhafranKelompok 12 RT011 RW004",
+		"status" : 1,
+		"id_location" : 62267
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Lt 2 Biro Rektor ",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "082160009284",
+		"nama_penerima" : "Listaria Purba",
+		"alamat" : "Lt 2 Biro Rektor Universitas Simalungun pematang siantar kel Bahkapul kec siantar sitalasari kota Pematang Siantar Prov Sumatera utara",
+		"status" : 1,
+		"id_location" : 80655
+	},
+	{
+		"id_member" : "IDSUID000097",
+		"jenis_alamat" : "ALWIJAR COD",
+		"email" : "",
+		"telp" : "081374465073",
+		"nama_penerima" : "Alwizar",
+		"alamat" : "Nama Penerima AlwizarAlamat Penerima Jalan melem komplek villa permata paus blok R nomor 14Provinsi RiauKotaKabupaten Kota PekanbaruKecamatan Marpoyan DamaiKelurahan Desa Tangkerang baratKode Pos isi jika ada 28253",
+		"status" : 1,
+		"id_location" : 61755
+	},
+	{
+		"id_member" : "IDBNID000752",
+		"jenis_alamat" : "Alamat konsumen 4",
+		"email" : "",
+		"telp" : "081310441557",
+		"nama_penerima" : "Dhian Arifin",
+		"alamat" : "Bukit Cimanggu City Blok O 10b no7 Kec Tanah SarealKabKota kota BogorProp jawa Barat",
+		"status" : 1,
+		"id_location" : 7352
+	},
+	{
+		"id_member" : "IDJTID056247",
+		"jenis_alamat" : "Alamat Rumah",
+		"email" : "syabanmulyadi@yahoo.co.id",
+		"telp" : "087820496313",
+		"nama_penerima" : "TEGUH ADIL RAHARJO",
+		"alamat" : "Jl Cipanas Puncak Kp Hanjawar Gg H Mansyur RT 001 RW 006 Desa Cimacan Kec Cipanas Kab Cianjur 43253 ",
+		"status" : 1,
+		"id_location" : 11104
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Jl Parit pangeran gg citra",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "08125690968",
+		"nama_penerima" : "Murniati",
+		"alamat" : "Jl Parit pangeran gg citra madani RT 05 RW 038 kelurahan siantan hulu kecamatan Pontianak utara kota pontianak Prov Kalimantan Barata NO HP 08125690968 atau 081257905865",
+		"status" : 1,
+		"id_location" : 31414
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Jl Paret Pangeran",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "08125690968",
+		"nama_penerima" : "Murniati",
+		"alamat" : "Jl Parit pangeran gg citra madani RT 05 RW 038 kelurahan Siantan Hulu Kec Pontianak Utara Kota Pontianak Prov Kalimantan Barat NO HP 08125690968 atau 081257905865",
+		"status" : 1,
+		"id_location" : 31414
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : " jalan perdana",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "087789920024",
+		"nama_penerima" : "Aisy",
+		"alamat" : " jalan perdana kel Parit Tokoya Kec Pontianak Selatan Kota Pontianak Prov Kalimantan Barat",
+		"status" : 1,
+		"id_location" : 31400
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "jln Samudra no 283",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "082277590333",
+		"nama_penerima" : "IDAH",
+		"alamat" : "jln Samudra no 283 Kelurahan Kampung jawa lama kec Banda Sakti Kab Lhokseumawe Prov Nanggroe Aceh Darussalam NAD",
+		"status" : 1,
+		"id_location" : 47729
+	},
+	{
+		"id_member" : "IDJHAGA00523",
+		"jenis_alamat" : "Alamat Rumah 01",
+		"email" : "jumiyati2601@gmail.com",
+		"telp" : "085640149863",
+		"nama_penerima" : "JUMIYATI",
+		"alamat" : "Jln R PATAH GG SRIKAYA RT 03 RW 03 KEL GROBOGAN KEC GROBOGAN KAB GROBOGAN JAWA TENGAH KODE POS 58152 ",
+		"status" : 1,
+		"id_location" : 19269
+	},
+	{
+		"id_member" : "IDSPAAB12563",
+		"jenis_alamat" : "Alamat rumah",
+		"email" : "Ferry.ng74@gmail.com",
+		"telp" : "081218736777",
+		"nama_penerima" : "Feri",
+		"alamat" : "Kom Cilebut Garden No B 1 Rt 06 Rw 06",
+		"status" : 1,
+		"id_location" : 7711
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "Evi kamiati",
+		"email" : "",
+		"telp" : "081383527950",
+		"nama_penerima" : "Evi kamiati",
+		"alamat" : "Jl bambu petung rt 001 07 no 9 Cipayung jaktim 13840Hp 081383527950",
+		"status" : 1,
+		"id_location" : 4640
+	},
+	{
+		"id_member" : "IDJTBAA15615",
+		"jenis_alamat" : "RUMAH",
+		"email" : "titaseptiyanti@gmail.com",
+		"telp" : "082320332082",
+		"nama_penerima" : "TITA SEPTIYANTI",
+		"alamat" : "Babakanrandu RT 12 RW 04",
+		"status" : 1,
+		"id_location" : 8141
+	},
+	{
+		"id_member" : "IDSPAAB32609",
+		"jenis_alamat" : "Alamat rumah",
+		"email" : "Ariena193@gmail.com",
+		"telp" : "089504563308",
+		"nama_penerima" : "ariena",
+		"alamat" : "Kemorosari 2 rt 7 rt 7 piyaman wonosari gunung kidul yogyakarta",
+		"status" : 1,
+		"id_location" : 3975
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Jl lingkar panca",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "081268029393",
+		"nama_penerima" : "Tetty marlina hutabarat",
+		"alamat" : "Jlan Lingkar Panca RT 1 RW 01 depan mesjid Almuhajirin Kel Desa Salo Kec Salo Kab Kampar Bangkinang Prov Riau",
+		"status" : 1,
+		"id_location" : 61314
+	},
+	{
+		"id_member" : "EID548670",
+		"jenis_alamat" : "Bidan Ratna",
+		"email" : "galuh.inspiradzi@gmail.com",
+		"telp" : "08567712747",
+		"nama_penerima" : "Bidan Ratna Rismawati",
+		"alamat" : "Gg V No18 RT6RW2 Pel",
+		"status" : 1,
+		"id_location" : 4523
+	},
+	{
+		"id_member" : "IDSPAAA30986",
+		"jenis_alamat" : "Pribadi",
+		"email" : "",
+		"telp" : "087784929251",
+		"nama_penerima" : "Putri",
+		"alamat" : "Pondok Mutiara Blok Bi no15 Sidoarjo",
+		"status" : 1,
+		"id_location" : 28633
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "TEST sumenep",
+		"email" : "",
+		"telp" : "081807278131",
+		"nama_penerima" : "hilal sumenep",
+		"alamat" : "tes sumenep",
+		"status" : 1,
+		"id_location" : 29245
+	},
+	{
+		"id_member" : "IDSUID000097",
+		"jenis_alamat" : "JUMRIAH TRSF",
+		"email" : "",
+		"telp" : "082198652717",
+		"nama_penerima" : "JUMRIAH",
+		"alamat" : "RASINKI RT 01 RW 05 ABRESO MANOKWARI SELATAN KODEPOS 98355",
+		"status" : 1,
+		"id_location" : 59280
+	},
+	{
+		"id_member" : "IDJTYBA01889",
+		"jenis_alamat" : "alamat rumah",
+		"email" : "hastutiktri200@yahoo.com",
+		"telp" : "082297024665",
+		"nama_penerima" : "adelia tuty",
+		"alamat" : "perumahan jati permai blok a3 no 4 rt 003 rw 003 desa serang keccikarang selatan kabbekasi 17530",
+		"status" : 1,
+		"id_location" : 11514
+	},
+	{
+		"id_member" : "IDSPAAA30986",
+		"jenis_alamat" : "Reseller1",
+		"email" : "",
+		"telp" : "082213102909",
+		"nama_penerima" : "Anita Atikah Mama Raka",
+		"alamat" : "Belakang Bakso Rendang Arkan 1Kp Rawa Banteng RT0501Kec Cikarang BaratBekasi",
+		"status" : 1,
+		"id_location" : 11530
+	},
+	{
+		"id_member" : "IDSUID000097",
+		"jenis_alamat" : "Eka faril COD",
+		"email" : "",
+		"telp" : "081247779507",
+		"nama_penerima" : "Eka faril",
+		"alamat" : " RT16RW4 JLN KELAPA DS PARBULUU 17 WAEAPU NAMLEA BURU MALUKUKODE POS 97574 ",
+		"status" : 1,
+		"id_location" : 40434
+	},
+	{
+		"id_member" : "IDSSBEA01442",
+		"jenis_alamat" : "Rumah",
+		"email" : "alamsyahpaharuddin@gmail.com",
+		"telp" : "08114347782",
+		"nama_penerima" : "Alamsyah",
+		"alamat" : "Jalan Poros Tonasa 1 No 89 Dusun Soreang",
+		"status" : 1,
+		"id_location" : 65054
+	},
+	{
+		"id_member" : "EID569356",
+		"jenis_alamat" : "Alamat Rumah",
+		"email" : "klorofil202@gmail.com",
+		"telp" : "082285011975",
+		"nama_penerima" : "Suhendri",
+		"alamat" : "Jalan Swakarya Ujung No 18 RT 04 RW 10 ",
+		"status" : 1,
+		"id_location" : 61798
+	},
+	{
+		"id_member" : "EID548670",
+		"jenis_alamat" : "DONNA PANGKALAN BUN",
+		"email" : "galuh.inspiradzi@gmail.com",
+		"telp" : "082154643186",
+		"nama_penerima" : "Emma Donaria Girsang",
+		"alamat" : "Jalan Cilik Riwut 3 RT19 RW03 Tembalu",
+		"status" : 1,
+		"id_location" : 35008
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "MALANG",
+		"email" : "abdulkadir5469@gmail.com",
+		"telp" : "0895422414767",
+		"nama_penerima" : "ANIFAH",
+		"alamat" : "JL Sebuku Gang 6 No 02 RT 03 RW 08Kelurahan Bunul Rejokecamatan BlimbingMalang Jawa Timur",
+		"status" : 1,
+		"id_location" : 25371
+	},
+	{
+		"id_member" : "IDSPAAB26301",
+		"jenis_alamat" : "Alamat rumah",
+		"email" : "alphy27.nal@gmail.com",
+		"telp" : "085312001563",
+		"nama_penerima" : "Alpi",
+		"alamat" : "Kp anggris rt 001 rw 005 no89 Gang bengkel motor sebelum jembatan",
+		"status" : 1,
+		"id_location" : 1914
+	},
+	{
+		"id_member" : "IDJTID084852",
+		"jenis_alamat" : "Alamat rumah 03",
+		"email" : "",
+		"telp" : "08124410909",
+		"nama_penerima" : "Jantje Tinangon",
+		"alamat" : "Jl Sulawesi no 26",
+		"status" : 1,
+		"id_location" : 71272
+	},
+	{
+		"id_member" : "IDJTID084852",
+		"jenis_alamat" : "Alamat rumah 3",
+		"email" : "",
+		"telp" : "08124410909",
+		"nama_penerima" : "Jantje Tinangon",
+		"alamat" : "Jl Sulawesi no 26",
+		"status" : 1,
+		"id_location" : 71272
+	},
+	{
+		"id_member" : "IDJTID084852",
+		"jenis_alamat" : "Alamat rumah 04",
+		"email" : "",
+		"telp" : "08124410909",
+		"nama_penerima" : "David",
+		"alamat" : "Jl pramuka 3 ",
+		"status" : 1,
+		"id_location" : 35903
+	},
+	{
+		"id_member" : "IDBNID000752",
+		"jenis_alamat" : "Alamat komsumen ",
+		"email" : "",
+		"telp" : "085714215048",
+		"nama_penerima" : "Edi Mulyadi",
+		"alamat" : "ds mura baru cilamaya girangBelanakanSubangJawa Barat",
+		"status" : 1,
+		"id_location" : 12504
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "Bekasi",
+		"email" : "abdulkadir5469@gmail.com",
+		"telp" : "087886501323",
+		"nama_penerima" : "Pitriyadi",
+		"alamat" : "Jl Bekasi Timur 6 RT6 RW11 No 32Kelurahan Cipinang Besar UtaraJatinegara Jakarta Timur",
+		"status" : 1,
+		"id_location" : 4601
+	},
+	{
+		"id_member" : "IDSAAMA01199",
+		"jenis_alamat" : "Rumah",
+		"email" : "heintje_78@yahoo.co.id",
+		"telp" : "081392108707",
+		"nama_penerima" : "Hence Situmeang",
+		"alamat" : "Quantum ComputerJl Padangsidimpuan Km 22 No 191ABanjar Toba",
+		"status" : 1,
+		"id_location" : 81781
+	},
+	{
+		"id_member" : "IDSAAMA01199",
+		"jenis_alamat" : "Rumah1",
+		"email" : "heintje_78@yahoo.co.id",
+		"telp" : "081392108707",
+		"nama_penerima" : "Hence Situmeang",
+		"alamat" : "Quantum ComputerJl Padangsidimpuan Km 22 No 191ABanjar Toba",
+		"status" : 1,
+		"id_location" : 81781
+	},
+	{
+		"id_member" : "IDPABLA06406",
+		"jenis_alamat" : "Rumah petak 6",
+		"email" : "",
+		"telp" : "082174419694",
+		"nama_penerima" : "Ria Alseptiani",
+		"alamat" : "Jln Bandes dpan kantor PDAM rumah petak 6 Soebrantas",
+		"status" : 1,
+		"id_location" : 60599
+	},
+	{
+		"id_member" : "IDBNID000752",
+		"jenis_alamat" : "Konsumen 5",
+		"email" : "frhn.rfh@gmail.com",
+		"telp" : "081322223270",
+		"nama_penerima" : "Hj Neneng Hadiani SH",
+		"alamat" : "kp cimuncang rt 2 rw 13 kel manggahang Kec bale endah Kabupaten Bandung Jawa Barat ",
+		"status" : 1,
+		"id_location" : 12774
+	},
+	{
+		"id_member" : "IDBNID013405",
+		"jenis_alamat" : "Anselmus Meo COD",
+		"email" : "dedetnaswira@gmail.com",
+		"telp" : "082239437515",
+		"nama_penerima" : "Anselmus Meo",
+		"alamat" : "Kompleks Perumahan Pendeta Jln Husen Palela Gang Syahlom",
+		"status" : 1,
+		"id_location" : 55921
+	},
+	{
+		"id_member" : "IDYAID000191",
+		"jenis_alamat" : "RUMAH HENI",
+		"email" : "",
+		"telp" : "085266164036",
+		"nama_penerima" : "HENI FITRIANI",
+		"alamat" : "COUNTER JNE EDI IKLAN JAYA DESA BETUNG BARAT",
+		"status" : 1,
+		"id_location" : 76331
+	},
+	{
+		"id_member" : "IDYAID000191",
+		"jenis_alamat" : "RUMAH SARI SUTAR",
+		"email" : "",
+		"telp" : "082119320299",
+		"nama_penerima" : "SARI SUTAR",
+		"alamat" : "jalan perhubungan teratai 2 gg mta laut dendang",
+		"status" : 1,
+		"id_location" : 77238
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Jl cendrawasi lingkungan 3",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "085340286566",
+		"nama_penerima" : "Yanti musa",
+		"alamat" : "Jl cendrawasi lingkungan 3 kel desa Malendeng Kec Paal Dua Kab Manado Sulawesi Utara",
+		"status" : 1,
+		"id_location" : 71294
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : " jln panglima Angin",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "085267375226",
+		"nama_penerima" : "Yuliana",
+		"alamat" : "Jln Panglima Angin Tempilang Utara ll kp jawa Rt 004 Rw 002 kel desa Tempilang kec Tempilang Kab Bangka Barat Prov Bangka Belitung ",
+		"status" : 1,
+		"id_location" : 741
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Jln Panglima Angin",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "085267375226",
+		"nama_penerima" : "Yuliana",
+		"alamat" : "Jln Panglima Angin Tempilang Utara ll kp jawa Rt 004 Rw 002 kel desa Tempilang kec Tempilang Kab Bangka Barat Prov Bangka Belitung",
+		"status" : 1,
+		"id_location" : 741
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Dusun VII Desa Peninjauan",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "082279357719",
+		"nama_penerima" : "Bidan Sri Sukati Mardani",
+		"alamat" : "Dusun VII Desa Peninjauan Kec Peninjauan Kab Ogan Komering Ulu Prov Sumatera Utara",
+		"status" : 1,
+		"id_location" : 75566
+	},
+	{
+		"id_member" : "IDYAID000191",
+		"jenis_alamat" : "Rumah jolita",
+		"email" : "",
+		"telp" : "085299997560",
+		"nama_penerima" : "Jolita",
+		"alamat" : "Jl A P Pettarani no 4 yakes telkom",
+		"status" : 1,
+		"id_location" : 64758
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "KALBAR",
+		"email" : "abdulkadir5469@gmail.com",
+		"telp" : "082158273508",
+		"nama_penerima" : "RIJWAN",
+		"alamat" : "Jl Poros Dusun EngkuningDesa Tapang PulauKecamatan Belitang HilirKabupaten Sekadau Kabupaten Kalimantan Barat",
+		"status" : 1,
+		"id_location" : 31793
+	},
+	{
+		"id_member" : "IDJKID018437",
+		"jenis_alamat" : "SEKADAU KALBAR",
+		"email" : "abdulkadir5469@gmail.com",
+		"telp" : "082158273508",
+		"nama_penerima" : "RIJWAN",
+		"alamat" : "Jl Poros Dusun EngkuningDesa Tapang Pulau Kecamatan Belitang HilirKabupaten Sekadau Kalimantan Barat",
+		"status" : 1,
+		"id_location" : 31793
+	},
+	{
+		"id_member" : "IDJTAXA07999",
+		"jenis_alamat" : "Alamat rumah",
+		"email" : "elnaselvipuspita@gmail.com",
+		"telp" : "089675215661",
+		"nama_penerima" : "Elna Selvi Puspita",
+		"alamat" : "Jl anggrek 4 rt00104 no16B",
+		"status" : 1,
+		"id_location" : 4553
+	},
+	{
+		"id_member" : "IDJHAHA04818",
+		"jenis_alamat" : "Alamat Rumah",
+		"email" : "csbisnisinternet@gmail.com",
+		"telp" : "085216648584",
+		"nama_penerima" : "TRISNO",
+		"alamat" : "Dukuh Sikumbang Tengah RT 05 RW 02 Nomor 36 Desa Karangasem",
+		"status" : 1,
+		"id_location" : 14067
+	},
+	{
+		"id_member" : "IDSUID000097",
+		"jenis_alamat" : "hindun TRSF",
+		"email" : "",
+		"telp" : "08164638432",
+		"nama_penerima" : "Hindun",
+		"alamat" : "Jl Pasir berkah XIII No 158 RT 0406 Bumi Pasir Rahayu kel Namggeleng kec Citamiang kota SulanumiProvinsi Jawa BaratKotaKabupaten Kota SukabumiKecamatan CitamiangKelurahanDesa Nanggeleng",
+		"status" : 1,
+		"id_location" : 10834
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "SDN 2 PUTRA BUYUT",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "085709617235",
+		"nama_penerima" : "Titin asiah",
+		"alamat" : "SDN 2 PUTRA BUYUT kel desa Putra Buyut Kec Gunung sugih Kab Lampung Tengah Prov Lampung",
+		"status" : 1,
+		"id_location" : 38295
+	},
+	{
+		"id_member" : "IDJRAAA11049",
+		"jenis_alamat" : "ALAMAT RUMAH",
+		"email" : "rhariyanto92@gmail.com",
+		"telp" : "081233531699",
+		"nama_penerima" : "RUDI HARIYANTO",
+		"alamat" : "ROYAL PARK JUANDA E 15 WAGIR",
+		"status" : 1,
+		"id_location" : 28623
+	},
+	{
+		"id_member" : "IDBNALA01718",
+		"jenis_alamat" : "alamat rumah",
+		"email" : "ridwani171@gmail.com",
+		"telp" : "081399570707",
+		"nama_penerima" : "H Iwan Ridwan",
+		"alamat" : "PAUD YASMIN Seberang Masjid BaiturrahmanJl ry mauk ds gintung rt 13 rw 03",
+		"status" : 1,
+		"id_location" : 1259
+	},
+	{
+		"id_member" : "IDJHBFA15765",
+		"jenis_alamat" : "Alamat rumah",
+		"email" : "yaidisti@gmail.com",
+		"telp" : "083861589357",
+		"nama_penerima" : "Yaidun",
+		"alamat" : "Maesan RT02 Tamanan Banguntapan Bantul",
+		"status" : 1,
+		"id_location" : 4395
+	},
+	{
+		"id_member" : "EID921264",
+		"jenis_alamat" : "FOTO COPY ACDC",
+		"email" : "adjiecreative@gmail.com",
+		"telp" : "085269621698",
+		"nama_penerima" : "KARMUJIYANTO",
+		"alamat" : "FOTO COPY ACDCPs Mulya Kencana",
+		"status" : 1,
+		"id_location" : 40056
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Jln Sukowati gg bayangkara 1",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "085273793239",
+		"nama_penerima" : "Misrawati",
+		"alamat" : "Jln Sukowati gg bayangkara 1 no 20 rt 03 rw 03 Kel Rimbo Lama Air Putih Lama kec Curup Kab Rejang Lebong Prov Bengkulu",
+		"status" : 1,
+		"id_location" : 3747
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Jalan Rahmat Hakim",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "081528870648",
+		"nama_penerima" : "Sinta Amalia",
+		"alamat" : "Jalan Rahmat Hakim kel Muara Jawa Tengah kec Muara Jawa kab Kutai Kartanegara Prov Kalimantan Timur",
+		"status" : 1,
+		"id_location" : 36206
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Desa sempajaya peceren",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "082233730776",
+		"nama_penerima" : "Esvi br Tarigan",
+		"alamat" : "Desa Sempajaya Peceren kec brastagi kab karo prov sumatera utara",
+		"status" : 1,
+		"id_location" : 77638
+	},
+	{
+		"id_member" : "IDSACOA03105",
+		"jenis_alamat" : "Alamat Rumah",
+		"email" : "",
+		"telp" : "081373959231",
+		"nama_penerima" : "Neneng Kustita",
+		"alamat" : "Kelurahan Masmambang Kecamatan Talo Kabupaten Seluma",
+		"status" : 1,
+		"id_location" : 2658
+	},
+	{
+		"id_member" : "IDSACOA03105",
+		"jenis_alamat" : "Alamat Sekolah",
+		"email" : "",
+		"telp" : "081373959231",
+		"nama_penerima" : "Neneng Kustita",
+		"alamat" : "Kelurahan Masmambang Kecamatan Talo Kabupaten Seluma",
+		"status" : 1,
+		"id_location" : 2658
+	},
+	{
+		"id_member" : "IDJHBHA01656",
+		"jenis_alamat" : "Alamat Rumah 01",
+		"email" : "wulantatarina@gmail.com",
+		"telp" : "085865080809",
+		"nama_penerima" : "Wulan Tatarina",
+		"alamat" : "Jl Jawa No 178 RT 06 RW 07 Perumahan Limbangan Indah kec Brebes kab Brebes JATENG",
+		"status" : 1,
+		"id_location" : 20380
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Jln projakal km 05",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "081253248085",
+		"nama_penerima" : "Retno Tri Utami",
+		"alamat" : "jln projakal km 05 komp perum graha indah blok A6 no 9 Rt 06 kel desa Graha Indah Kec Balikpapan Utara Kab Balikpapan Prov Kalimantan Timur",
+		"status" : 1,
+		"id_location" : 35786
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "BTN LAPADDE MAS BLOK B",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "085286942337",
+		"nama_penerima" : "HASNIDAR NURDIN",
+		"alamat" : "BTN LAPADDE MAS BLOK B 9 RT 03 RW 09 Kel Desa Lapadde Kec Ujung Kab Parepare Prov Sulawesi Selatan",
+		"status" : 1,
+		"id_location" : 65097
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Jl sutoyo gang abu bakar",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "081278621003",
+		"nama_penerima" : "Yun yudi yuniarti",
+		"alamat" : "Jl Sutoyo gang Abu Bakar RT 04 RW 02 Kel Desa Tanah Patah kec Ratu Agung Kab Bengkulu Prov Bengkulu 081278621003 atau 082371946332",
+		"status" : 1,
+		"id_location" : 2960
+	},
+	{
+		"id_member" : "IDSUID000097",
+		"jenis_alamat" : "Desak Sulastri COD",
+		"email" : "",
+		"telp" : "082144907159",
+		"nama_penerima" : "Desak Gede Sulastri",
+		"alamat" : "Alamat SMA Negeri 1 Nusa PenidaProvinsi BaliKotaKabupaten Kab KlungkungKecamatan NusapenidaKelurahanDesa Desa Ped BrNyuhKode POS 80771",
+		"status" : 1,
+		"id_location" : 244
+	},
+	{
+		"id_member" : "IDSSAPA07526",
+		"jenis_alamat" : "Rumah",
+		"email" : "muhammadsaidskmmkes@gmail.com",
+		"telp" : "085342641310",
+		"nama_penerima" : "Muhammad said SKm",
+		"alamat" : "Jln Handayani BTN bumi lapadde indah blok b 23 samping SMPN 4",
+		"status" : 1,
+		"id_location" : 65097
+	},
+	{
+		"id_member" : "IDBNID000752",
+		"jenis_alamat" : "Konsumen 6",
+		"email" : "",
+		"telp" : "081249744477",
+		"nama_penerima" : "Salman",
+		"alamat" : "Jl Nusantara badaKec dompuKab dompuPropinsi NTB",
+		"status" : 1,
+		"id_location" : 49430
+	},
+	{
+		"id_member" : "IDJTID084852",
+		"jenis_alamat" : "Alamat kantor 1",
+		"email" : "",
+		"telp" : "085218332123",
+		"nama_penerima" : "Serka Afrizal",
+		"alamat" : "Asrama Kodim 0106",
+		"status" : 1,
+		"id_location" : 44748
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Kp Melayu Barat Rt 04 Rw 07",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "087888863094",
+		"nama_penerima" : "Lala Cipto",
+		"alamat" : "Kp Melayu Barat Rt 04 Rw 07 kontrakan ci iyang Jembatan no 2 dari wihara Kel Teluk Naga Kec Teluk Naga Kab Tangerang Prov Banten",
+		"status" : 1,
+		"id_location" : 1203
+	},
+	{
+		"id_member" : "IDBNAJA05589",
+		"jenis_alamat" : "Alamat Rumah",
+		"email" : "",
+		"telp" : "085280086902",
+		"nama_penerima" : "Mumun Munawaroh",
+		"alamat" : "KP KATAPURA RT 007 RW 003 DESA TAMBILUK KEC PETIR KAB SERANG BANTEN",
+		"status" : 1,
+		"id_location" : 1499
+	},
+	{
+		"id_member" : "IDSPAAB31076",
+		"jenis_alamat" : "Rumah",
+		"email" : "anggitaocean@gmail.com",
+		"telp" : "081282246695",
+		"nama_penerima" : "Mama ocean",
+		"alamat" : "Gg H Jum II RT 002 RW 010 Paninggilam Utara Ciledug Tangerang",
+		"status" : 1,
+		"id_location" : 2292
+	},
+	{
+		"id_member" : "IDSSID004416",
+		"jenis_alamat" : "Rumah 1",
+		"email" : "nef.firdaus@gmail.com",
+		"telp" : "081343722403",
+		"nama_penerima" : "FIrdaus Sukses",
+		"alamat" : "Kompleks Perumahan Bukit Khatulistiwa 2 Blok E1 No 10 ",
+		"status" : 1,
+		"id_location" : 64686
+	},
+	{
+		"id_member" : "IDSSID004416",
+		"jenis_alamat" : "Rumah Firdaus",
+		"email" : "nef.firdaus@gmail.com",
+		"telp" : "081343722403",
+		"nama_penerima" : "FIrdaus Sukses",
+		"alamat" : "Kompleks Perumahan Bukit Khatulistiwa 2 Blok E1 No 10 ",
+		"status" : 1,
+		"id_location" : 64686
+	},
+	{
+		"id_member" : "IDJTID004623",
+		"jenis_alamat" : "KANTOR",
+		"email" : "",
+		"telp" : "081617999598",
+		"nama_penerima" : "GIACINTA EMA",
+		"alamat" : "KLINK TOWER SECURITY LANTAI DASAR K MART JL GATOT SUBROTO KAV 59A",
+		"status" : 1,
+		"id_location" : 4453
+	},
+	{
+		"id_member" : "EID003091",
+		"jenis_alamat" : "BCC BLOK U2 NO 4",
+		"email" : "ir4chemenk@gmail.com",
+		"telp" : "081384100266",
+		"nama_penerima" : "Irawati",
+		"alamat" : "Bukit Cimanggu city blok U2 no 4 bogor",
+		"status" : 1,
+		"id_location" : 7342
+	},
+	{
+		"id_member" : "IDBGID003665",
+		"jenis_alamat" : "Gang Barokah No C2",
+		"email" : "abuzeroun.mf@gmail.com",
+		"telp" : "085880998220",
+		"nama_penerima" : "Muhammad Farouq",
+		"alamat" : "Komplek IPB 1 Gang Barokah Nomer C2 Rt408 KelLoji kecamatan Bogor Barat Kota Bogor",
+		"status" : 1,
+		"id_location" : 12480
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "jln tundungsari",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "081802883905",
+		"nama_penerima" : "Tupini",
+		"alamat" : "jln tundungsari rt 0804 maleber utara kel desa Garuda kec Andir Kota Bandung Prov jawa barat",
+		"status" : 1,
+		"id_location" : 12909
+	},
+	{
+		"id_member" : "IDSPAAB12606",
+		"jenis_alamat" : "Rumah ",
+		"email" : "isyesavitri2979@gmail.com",
+		"telp" : "085714405510",
+		"nama_penerima" : "Isye Savitri",
+		"alamat" : "Perumahan Sukamaju Permai Blok B No 3 RT001 RW012 ",
+		"status" : 1,
+		"id_location" : 11276
+	},
+	{
+		"id_member" : "EID401368",
+		"jenis_alamat" : "Alamat rumah",
+		"email" : "",
+		"telp" : "085211878989",
+		"nama_penerima" : "Abdul rahman",
+		"alamat" : "Komlek panorama serpong blok D3 no 6 D3 no 6Rt 05 rw 06",
+		"status" : 1,
+		"id_location" : 1308
+	},
+	{
+		"id_member" : "IDSAID002780",
+		"jenis_alamat" : "Rumahku",
+		"email" : "j_akramsal@yahoo.com",
+		"telp" : "081319670605",
+		"nama_penerima" : "Jailani Akramsal",
+		"alamat" : "Villa Nusa Indah 3 Blok KB3 no 9",
+		"status" : 1,
+		"id_location" : 10484
+	},
+	{
+		"id_member" : "IDJTID018779",
+		"jenis_alamat" : "Novan 01",
+		"email" : "ivanasucia@gmail.com",
+		"telp" : "087823946645",
+		"nama_penerima" : "Ivana Suciati",
+		"alamat" : "Komplek Ujung berung indah blok19 no 25Rt 05 rw 11",
+		"status" : 1,
+		"id_location" : 7072
+	},
+	{
+		"id_member" : "IDSUAEA07664",
+		"jenis_alamat" : "Buli",
+		"email" : "",
+		"telp" : "082343830142",
+		"nama_penerima" : "Helen Hamisi",
+		"alamat" : "PT Wijaya karya Persero tbkJln Lintas Halmahera TimurDesa Buli",
+		"status" : 1,
+		"id_location" : 42034
+	},
+	{
+		"id_member" : "IDJTID024770",
+		"jenis_alamat" : "Alamat Rumah kons1",
+		"email" : "",
+		"telp" : "081933100747",
+		"nama_penerima" : "Gusti Ayu Widya Sari",
+		"alamat" : "Jalan Pekutatan PupuanGang rambutan Dusun Bunut Bolong Kelurahan PekutatanKecamatanPekutatanKabkotaJembranaKode Pos 82262",
+		"status" : 1,
+		"id_location" : 222
+	},
+	{
+		"id_member" : "IDJTID024770",
+		"jenis_alamat" : "Alamat kons2",
+		"email" : "",
+		"telp" : "081230438063",
+		"nama_penerima" : "Mursalim",
+		"alamat" : "Nama mursalim alamJl Poros sesudah PT Bily Desa tapuhaka Kecamatan kabaena timur kabupaten bombana Sulawesi Tenggara kode Pos 93783",
+		"status" : 1,
+		"id_location" : 68150
+	},
+	{
+		"id_member" : "IDPAID000574",
+		"jenis_alamat" : "Aspol Brimob ki 2B Aramiah",
+		"email" : "Rosmawati8183@gmail.com",
+		"telp" : "081263672004",
+		"nama_penerima" : "Rosma Hermawan",
+		"alamat" : "Aspol brimob ki 2B aramiah",
+		"status" : 1,
+		"id_location" : 45252
+	},
+	{
+		"id_member" : "IDJTID024770",
+		"jenis_alamat" : "Alamat Rumah 02",
+		"email" : "",
+		"telp" : "081230438063",
+		"nama_penerima" : "Mursalim",
+		"alamat" : "Jl Poros sesudah PT Bily Desa tapuhaka Kecamatan kabaena timur kabupaten bombana Sulawesi Tenggara kode Pos 93783",
+		"status" : 1,
+		"id_location" : 68150
+	},
+	{
+		"id_member" : "IDPAID000574",
+		"jenis_alamat" : "Pondok surya mandala",
+		"email" : "yomatul2002@yahoo.com",
+		"telp" : "08124008949",
+		"nama_penerima" : "Yopie matulessy",
+		"alamat" : "Jalan surya kencana no 11",
+		"status" : 1,
+		"id_location" : 12531
+	},
+	{
+		"id_member" : "IDJTID000395AT",
+		"jenis_alamat" : "Rumah ",
+		"email" : "",
+		"telp" : "085523530898",
+		"nama_penerima" : "Angie",
+		"alamat" : "Gandaria Town House jln Gandaria Tengah no 23 M",
+		"status" : 1,
+		"id_location" : 4608
+	},
+	{
+		"id_member" : "IDJTID024770",
+		"jenis_alamat" : "Alamat rumah 3",
+		"email" : "",
+		"telp" : "082236803666",
+		"nama_penerima" : "ANANG AGUS PRABOWO",
+		"alamat" : "LAPAS klas IIA KEROBOKAN BALIKelurahan KEROBOKAN KLODKecamatan KUTA UTARAKota BADUNGKode Pos 80361",
+		"status" : 1,
+		"id_location" : 335
+	},
+	{
+		"id_member" : "IDJTID004623",
+		"jenis_alamat" : "Rumah",
+		"email" : "",
+		"telp" : "081617999598",
+		"nama_penerima" : "Yoana Eunike",
+		"alamat" : "Jl Hijau daun II no 2 Rt 010 Rw 0110011",
+		"status" : 1,
+		"id_location" : 4602
+	},
+	{
+		"id_member" : "IDSAID002896",
+		"jenis_alamat" : "Alamat Rumah 01",
+		"email" : "",
+		"telp" : "0811738050",
+		"nama_penerima" : "Erika Desyana Setyasari",
+		"alamat" : "JL CENDRAWASIH NO 11 RT 009 RW 003 KEBUN GERAN BENGKULU",
+		"status" : 1,
+		"id_location" : 2949
+	},
+	{
+		"id_member" : "IDKLACA10670",
+		"jenis_alamat" : "Alamat Rumah",
+		"email" : "rahayuplh8@gmail.com",
+		"telp" : "085251595951",
+		"nama_penerima" : "WAHYU TRI APRIYADI",
+		"alamat" : "JL BUDI KARYA 1 RT 17 RW 16 NO 51",
+		"status" : 1,
+		"id_location" : 32630
+	},
+	{
+		"id_member" : "IDBGID003665",
+		"jenis_alamat" : "Pd mandiangin",
+		"email" : "",
+		"telp" : "085278012223",
+		"nama_penerima" : "Bapak syahril",
+		"alamat" : "Kapuang PdMandiangin KelLakitan Utara KecLengayan Kenagarian KabPesisir selatan Provsumatera Barat",
+		"status" : 1,
+		"id_location" : 72864
+	},
+	{
+		"id_member" : "EID1258674",
+		"jenis_alamat" : "DPD PKS Garut No 232",
+		"email" : "sujanayusuf74@gmail.com.id",
+		"telp" : "081322003400",
+		"nama_penerima" : "Yusuf Sujana",
+		"alamat" : "Garut",
+		"status" : 1,
+		"id_location" : 7237
+	},
+	{
+		"id_member" : "IDBGID006331",
+		"jenis_alamat" : "Alamat Rumah",
+		"email" : "",
+		"telp" : "085715117529",
+		"nama_penerima" : "Haryanti",
+		"alamat" : "Kp cibolang rt 4 rw 7 no 3 Desa teluk pinang kec ciawiKab bogor Jawa barat 16720",
+		"status" : 1,
+		"id_location" : 12141
+	},
+	{
+		"id_member" : "EID548670",
+		"jenis_alamat" : "Rumah",
+		"email" : "galuh.inspiradzi@gmail.com",
+		"telp" : "0811813139",
+		"nama_penerima" : "Galuh Nirmala ",
+		"alamat" : "Jl Menjangan III No 62 RT 005 Rw 015",
+		"status" : 1,
+		"id_location" : 2147
+	},
+	{
+		"id_member" : "IDJKID001458",
+		"jenis_alamat" : "alamat rumah",
+		"email" : "emaliarosyidah@gmail.com",
+		"telp" : "08111213558",
+		"nama_penerima" : "Ema",
+		"alamat" : "De Latinos Cluster La Vintage blok P8 No 9Rawa buntu Tangerang selatan ",
+		"status" : 1,
+		"id_location" : 1326
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "KOMPLEK PERMATA",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "082254148226",
+		"nama_penerima" : "MARDI ISMAIL SUNDARI",
+		"alamat" : "KOMPLEK PERMATA TRANS NO F6 RW 02",
+		"status" : 1,
+		"id_location" : 30936
+	},
+	{
+		"id_member" : "IDJTID022150",
+		"jenis_alamat" : "Ruko",
+		"email" : "grahasehatbekasi@gmail.com",
+		"telp" : "081299717744",
+		"nama_penerima" : "Maryuni",
+		"alamat" : "Tokokita Market Ruko Perumahan Graha Harapan Blok B15 No 9 Rt 001 Rw 017 Kel Mustikajaya Kec Mustikajaya Bekasi",
+		"status" : 1,
+		"id_location" : 9097
+	},
+	{
+		"id_member" : "IDJTID022150",
+		"jenis_alamat" : "Rumah",
+		"email" : "myuni71@gmail.com",
+		"telp" : "082124340733",
+		"nama_penerima" : "Maryuni",
+		"alamat" : "Graha Harapan Blok B 21 No 1 Rt 006 Rw 017 kel mustikajaya kec mustikajaya bekasi",
+		"status" : 1,
+		"id_location" : 9097
+	},
+	{
+		"id_member" : "IDJTBHA05665",
+		"jenis_alamat" : "Alamat rumahku",
+		"email" : "bang.hadjri@gmail.com",
+		"telp" : "081322039383",
+		"nama_penerima" : "Hadjri",
+		"alamat" : "Jl terusan cibaduyut situtarate nmr 22",
+		"status" : 1,
+		"id_location" : 10659
+	},
+	{
+		"id_member" : "IDJTBHA05665",
+		"jenis_alamat" : "Alamat rumahku 01",
+		"email" : "bang.hadjri@gmail.com",
+		"telp" : "081322039383",
+		"nama_penerima" : "Hadjri",
+		"alamat" : "Jl terusan cibaduyut situtarate nmr 22",
+		"status" : 1,
+		"id_location" : 10659
+	},
+	{
+		"id_member" : "IDJTID024770",
+		"jenis_alamat" : "Rumah lukas",
+		"email" : "marliasusanti81@gmail.com",
+		"telp" : "082170769730",
+		"nama_penerima" : "Lukas Junianto",
+		"alamat" : "Jl Jend Sudirman km4 Gg merpati no 11RT 1 RW 3Kelurahan gunung IbulKecamatan Prabumulih timurPrabumulih 31117",
+		"status" : 1,
+		"id_location" : 76408
+	},
+	{
+		"id_member" : "IDJHANA00019",
+		"jenis_alamat" : "Rumah",
+		"email" : "",
+		"telp" : "085328232323",
+		"nama_penerima" : "Ginanjar Mustofa",
+		"alamat" : "Sindang Phone ShopRt 0904",
+		"status" : 1,
+		"id_location" : 21125
+	},
+	{
+		"id_member" : "IDJHANA00019",
+		"jenis_alamat" : "Rumah 1",
+		"email" : "",
+		"telp" : "085328232323",
+		"nama_penerima" : "Ginanjar Mustofa",
+		"alamat" : "Sindang Phone ShopRt 0904",
+		"status" : 1,
+		"id_location" : 21125
+	},
+	{
+		"id_member" : "IDJTID013054",
+		"jenis_alamat" : "Alamat Rumah",
+		"email" : "resno.sujalnianto@gmail.com",
+		"telp" : "081319216643",
+		"nama_penerima" : "RESNO SUJALNIANTO",
+		"alamat" : "Jl alam raya 2 blok D5 no 5 Rt 05 Rw 09",
+		"status" : 1,
+		"id_location" : 8383
+	},
+	{
+		"id_member" : "EID1258674",
+		"jenis_alamat" : "Kantor",
+		"email" : "sujanayusuf74@gmail.com",
+		"telp" : "081322003400",
+		"nama_penerima" : "Yusuf Sujana",
+		"alamat" : "DPD PKS Garut Jln Pembangunan Mo 232 Sebrabg Pemda Gartu",
+		"status" : 1,
+		"id_location" : 7237
+	},
+	{
+		"id_member" : "IDJTID001801",
+		"jenis_alamat" : "Rumah",
+		"email" : "Ikafarida152@gmail.com",
+		"telp" : "081210630780",
+		"nama_penerima" : "Ika farida",
+		"alamat" : "Jln danau singkarak III no 152 rt 06 rw 04 depok",
+		"status" : 1,
+		"id_location" : 7599
+	},
+	{
+		"id_member" : "IDJKID000802AT",
+		"jenis_alamat" : "Alamat rumah 01",
+		"email" : "",
+		"telp" : "6281280171705",
+		"nama_penerima" : "nofina Dewi",
+		"alamat" : "Perumahan BHP jl BumiPratama VI blok Q no 1 Dukuh Kramatjati Jakarta Timur",
+		"status" : 1,
+		"id_location" : 4534
+	},
+	{
+		"id_member" : "IDJKID000802AT",
+		"jenis_alamat" : "Home",
+		"email" : "",
+		"telp" : "6281280171705",
+		"nama_penerima" : "nofina Dewi",
+		"alamat" : "Perumahan BHP jl BumiPratama VI blok Q no 1 Dukuh Kramatjati Jakarta Timur",
+		"status" : 1,
+		"id_location" : 4534
+	},
+	{
+		"id_member" : "IDPAID000574",
+		"jenis_alamat" : "Nurlela Jakarta",
+		"email" : "nurlaelakaretgmailcom",
+		"telp" : "087887054594",
+		"nama_penerima" : "Nurlela atau Ela",
+		"alamat" : "jln karet pasar baru barat 2 RT 07 RW 05 karet tengsin Tanah AbanggNo tel",
+		"status" : 1,
+		"id_location" : 4423
+	},
+	{
+		"id_member" : "IDSPAAA68652",
+		"jenis_alamat" : "Rumah",
+		"email" : "yanahbisma@gmail.com",
+		"telp" : "087784927900",
+		"nama_penerima" : "Yanah Desianah",
+		"alamat" : "JL Setu No 29 Dekat Cafe Temu Kawan RT 008 RW 003 ",
+		"status" : 1,
+		"id_location" : 4644
+	},
+	{
+		"id_member" : "IDSPAAA68652",
+		"jenis_alamat" : "Rumahku",
+		"email" : "yanahbisma@gmail.com",
+		"telp" : "087784927900",
+		"nama_penerima" : "Yanah Desianah",
+		"alamat" : "Jl setu RT 008 RW 003 Kel setu Kec Cipayung Jakarta timur",
+		"status" : 1,
+		"id_location" : 4644
+	},
+	{
+		"id_member" : "IDBNID010505",
+		"jenis_alamat" : "COD Jakarta",
+		"email" : "joshuatewuh@gmail.com",
+		"telp" : "087880808850",
+		"nama_penerima" : "Boyke Jan Jemmy Tewuh",
+		"alamat" : "Kalibata City TOWER PALEM P 06 AC Green Palace Apartement Kelurahan Rawajati 12750",
+		"status" : 1,
+		"id_location" : 4496
+	},
+	{
+		"id_member" : "IDSPAAA30986",
+		"jenis_alamat" : "Konsumen kman",
+		"email" : "",
+		"telp" : "085299982888",
+		"nama_penerima" : "Bapak H Onim Yurianto",
+		"alamat" : "Jl Suka Maju 5 No 63 RT 10 RW 06 ",
+		"status" : 1,
+		"id_location" : 64752
+	},
+	{
+		"id_member" : "IDBGID003665",
+		"jenis_alamat" : "Grand nusa indah",
+		"email" : "",
+		"telp" : "082133968190",
+		"nama_penerima" : "Ibu Ambar",
+		"alamat" : "Perum Grand Nusa IndahCluster Lotus Blok L 12 no 25 Cileungsi Rt 08 Rw 12 kelrh Situsari kec Cileungsi kab bogor jawa baratKode pos 16820",
+		"status" : 1,
+		"id_location" : 11318
+	},
+	{
+		"id_member" : "IDSPAAB04899",
+		"jenis_alamat" : "Hilal Bogor",
+		"email" : "hilalluckygmailcom",
+		"telp" : "081807278131",
+		"nama_penerima" : "Luqito Masdar Hilal",
+		"alamat" : "Villa Nusa Indah 5 Blok SD5 No 11",
+		"status" : 1,
+		"id_location" : 10486
+	},
+	{
+		"id_member" : "IDPAAAA00430",
+		"jenis_alamat" : "Jalan",
+		"email" : "",
+		"telp" : "085368865350",
+		"nama_penerima" : "AMIE",
+		"alamat" : "Nama Amie Alamat jl Madrasah no 88 Kel Tangkerang",
+		"status" : 1,
+		"id_location" : 61756
+	},
+	{
+		"id_member" : "IDPAID000574",
+		"jenis_alamat" : "Maryati Palembang",
+		"email" : "ajawailasylvia6671@gmail.com",
+		"telp" : "082175146772",
+		"nama_penerima" : "Maryati",
+		"alamat" : "Jl AKBP Herry Umar LRg Muba RT 14 RW 03 Kelurahan Ario Kemuning Kecamatan Kemuning Kota Palembang Provinsi Sumatera SelatanNoKTP 1607105803690005NoHPwa 0821Nama Maryati Alamat Jl AKBP Herry Umar LRg Muba RT 14 RW 03 Kelurahan Ario Kemuning Kecamatan Kemuning Kota Palembang Provinsi Sumatera Selatan",
+		"status" : 1,
+		"id_location" : 76280
+	},
+	{
+		"id_member" : "IDSPAAA85439",
+		"jenis_alamat" : "Rumah",
+		"email" : "dewirosiana2372@gmail.com",
+		"telp" : "081374377568",
+		"nama_penerima" : "Dewi rosiana",
+		"alamat" : "Jl beringin II no 35 RT015 RW 002 cengkareng baratJakarta barat",
+		"status" : 1,
+		"id_location" : 4657
+	},
+	{
+		"id_member" : "IDJTID001554",
+		"jenis_alamat" : "Rumah",
+		"email" : "fanafa.nurcahyo@gmail.com",
+		"telp" : "081310034103",
+		"nama_penerima" : "Hani Nurcahyo Stutariono",
+		"alamat" : "Jl Flamboyan VI Blok X2 No 16 Rt 003 Rw 008 Taman Cimanggu",
+		"status" : 1,
+		"id_location" : 7347
+	},
+	{
+		"id_member" : "IDSPAAA68652",
+		"jenis_alamat" : "Rumah yanah",
+		"email" : "yanahbisma@gmail.com",
+		"telp" : "085925331201",
+		"nama_penerima" : "Yanah Desianah",
+		"alamat" : "Jl raya setu RT 008 RW 003 kel setu kec cipayung jakarta timur ",
+		"status" : 1,
+		"id_location" : 4644
+	},
+	{
+		"id_member" : "IDKTAGA11808",
+		"jenis_alamat" : "Alamat Rumah",
+		"email" : "wiwinerlias@gmail.com",
+		"telp" : "08115739234",
+		"nama_penerima" : "Wiwin Erlias",
+		"alamat" : "Jalan Akcaya 2 No 29 A Kelurahan Tanjung Puri Kecamatan Sintang Kabupaten Sintang Prof Kalimantan Barat",
+		"status" : 1,
+		"id_location" : 32130
+	},
+	{
+		"id_member" : "IDSPAAA68652",
+		"jenis_alamat" : "Rumah saya",
+		"email" : "yanahbisma@gmail.com",
+		"telp" : "085925331201",
+		"nama_penerima" : "Yanah Desianah",
+		"alamat" : "Jl raya setu RT 008 RW 003 kel setu kec cipayung jakarta timur",
+		"status" : 1,
+		"id_location" : 4644
+	},
+	{
+		"id_member" : "IDSUAHA05290",
+		"jenis_alamat" : "DUREN SAWIT",
+		"email" : "rahmatpradana77@gmail.com",
+		"telp" : "081218394042",
+		"nama_penerima" : "LILIS SURYANI",
+		"alamat" : "JLN BENDA JAYA DALAM 2 BLOK A NO 18 DUREN SAWIT",
+		"status" : 1,
+		"id_location" : 4625
+	},
+	{
+		"id_member" : "IDYAID000191",
+		"jenis_alamat" : "rumah sitiria ibrahim",
+		"email" : "",
+		"telp" : "085311327471",
+		"nama_penerima" : "sitiria ibrahim",
+		"alamat" : "jl Husin Bilondatu komplek masjid al mubarakah",
+		"status" : 1,
+		"id_location" : 4777
+	},
+	{
+		"id_member" : "IDYAID003449",
+		"jenis_alamat" : "OMEGA KIDS",
+		"email" : "",
+		"telp" : "082197597279",
+		"nama_penerima" : "DWI S PURWONEGRO",
+		"alamat" : "DESA WAELAMAN JALAN MANGGA 2",
+		"status" : 1,
+		"id_location" : 40431
+	},
+	{
+		"id_member" : "IDYAID003449",
+		"jenis_alamat" : "OMEGA KIDS 2",
+		"email" : "",
+		"telp" : "082197597279",
+		"nama_penerima" : "DWI S PURWONEGORO",
+		"alamat" : "DESA WAELEMAN JALAN MANGGA 2",
+		"status" : 1,
+		"id_location" : 40431
+	},
+	{
+		"id_member" : "IDBNID010505",
+		"jenis_alamat" : "Lutpiyah Bali transfer",
+		"email" : "riefkyhimawan82@gmail.com",
+		"telp" : "087703137450",
+		"nama_penerima" : "Lutpiyah",
+		"alamat" : "Bengkel JHONI Teknik Banjar Penyalin Sam Sam",
+		"status" : 1,
+		"id_location" : 446
+	},
+	{
+		"id_member" : "IDYAID000191",
+		"jenis_alamat" : "rumah erna jkt",
+		"email" : "",
+		"telp" : "081386665767",
+		"nama_penerima" : "Erna",
+		"alamat" : "jl sawo raya RT 005 RW 009 no 24",
+		"status" : 1,
+		"id_location" : 4500
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Gereja maranatha",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "082125449619",
+		"nama_penerima" : "Merry Noya",
+		"alamat" : "Gereja maranathaJl basuki rahmat km 7 Desa Kel Klabulu Malaingkedi kec Sorong Utara Kab Sorong Prov Papua Barat",
+		"status" : 1,
+		"id_location" : 59881
+	},
+	{
+		"id_member" : "IDJHAMA07759",
+		"jenis_alamat" : "Alamat rumah",
+		"email" : "Tya.ahza@gmail.com",
+		"telp" : "081918749661",
+		"nama_penerima" : "Athiyyatul muniiroh",
+		"alamat" : "Tepasan Demangan no 166 RT 03 RW 4 kecamatan kota kabupaten Kudus kode pos 59317 Kudus Jawa tengah",
+		"status" : 1,
+		"id_location" : 17219
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM Maria Klotilda Lisu",
+		"email" : "",
+		"telp" : "081239305150",
+		"nama_penerima" : "Maria Klotilda Lisu",
+		"alamat" : "SMP Negeri Noemuti",
+		"status" : 1,
+		"id_location" : 53604
+	},
+	{
+		"id_member" : "IDJTID004294",
+		"jenis_alamat" : "Rumah",
+		"email" : "",
+		"telp" : "08557074375",
+		"nama_penerima" : "Linda Zuniawati",
+		"alamat" : "Dusun Tegalsari RT 007 RW 003",
+		"status" : 1,
+		"id_location" : 23708
+	},
+	{
+		"id_member" : "IDBNAFA12336",
+		"jenis_alamat" : "Rumah",
+		"email" : "Ida.nurfarida18@gmail.com",
+		"telp" : "082113047692",
+		"nama_penerima" : "Ida Nurfarida",
+		"alamat" : "Perumahan Telaga Golf Sawangan cluster Belanda blok EXII no 19 Sawangan Depok 16511",
+		"status" : 1,
+		"id_location" : 8077
+	},
+	{
+		"id_member" : "IDJTADA10342",
+		"jenis_alamat" : "Alamat Puspa",
+		"email" : "puspa.permaswari@gmail.com",
+		"telp" : "081299013043",
+		"nama_penerima" : "Puspa P",
+		"alamat" : "Griya Salsabila blok c no 9 rt 01 rw 04 gg h awi jati luhur hagj asih bekasja",
+		"status" : 1,
+		"id_location" : 10287
+	},
+	{
+		"id_member" : "IDJTBWA05300",
+		"jenis_alamat" : "Alamat rumah",
+		"email" : "Halimahelmubarok@gmail.com",
+		"telp" : "082317906788",
+		"nama_penerima" : "nurhalimah",
+		"alamat" : "Yazid cell RT 06 RW 02 dekat BRI lakbok",
+		"status" : 1,
+		"id_location" : 9605
+	},
+	{
+		"id_member" : "IDSAID002780",
+		"jenis_alamat" : "Rusna Kaltim",
+		"email" : "j_akramsal@yahoo.com",
+		"telp" : "081253893084",
+		"nama_penerima" : "Rusna",
+		"alamat" : " jln Wirabenu rt5 no30 Desa kelinjau Ulu Kec Muara AncalongKabkota Kutai TimurProvinsi Kalimantan TimurNo hp 081253893084",
+		"status" : 1,
+		"id_location" : 36405
+	},
+	{
+		"id_member" : "EID1258674",
+		"jenis_alamat" : "Kantor PKS",
+		"email" : "sujanayusuf74@gmail.com",
+		"telp" : "081322003400",
+		"nama_penerima" : "Yusuf Sujana",
+		"alamat" : "DPD PKS GarutJln Pembangunan No 232 Sebrang Pemda Garut",
+		"status" : 1,
+		"id_location" : 7237
+	},
+	{
+		"id_member" : "IDJKID028132",
+		"jenis_alamat" : "Rumah",
+		"email" : "aisybahtar6@gmail.com",
+		"telp" : "085781425929",
+		"nama_penerima" : "Aisy Bahtar",
+		"alamat" : "Komplek Taman Berdikari Sentosa Blok F No 11 dan 12 jalan pemuda rawamangun",
+		"status" : 1,
+		"id_location" : 4466
+	},
+	{
+		"id_member" : "IDSPAAA68652",
+		"jenis_alamat" : "Rumah yanahbisma",
+		"email" : "yanahbisma@gmail.com",
+		"telp" : "085925331201",
+		"nama_penerima" : "Yanah Desianah",
+		"alamat" : "Jl setu RT 008 RW 003 kel setu kec cipayung jakarta timur",
+		"status" : 1,
+		"id_location" : 4644
+	},
+	{
+		"id_member" : "IDJHID000329",
+		"jenis_alamat" : "Griya Batu Aji Asri Tahap 4 ",
+		"email" : "",
+		"telp" : "082283788307",
+		"nama_penerima" : "LENIWATI",
+		"alamat" : "Griya Batu Aji Asri Tahap 4 Blok L3 no 22 Kel Sungai Langkai Kec Sagulung Kab Batam Kepulauan Riau",
+		"status" : 1,
+		"id_location" : 37317
+	},
+	{
+		"id_member" : "IDJHANA00019",
+		"jenis_alamat" : "Order 250919",
+		"email" : "",
+		"telp" : "082267390802",
+		"nama_penerima" : "Hajarul Husnah",
+		"alamat" : "Jalan Udin Sultan Sarif gang beko",
+		"status" : 1,
+		"id_location" : 76692
+	},
+	{
+		"id_member" : "IDYAID000531",
+		"jenis_alamat" : "KKM Marotin",
+		"email" : "",
+		"telp" : "082288409182",
+		"nama_penerima" : "Marotin",
+		"alamat" : "Jl Parit Sidomulyo RT002 RW003",
+		"status" : 1,
+		"id_location" : 61442
+	},
+	{
+		"id_member" : "IDJTID004294",
+		"jenis_alamat" : "Alamat Konsumen",
+		"email" : "",
+		"telp" : "082158856197",
+		"nama_penerima" : "Nurjannah",
+		"alamat" : "Jl Proklamasi 2B Blok O Dalam 3 No18RT 56 RW ",
+		"status" : 1,
+		"id_location" : 36784
+	},
+	{
+		"id_member" : "IDSSID004416",
+		"jenis_alamat" : "Konsumen BJ",
+		"email" : "obatalami984@gmail.com",
+		"telp" : "085267186403",
+		"nama_penerima" : "Ahmad Saifuddin",
+		"alamat" : "JNE Muara Wahau Kutai Timur",
+		"status" : 1,
+		"id_location" : 36424
+	},
+	{
+		"id_member" : "IDSPAAB12606",
+		"jenis_alamat" : "Jl Al bashor 56 RT 05 RW 03 ",
+		"email" : "",
+		"telp" : "082217544420",
+		"nama_penerima" : "Iis Istirohah ",
+		"alamat" : "Jl Al bashor 56 RT 05 RW 03 Deket parkiran H Didi ",
+		"status" : 1,
+		"id_location" : 4534
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Ruko Puri Lontar",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "085237170167",
+		"nama_penerima" : "Anastasia Mbeo",
+		"alamat" : "Ruko Puri Lontar Jln Monginsidi Block C No24 kel desa Fatululi Kab Kupang Prov Nusa Tenggara Timur",
+		"status" : 1,
+		"id_location" : 51166
+	},
+	{
+		"id_member" : "IDSAID011910",
+		"jenis_alamat" : "Perum Luxurious Villa",
+		"email" : "harisnasution74@gmail.com",
+		"telp" : "08116658999",
+		"nama_penerima" : "Nenny",
+		"alamat" : "Perum Luxurious Villa Blok C No 4 Jln Arifin Ahmad Karya l Rt 11 Rw 1Kel Tangkerang BaratKec Marpoyan Damai kota Pekanbaru Prov Riau",
+		"status" : 1,
+		"id_location" : 61755
+	},
+	{
+		"id_member" : "IDMUID001880",
+		"jenis_alamat" : "Alamat rumah",
+		"email" : "maminholle@gmail.com",
+		"telp" : "087888035202",
+		"nama_penerima" : "Ibu Yeni Fitri",
+		"alamat" : "Tamam Residence Kav no 5Jl Condet Raya gang Eretan 1 no 40ART 9 RW 1",
+		"status" : 1,
+		"id_location" : 4530
+	}
+]
