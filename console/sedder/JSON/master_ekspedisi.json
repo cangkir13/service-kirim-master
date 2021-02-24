@@ -1,0 +1,79 @@
+[
+	{
+		"name" : "jnt",
+		"label" : "J&T",
+		"image_url": "https://s3-ap-southeast-1.amazonaws.com/media.k-link.me/kurir/j%26t.jpeg",
+		"is_cod" : 0,
+		"status" : 1
+	},
+	{
+		"name" : "jne",
+		"label" : "JNE",
+		"image_url":"https://s3-ap-southeast-1.amazonaws.com/media.k-link.me/kurir/jne.jpeg",
+		"is_cod" : 0,
+		"status" : 1
+	},
+	{
+		"name" : "pos",
+		"label" : "Pos Indonesia",
+		"image_url":"https://s3-ap-southeast-1.amazonaws.com/media.k-link.me/kurir/pos.jpeg",
+		"is_cod" : 0,
+		"status" : 0
+	},
+	{
+		"name" : "lion_parcel",
+		"label" : "Lion Parcel",
+		"image_url"	: "https://s3-ap-southeast-1.amazonaws.com/media.k-link.me/kurir/lion.jpeg",
+		"is_cod" : 0,
+		"status" : 0
+	},
+	{
+		"name" : "rpx",
+		"label" : "RPX",
+		"image_url"	: "https://s3-ap-southeast-1.amazonaws.com/media.k-link.me/kurir/rpx.jpeg",
+		"is_cod" : 1,
+		"status" : 1
+	},
+	{
+		"name" : "gosend",
+		"label" : "GoSend",
+		"image_url":"https://s3-ap-southeast-1.amazonaws.com/media.k-link.me/kurir/gosend.jpeg",
+		"is_cod" : 0,
+		"status" : 1
+	},
+	{
+		"name" : "sap",
+		"label" : "SAP",
+		"image_url"	: "https://s3-ap-southeast-1.amazonaws.com/media.k-link.me/kurir/sap.jpeg",
+		"is_cod" : 1,
+		"status" : 1
+	},
+	{
+		"name" : "sicepat",
+		"label" : "SICEPAT",
+		"image_url"	: "https://s3-ap-southeast-1.amazonaws.com/media.k-link.me/kurir/sicepat.jpeg",
+		"is_cod" : 0,
+		"status" : 1
+	},
+	{
+		"name" : "klink_express",
+		"label" : "EXPRESS",
+		"image_url" : "https://s3-ap-southeast-1.amazonaws.com/media.k-link.me/kurir/klink.jpeg",
+		"is_cod" : 1,
+		"status" : 1
+	},
+	{
+		"name" : "ninja",
+		"label" : "NINJA EXPRESS",
+		"image_url"	:	"https://s3-ap-southeast-1.amazonaws.com/media.k-link.me/kurir/ninja.jpeg",
+		"is_cod" : 0,
+		"status" : 1
+	},
+	{
+		"name" : "stockist_express",
+		"label" : "Stockist Express",
+		"image_url"	: "https://s3-ap-southeast-1.amazonaws.com/media.k-link.me/kurir/klink.jpeg",
+		"is_cod" : 1,
+		"status" : 0
+	}
+]

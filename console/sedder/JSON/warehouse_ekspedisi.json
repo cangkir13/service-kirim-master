@@ -1,0 +1,854 @@
+[
+    {
+        "warhouse": "BID06",
+        "id_wh": 1,
+        "id_ekspedisi": 1,
+        "ekspedisi": "jnt",
+        "origin_code": "JAKARTA",
+        "status": true
+    },
+    {
+        "warhouse": "BID06",
+        "id_wh": 1,
+        "id_ekspedisi": 4,
+        "ekspedisi": "lion_parcel",
+        "origin_code": "CGK-0000-C-4222|JAKARTA (CGK)",
+        "status": true
+    },
+    {
+        "warhouse": "BID06",
+        "id_wh": 1,
+        "id_ekspedisi": 5,
+        "ekspedisi": "rpx",
+        "origin_code": "12950",
+        "status": true
+    },
+    {
+        "warhouse": "BID06",
+        "id_wh": 1,
+        "id_ekspedisi": 6,
+        "ekspedisi": "gosend",
+        "origin_code":"-6.24003,106.834",
+        "status": true
+    },
+    {
+        "warhouse": "BID06",
+        "id_wh": 1,
+        "id_ekspedisi": 7,
+        "ekspedisi": "sap",
+        "origin_code":"JK0909",
+        "status": true
+    },
+    {
+        "warhouse": "BID06",
+        "id_wh": 1,
+        "id_ekspedisi": 8,
+        "ekspedisi": "sicepat",
+        "origin_code": "CGK",
+        "status": true
+    },
+    {
+        "warhouse": "BID06",
+        "id_wh": 1,
+        "id_ekspedisi": 10,
+        "ekspedisi": "ninja",
+        "origin_code": "JAKARTA",
+        "status": true
+    },
+    {
+        "warhouse": "DC01",
+        "id_wh": 12,
+        "id_ekspedisi": 1,
+        "ekspedisi": "jnt",
+        "origin_code": "BANJARBARU",
+        "status": true
+    },
+    {
+        "warhouse": "DC01",
+        "id_wh": 12,
+        "id_ekspedisi": 2,
+        "ekspedisi": "jne",
+        "origin_code": "BDJ10500",
+        "status": true
+    },
+    {
+        "warhouse": "DC01",
+        "id_wh": 12,
+        "id_ekspedisi": 3,
+        "ekspedisi": "pos",
+        "origin_code": null,
+        "status": true
+    },
+    {
+        "warhouse": "DC01",
+        "id_wh": 12,
+        "id_ekspedisi": 5,
+        "ekspedisi": "rpx",
+        "origin_code": "70721",
+        "status": true
+    },
+    {
+        "warhouse": "DC01",
+        "id_wh": 12,
+        "id_ekspedisi": 6,
+        "ekspedisi": "gosend",
+        "origin_code": "-3.44594,114.808",
+        "status": true
+    },
+    {
+        "warhouse": "DC01",
+        "id_wh": 12,
+        "id_ekspedisi": 7,
+        "ekspedisi": "sap",
+        "origin_code": "KS0604",
+        "status": true
+    },
+    {
+        "warhouse": "DC01",
+        "id_wh": 12,
+        "id_ekspedisi": 8,
+        "ekspedisi": "sicepat",
+        "origin_code": "BDJ",
+        "status": true
+    },
+    {
+        "warhouse": "DC01",
+        "id_wh": 12,
+        "id_ekspedisi": 9,
+        "ekspedisi": "klink_express",
+        "origin_code": "DC01",
+        "status": true
+    },
+    {
+        "warhouse": "DC02",
+        "id_wh": 15,
+        "id_ekspedisi": 1,
+        "ekspedisi": "jnt",
+        "origin_code": "BANDUNG",
+        "status": true
+    },
+    {
+        "warhouse": "DC02",
+        "id_wh": 15,
+        "id_ekspedisi": 2,
+        "ekspedisi": "jne",
+        "origin_code": "BDO10000",
+        "status": true
+    },
+    {
+        "warhouse": "DC02",
+        "id_wh": 15,
+        "id_ekspedisi": 7,
+        "ekspedisi": "sap",
+        "origin_code": "JB0338",
+        "status": true
+    },
+    {
+        "warhouse": "DC02",
+        "id_wh": 15,
+        "id_ekspedisi": 9,
+        "ekspedisi": "klink_express",
+        "origin_code": "DC02",
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS01",
+        "id_wh": 7,
+        "id_ekspedisi": 6,
+        "ekspedisi": "gosend",
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS01",
+        "id_wh": 7,
+        "id_ekspedisi": 9,
+        "ekspedisi": "klink_express",
+        "origin_code": "IDBSS01",
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS02",
+        "id_wh": 19,
+        "id_ekspedisi": 1,
+        "ekspedisi": "jnt",
+        "origin_code":"SORONG",
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS02",
+        "id_wh": 19,
+        "id_ekspedisi": 2,
+        "ekspedisi": "jne",
+        "origin_code": "SOQ10000",
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS02",
+        "id_wh": 19,
+        "id_ekspedisi": 3,
+        "ekspedisi": "pos",
+        "origin_code":null,
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS02",
+        "id_wh": 19,
+        "id_ekspedisi": 5,
+        "ekspedisi": "rpx",
+        "origin_code": "98412",
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS02",
+        "id_wh": 19,
+        "id_ekspedisi": 6,
+        "ekspedisi": "gosend",
+        "origin_code": "-0.8792336,131.2619782",
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS02",
+        "id_wh": 19,
+        "id_ekspedisi": 7,
+        "ekspedisi": "sap",
+        "origin_code":"PB0612",
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS02",
+        "id_wh": 19,
+        "id_ekspedisi": 8,
+        "ekspedisi": "sicepat",
+        "origin_code":null,
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS05",
+        "id_wh": 4,
+        "id_ekspedisi": 6,
+        "ekspedisi": "gosend",
+        "origin_code": "-7.29221,112.747",
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS05",
+        "id_wh": 4,
+        "id_ekspedisi": 9,
+        "ekspedisi": "klink_express",
+        "origin_code":"IDBSS05",
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS07",
+        "id_wh": 11,
+        "id_ekspedisi": 1,
+        "ekspedisi": "jnt",
+        "origin_code":"AMBON",
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS07",
+        "id_wh": 11,
+        "id_ekspedisi": 2,
+        "ekspedisi": "jne",
+        "origin_code":"AMQ10000",
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS07",
+        "id_wh": 11,
+        "id_ekspedisi": 3,
+        "ekspedisi": "pos",
+        "origin_code":null,
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS07",
+        "id_wh": 11,
+        "id_ekspedisi": 5,
+        "ekspedisi": "rpx",
+        "origin_code": "97127",
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS07",
+        "id_wh": 11,
+        "id_ekspedisi": 6,
+        "ekspedisi": "gosend",
+        "origin_code": "-3.699043,128.181894",
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS07",
+        "id_wh": 11,
+        "id_ekspedisi": 7,
+        "ekspedisi": "sap",
+        "origin_code":"MA0204",
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS07",
+        "id_wh": 11,
+        "id_ekspedisi": 8,
+        "ekspedisi": "sicepat",
+        "origin_code":null,
+        "status": true
+    },
+    {
+        "warhouse": "IDBSS07",
+        "id_wh": 11,
+        "id_ekspedisi": 9,
+        "ekspedisi": "klink_express",
+        "origin_code": "IDBSS07",
+        "status": true
+    },
+    {
+        "warhouse": "IDSKD98",
+        "id_wh": 13,
+        "id_ekspedisi": 1,
+        "ekspedisi": "jnt",
+        "origin_code":null,
+        "status": false
+    },
+    {
+        "warhouse": "IDSKD98",
+        "id_wh": 13,
+        "id_ekspedisi": 2,
+        "ekspedisi": "jne",
+        "status": false
+    },
+    {
+        "warhouse": "IDSKS07",
+        "id_wh": 10,
+        "id_ekspedisi": 1,
+        "ekspedisi": "jnt",
+        "origin_code":"MANADO",
+        "status": true
+    },
+    {
+        "warhouse": "IDSKS07",
+        "id_wh": 10,
+        "id_ekspedisi": 2,
+        "ekspedisi": "jne",
+        "origin_code": "MDC10000",
+        "status": true
+    },
+    {
+        "warhouse": "IDSKS07",
+        "id_wh": 10,
+        "id_ekspedisi": 3,
+        "ekspedisi": "pos",
+        "origin_code": null,
+        "status": true
+    },
+    {
+        "warhouse": "IDSKS07",
+        "id_wh": 10,
+        "id_ekspedisi": 5,
+        "ekspedisi": "rpx",
+        "origin_code": "95111",
+        "status": true
+    },
+    {
+        "warhouse": "IDSKS07",
+        "id_wh": 10,
+        "id_ekspedisi": 6,
+        "ekspedisi": "gosend",
+        "origin_code": "1.493184,124.83867",
+        "status": true
+    },
+    {
+        "warhouse": "IDSKS07",
+        "id_wh": 10,
+        "id_ekspedisi": 7,
+        "ekspedisi": "sap",
+        "origin_code":"SA1007",
+        "status": true
+    },
+    {
+        "warhouse": "IDSKS07",
+        "id_wh": 10,
+        "id_ekspedisi": 8,
+        "ekspedisi": "sicepat",
+        "origin_code":null,
+        "status": false
+    },
+    {
+        "warhouse": "IDSKS07",
+        "id_wh": 10,
+        "id_ekspedisi": 9,
+        "ekspedisi": "klink_express",
+        "origin_code": "IDSKS07",
+        "status": true
+    },
+    {
+        "warhouse": "IDSKS12",
+        "id_wh": 16,
+        "id_ekspedisi": 1,
+        "ekspedisi": "jnt",
+        "origin_code": "JAMBI",
+        "status": true
+    },
+    {
+        "warhouse": "IDSKS12",
+        "id_wh": 16,
+        "id_ekspedisi": 2,
+        "ekspedisi": "jne",
+        "origin_code": "DJB10000",
+        "status": true
+    },
+    {
+        "warhouse": "IDSKS12",
+        "id_wh": 16,
+        "id_ekspedisi": 3,
+        "ekspedisi": "pos",
+        "origin_code":null,
+        "status": true
+    },
+    {
+        "warhouse": "IDSKS12",
+        "id_wh": 16,
+        "id_ekspedisi": 5,
+        "ekspedisi": "rpx",
+        "origin_code": "36124",
+        "status": true
+    },
+    {
+        "warhouse": "IDSKS12",
+        "id_wh": 16,
+        "id_ekspedisi": 6,
+        "ekspedisi": "gosend",
+        "origin_code":"-1.6178939,103.5977305",
+        "status": true
+    },
+    {
+        "warhouse": "IDSKS12",
+        "id_wh": 16,
+        "id_ekspedisi": 7,
+        "ekspedisi": "sap",
+        "origin_code":"JA0105",
+        "status": true
+    },
+    {
+        "warhouse": "IDSKS12",
+        "id_wh": 16,
+        "id_ekspedisi": 8,
+        "ekspedisi": "sicepat",
+        "origin_code":null,
+        "status": false
+    },
+    {
+        "warhouse": "IDSKS12",
+        "id_wh": 16,
+        "id_ekspedisi": 9,
+        "ekspedisi": "klink_express",
+        "origin_code":"IDSKS12",
+        "status": true
+    },
+    {
+        "warhouse": "IDSYG20",
+        "id_wh": 14,
+        "id_ekspedisi": 1,
+        "ekspedisi": "jnt",
+        "origin_code": "SLEMAN",
+        "status": true
+    },
+    {
+        "warhouse": "IDSYG20",
+        "id_wh": 14,
+        "id_ekspedisi": 2,
+        "ekspedisi": "jne",
+        "origin_code":null,
+        "status": false
+    },
+    {
+        "warhouse": "WH002",
+        "id_wh": 2,
+        "id_ekspedisi": 2,
+        "ekspedisi": "jne",
+        "origin_code": "BOO10000",
+        "status": true
+    },
+    {
+        "warhouse": "WH002",
+        "id_wh": 2,
+        "id_ekspedisi": 11,
+        "ekspedisi": "stockist_express",
+        "origin_code": "WH002",
+        "status": true
+    },
+    {
+        "warhouse": "WH002",
+        "id_wh": 2,
+        "id_ekspedisi": 3,
+        "ekspedisi": "pos",
+        "origin_code": null,
+        "status": true
+    },
+    {
+        "warhouse": "WH003",
+        "id_wh": 3,
+        "id_ekspedisi": 1,
+        "ekspedisi": "jnt",
+        "origin_code": "MEDAN",
+        "status": true
+    },
+    {
+        "warhouse": "WH003",
+        "id_wh": 3,
+        "id_ekspedisi": 2,
+        "ekspedisi": "jne",
+        "origin_code" : "MES10000",
+        "status": true
+    },
+    {
+        "warhouse": "WH003",
+        "id_wh": 3,
+        "id_ekspedisi": 3,
+        "ekspedisi": "pos",
+        "origin_code": null,
+        "status": true
+    },
+    {
+        "warhouse": "WH003",
+        "id_wh": 3,
+        "id_ekspedisi": 5,
+        "ekspedisi": "rpx",
+        "origin_code": "20125",
+        "status": true
+    },
+    {
+        "warhouse": "WH003",
+        "id_wh": 3,
+        "id_ekspedisi": 6,
+        "ekspedisi": "gosend",
+        "origin_code": "3.603238,98.627807",
+        "status": true
+    },
+    {
+        "warhouse": "WH003",
+        "id_wh": 3,
+        "id_ekspedisi": 7,
+        "ekspedisi": "sap",
+        "origin_code": "KN1408",
+        "status": true
+    },
+    {
+        "warhouse": "WH003",
+        "id_wh": 3,
+        "id_ekspedisi": 8,
+        "ekspedisi": "sicepat",
+        "origin_code": "MES",
+        "status": true
+    },
+    {
+        "warhouse": "WH003",
+        "id_wh": 3,
+        "id_ekspedisi": 9,
+        "ekspedisi": "klink_express",
+        "origin_code": "WH003",
+        "status": true
+    },
+    {
+        "warhouse": "WH006",
+        "id_wh": 5,
+        "id_ekspedisi": 1,
+        "ekspedisi": "jnt",
+        "origin_code": "SENTANI",
+        "status": true
+    },
+    {
+        "warhouse": "WH006",
+        "id_wh": 5,
+        "id_ekspedisi": 2,
+        "ekspedisi": "jne",
+        "origin_code": "DJJ10000",
+        "status": true
+    },
+    {
+        "warhouse": "WH006",
+        "id_wh": 5,
+        "id_ekspedisi": 3,
+        "ekspedisi": "pos",
+        "origin_code": null,
+        "status": true
+    },
+    {
+        "warhouse": "WH006",
+        "id_wh": 5,
+        "id_ekspedisi": 5,
+        "ekspedisi": "rpx",
+        "origin_code": "99359",
+        "status": true
+    },
+    {
+        "warhouse": "WH006",
+        "id_wh": 5,
+        "id_ekspedisi": 7,
+        "ekspedisi": "sap",
+        "origin_code": "PA0220",
+        "status": true
+    },
+    {
+        "warhouse": "WH006",
+        "id_wh": 5,
+        "id_ekspedisi": 9,
+        "ekspedisi": "klink_express",
+        "origin_code": "WH006",
+        "status": true
+    },
+    {
+        "warhouse": "WH11",
+        "id_wh": 6,
+        "id_ekspedisi": 1,
+        "ekspedisi": "jnt",
+        "origin_code": "MAKASSAR",
+        "status": true
+    },
+    {
+        "warhouse": "WH11",
+        "id_wh": 6,
+        "id_ekspedisi": 2,
+        "ekspedisi": "jne",
+        "origin_code": "UPG10000",
+        "status": true
+    },
+    {
+        "warhouse": "WH11",
+        "id_wh": 6,
+        "id_ekspedisi": 3,
+        "ekspedisi": "pos",
+        "origin_code": null,
+        "status": true
+    },
+    {
+        "warhouse": "WH11",
+        "id_wh": 6,
+        "id_ekspedisi": 5,
+        "ekspedisi": "rpx",
+        "origin_code": "90244",
+        "status": true
+    },
+    {
+        "warhouse": "WH11",
+        "id_wh": 6,
+        "id_ekspedisi": 6,
+        "ekspedisi": "gosend",
+        "origin_code": "-5.088987299999999,119.4768213",
+        "status": true
+    },
+    {
+        "warhouse": "WH11",
+        "id_wh": 6,
+        "id_ekspedisi": 7,
+        "ekspedisi": "sap",
+        "origin_code": "SN1110",
+        "status": true
+    },
+    {
+        "warhouse": "WH11",
+        "id_wh": 6,
+        "id_ekspedisi": 8,
+        "ekspedisi": "sicepat",
+        "origin_code": "UPG",
+        "status": true
+    },
+    {
+        "warhouse": "WH11",
+        "id_wh": 6,
+        "id_ekspedisi": 9,
+        "ekspedisi": "klink_express",
+        "origin_code": "WH11",
+        "status": true
+    },
+    {
+        "warhouse": "WH005",
+        "id_wh": 8,
+        "id_ekspedisi": 1,
+        "ekspedisi": "jnt",
+        "origin_code": "SURABAYA",
+        "status": true
+    },
+    {
+        "warhouse": "WH005",
+        "id_wh": 8,
+        "id_ekspedisi": 2,
+        "ekspedisi": "jne",
+        "origin_code": "SUB10000",
+        "status": true
+    },
+    {
+        "warhouse": "WH005",
+        "id_wh": 8,
+        "id_ekspedisi": 3,
+        "ekspedisi": "pos",
+        "origin_code":null,
+        "status": true
+    },
+    {
+        "warhouse": "WH005",
+        "id_wh": 8,
+        "id_ekspedisi": 5,
+        "ekspedisi": "rpx",
+        "origin_code": "60237",
+        "status": true
+    },
+    {
+        "warhouse": "WH005",
+        "id_wh": 8,
+        "id_ekspedisi": 6,
+        "ekspedisi": "gosend",
+        "origin_code": "-7.3242358,112.7387149",
+        "status": true
+    },
+    {
+        "warhouse": "WH005",
+        "id_wh": 8,
+        "id_ekspedisi": 7,
+        "ekspedisi": "sap",
+        "origin_code":"JI2826",
+        "status": true
+    },
+    {
+        "warhouse": "WH005",
+        "id_wh": 8,
+        "id_ekspedisi": 8,
+        "ekspedisi": "sicepat",
+        "origin_code": "SUB",
+        "status": true
+    },
+    {
+        "warhouse": "WH005",
+        "id_wh": 8,
+        "id_ekspedisi": 9,
+        "ekspedisi": "klink_express",
+        "origin_code": "WH005",
+        "status": true
+    },
+    {
+        "warhouse": "WH004",
+        "id_wh": 17,
+        "id_ekspedisi": 1,
+        "ekspedisi": "jnt",
+        "origin_code" : "KUPANG",
+        "status": true
+    },
+    {
+        "warhouse": "WH004",
+        "id_wh": 17,
+        "id_ekspedisi": 2,
+        "ekspedisi": "jne",
+        "origin_code": "KOE10000",
+        "status": true
+    },
+    {
+        "warhouse": "WH004",
+        "id_wh": 17,
+        "id_ekspedisi": 3,
+        "ekspedisi": "pos",
+        "origin_code": null,
+        "status": true
+    },
+    {
+        "warhouse": "WH004",
+        "id_wh": 17,
+        "id_ekspedisi": 5,
+        "ekspedisi": "rpx",
+        "origin_code": 85111,
+        "status": true
+    },
+    {
+        "warhouse": "WH004",
+        "id_wh": 17,
+        "id_ekspedisi": 6,
+        "ekspedisi": "gosend",
+        "origin_code": "-10.1755139,123.619853",
+        "status": true
+    },
+    {
+        "warhouse": "WH004",
+        "id_wh": 17,
+        "id_ekspedisi": 7,
+        "ekspedisi": "sap",
+        "origin_code": "NT0622",
+        "status": true
+    },
+    {
+        "warhouse": "WH004",
+        "id_wh": 17,
+        "id_ekspedisi": 8,
+        "ekspedisi": "sicepat",
+        "status": true
+    },
+    {
+        "warhouse": "WH004",
+        "id_wh": 17,
+        "id_ekspedisi": 9,
+        "ekspedisi": "klink_express",
+        "origin_code": "WH004",
+        "status": true
+    },
+    {
+        "warhouse": "WH12",
+        "id_wh": 18,
+        "id_ekspedisi": 1,
+        "ekspedisi": "jnt",
+        "status": true
+    },
+    {
+        "warhouse": "WH12",
+        "id_wh": 18,
+        "id_ekspedisi": 2,
+        "ekspedisi": "jne",
+        "origin_code": "SORONG",
+        "status": true
+    },
+    {
+        "warhouse": "WH12",
+        "id_wh": 18,
+        "id_ekspedisi": 3,
+        "ekspedisi": "pos",
+        "origin_code": null,
+        "status": true
+    },
+    {
+        "warhouse": "WH12",
+        "id_wh": 18,
+        "id_ekspedisi": 5,
+        "ekspedisi": "rpx",
+        "origin_code": "98415",
+        "status": true
+    },
+    {
+        "warhouse": "WH12",
+        "id_wh": 18,
+        "id_ekspedisi": 6,
+        "ekspedisi": "gosend",
+        "origin_code": "-0.8792298,131.2619781",
+        "status": true
+    },
+    {
+        "warhouse": "WH12",
+        "id_wh": 18,
+        "id_ekspedisi": 7,
+        "ekspedisi": "sap",
+        "origin_code": "PB0617",
+        "status": true
+    },
+    {
+        "warhouse": "WH12",
+        "id_wh": 18,
+        "id_ekspedisi": 8,
+        "ekspedisi": "sicepat",
+        "origin_code": null,
+        "status": true
+    },
+    {
+        "warhouse": "WH12",
+        "id_wh": 18,
+        "id_ekspedisi": 9,
+        "ekspedisi": "klink_express",
+        "origin_code": "WH12",
+        "status": true
+    }
+]
